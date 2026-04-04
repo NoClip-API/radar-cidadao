@@ -57,22 +57,22 @@ O foco principal é auxiliar eleitores, jornalistas e educadores a avaliar o des
 | Rank | Prioridade       | User Story                                                                                                                        | Estimativa | Sprint |
 |------|------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta (Meta)      | Como eleitor, quero ver os dados dos deputados a partir dos dados da Câmara para saber como o deputado está.                      | 5          | 1      |
-| 2    | Alta (Meta)      | Como jornalista, quero visualizar gráficos exploratórios iniciais para identificar tendências de desempenho.                      | 5          | 1      |
-| 3    | Alta (Meta)      | Como eleitor, quero uma lista com as fotos dos deputados como principal meio de busca para facilitar a minha vida.                | 5          | 2      |
+| 2    | Alta (Meta)      | Como jornalista, quero visualizar gráficos exploratórios iniciais para identificar tendências de desempenho.                      | 3          | 1      |
+| 3    | Alta (Meta)      | Como eleitor, quero uma lista com as fotos dos deputados como principal meio de busca para facilitar a minha vida.                | 8          | 2      |
 | 4    | Alta (Meta)      | Como eleitor, quero uma síntese objetiva da participação em votações para decidir sobre a reeleição de um deputado.               | 5          | 2      |
-| 5    | Alta             | Como eleitor, quero filtrar deputados por estado ou partido para localizar candidatos da minha região.                            | 5          | 2      |
-| 6    | Média            | Como jornalista, quero comparar a média de gastos de um deputado com a média estadual para contextualizar as despesas.            | 5          | 2      |
-| 7    | Alta (Meta)      | Como professora, quero acessar dados neutros e organizados para ensinar cidadania baseada em fatos.                               | 5          | 3      |
+| 5    | Alta             | Como eleitor, quero filtrar deputados por estado ou partido para localizar candidatos da minha região.                            | 3          | 2      |
+| 6    | Média            | Como jornalista, quero comparar a média de gastos de um deputado com a média estadual para contextualizar as despesas.            | 8          | 2      |
+| 7    | Alta (Meta)      | Como professora, quero acessar dados neutros e organizados para ensinar cidadania baseada em fatos.                               | 2          | 3      |
 
 | Rank | Prioridade       | Tarefa                                                                                                                            | Estimativa | Sprint |
 |------|------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta (Meta)      | Como analista, quero realizar a limpeza e tratamento dos dados no Google Colab para assegurar a neutralidade da análise.          | 5          | 1      |
-| 2    | Alta (Meta)      | Design: Criar o esboço inicial (wireframe) do site em Flask, mesmo que sem dados dinâmicos ainda.                                 | 5          | 1      |
-| 3    | Alta (Meta)      | Arquitetura: Configurar as rotas do Flask para realizar requisições diretas à API sem persistência em banco local.                | 5          | 1      |
-| 4    | Alta (Meta)      | Redigir a explicação metodológica detalhando como os indicadores foram calculados.                                                | 5          | 1      |
-| 5    | Alta             | Organizar o repositório no GitHub com README, scripts de análise e instruções de execução.                                        | 5          | 1      |
-| 6    | Baixa            | Design: Refinar a tipografia e iconografia para tornar a leitura técnica mais acessível ao público leigo.                         | 5          | 1      |
-| 7    | Média            | Preparar a apresentação final respondendo aos aprendizados e limitações do projeto.                                               | 5          | 1      |
+| 1    | Alta (Meta)      | Como analista, quero realizar a limpeza e tratamento dos dados no Google Colab para assegurar a neutralidade da análise.          | 8          | 1      |
+| 2    | Alta (Meta)      | Design: Criar o esboço inicial (wireframe) do site em Flask, mesmo que sem dados dinâmicos ainda.                                 | 3          | 1      |
+| 3    | Alta (Meta)      | Arquitetura: Configurar as rotas do Flask para realizar requisições diretas à API sem persistência em banco local.                | 8          | 2      |
+| 4    | Alta (Meta)      | Redigir a explicação metodológica detalhando como os indicadores foram calculados.                                                | 3          | 3      |
+| 5    | Alta             | Organizar o repositório no GitHub com README, scripts de análise e instruções de execução.                                        | 3          | 3      |
+| 6    | Baixa            | Design: Refinar a tipografia e iconografia para tornar a leitura técnica mais acessível ao público leigo.                         | 3          | 3      |
+| 7    | Média            | Preparar a apresentação final respondendo aos aprendizados e limitações do projeto.                                               | 5          | 3      |
 
 ---
 
