@@ -1,13 +1,14 @@
 # **Projeto: Radar Cidadão**
 
 ## **Índice**
-* [Projeto API](#projeto-api)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Equipe](#equipe)
-* [Backlog do Produto](#product-backlog)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Registro das Sprints](#registro-das-sprints)
+- [**Projeto: Radar Cidadão**](#projeto-radar-cidadão)
+  - [**Índice**](#índice)
+  - [Projeto (API)](#projeto-api)
+- [**Objetivo do Projeto**](#objetivo-do-projeto)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [**Equipe**](#equipe)
+- [**Product Backlog**](#product-backlog)
+- [**Registro das Sprints**](#registro-das-sprints)
 
 ---
 
@@ -32,7 +33,7 @@ O foco principal é auxiliar eleitores, jornalistas e educadores a avaliar o des
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 * ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (Colab)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -45,7 +46,7 @@ O foco principal é auxiliar eleitores, jornalistas e educadores a avaliar o des
 |   Dev             |   Gabriel        |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
 |   Dev             |   Maurício       |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
 |   Dev             |   Nikson         |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
-|   Dev             |   Pedro          |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
+|   Dev             |   Pedro Rodrigues          |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/pedro-rodrigues-aa7001274) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroprdgs)|
 |   Dev             |   Rafael         |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
 |   Dev             |   Vini           |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
 

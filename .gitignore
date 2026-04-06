@@ -1,0 +1,35 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Variáveis de ambiente
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log
+*.log
+
+# VSCode
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Flask
+instance/
+.webassets-cache
+
+# Test / coverage
+.coverage
+htmlcov/
