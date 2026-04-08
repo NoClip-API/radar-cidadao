@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background: linear-gradient(135deg, #0047ab 0%, #002d6b 100%);
+    color: #288eb6;
+    padding: 32px 5%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.topo-pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.topo-pagina-subtexto {
+    margin: 16px;
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 30px;
+    justify-content: center;
+    align-content: center;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 56px;
+    color: cyan;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 5px;
+    white-space: nowrap;
+    text-transform: uppercase;
+}
+
+h1,
+h2 {
+    color: #333;
+}
+
+nav {
+    margin-top: 16px;
+    height: 4px;
+    background: #00d4ff;
+    border-radius: 2px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+}
+
+.container-card {
+    top: 0;
+    position: sticky;
+    background: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    display: grid;
+    grid-template-rows: auto auto;
+    height: fit-content;
+}
+
+.container-dados {
+    background: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    display: grid;
+    grid-template-rows: auto auto;
+}
+
+.container-title {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: auto;
+        grid-template-rows: auto auto;
+    }
+}
