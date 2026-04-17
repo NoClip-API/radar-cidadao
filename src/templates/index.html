@@ -1,4 +1,6 @@
-{% set ufs = ["AC","AL","AM","AP","BA","CE","DF","ES","GO","MA","MG","MS","MT","PA","PB","PE","PI","PR","RJ","RN","RO","RR","RS","SC","SE","SP","TO"] | sort %}
+{% set ufs =
+["AC","AL","AM","AP","BA","CE","DF","ES","GO","MA","MG","MS","MT","PA","PB","PE","PI","PR","RJ","RN","RO","RR","RS","SC","SE","SP","TO"]
+| sort %}
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -10,7 +12,8 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/base/global.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
@@ -25,7 +28,7 @@
     </header>
 
     <main>
-        <form method="post" id="filtro">
+        <form method="get" id="filtro"> <!--Transfomei para get, pois estava entrando em conflito post e get-->
             <div class="filtros-area">
                 <div class="entrada-dados">
                     <label>Nome:</label>
@@ -36,7 +39,7 @@
                     <select name="siglaUf">
                         <option selected disabled>--</option>
                         {% for uf in ufs %}
-                            <option value ="{{ uf }}" {% if estado == uf %}selected{% endif %}>{{ uf }}</option>
+                        <option value="{{ uf }}" {% if estado==uf %}selected{% endif %}>{{ uf }}</option>
                         {% endfor %}
                     </select>
                 </div>
@@ -54,48 +57,45 @@
         <section class="base-dep">
             <div class="grade-dep">
                 {% for deputado in deputados %}
-                    <div class="cartao-dep">
-                        <a href="/deputado/{{ deputado['id'] }}"> <img src="{{ deputado['urlFoto'] }}" alt="Nikolas Ferreira">
-                            <h3>{{ deputado['nome'] }}</h3>
-                            <p>{{ deputado['siglaPartido'] }} - {{ deputado['siglaUf'] }}</p>
-                        </a>
-                    </div>
+                <div class="cartao-dep">
+                    <a href="/deputado/{{ deputado['id'] }}"> <img src="{{ deputado['urlFoto'] }}"
+                            alt="Nikolas Ferreira">
+                        <h3>{{ deputado['nome'] }}</h3>
+                        <p>{{ deputado['siglaPartido'] }} - {{ deputado['siglaUf'] }}</p>
+                    </a>
+                </div>
 
-                    {% if loop.index % 6 == 0 and not loop.last %} <!-- Abre uma nova grade quando já foram 4 deputados -->
-                        </div>
-                    </section>
+                {% if loop.index % 6 == 0 and not loop.last %} <!-- Abre uma nova grade quando já foram 4 deputados -->
+            </div>
+        </section>
 
-                    <section class="base-dep">
-                        <div class="grade-dep">
-                    {% endif %}
+        <section class="base-dep">
+            <div class="grade-dep">
+                {% endif %}
 
                 {% endfor %}
             </div>
         </section>
-        <div class="paginacao">
+        <div class="paginacao"> <!-- utilizando a função url_for não precisa ficar fazendo if para cada coisa :) -->
+
             {% if page > 1 %}
-                <a href="?page={{ page - 1 }}
-                    {% if nome %}&nome={{ nome }}{% endif %}
-                    {% if estado %}&siglaUf={{ estado }}{% endif %}
-                    {% if partido %}&siglaPartido={{ partido }}{% endif %}
-                ">
+            <a href="{{ url_for('home', page=page-1, nome=nome, siglaUf=estado, siglaPartido=partido) }}">
+                Anterior
+            </a>
             {% endif %}
 
             {% for p in range(1, total_pages + 1) %}
-                <a href="?page={{ p }}
-                    {% if nome %}&nome={{ nome }}{% endif %}
-                    {% if estado %}&siglaUf={{ estado }}{% endif %}
-                    {% if partido %}&siglaPartido={{ partido }}{% endif %}
-                ">
+            <a href="{{ url_for('home', page=p, nome=nome, siglaUf=estado, siglaPartido=partido) }}">
+                {{ p }}
+            </a>
             {% endfor %}
 
-            {% if page < total_pages %}
-                <a href="?page={{ page + 1 }}
-                    {% if nome %}&nome={{ nome }}{% endif %}
-                    {% if estado %}&siglaUf={{ estado }}{% endif %}
-                    {% if partido %}&siglaPartido={{ partido }}{% endif %}
-                ">
-            {% endif %}
+            {% if page < total_pages %} <a
+                href="{{ url_for('home', page=page+1, nome=nome, siglaUf=estado, siglaPartido=partido) }}">
+                Próxima
+                </a>
+                {% endif %}
+
         </div>
     </main>
 
@@ -135,4 +135,5 @@
         </div>
     </footer>
 </body>
+
 </html>
