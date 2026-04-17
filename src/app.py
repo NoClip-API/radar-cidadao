@@ -3,36 +3,28 @@ from utils.request_functions import *
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/')
 def home():
     res = get_deputados()
-    if res['success'] and res['data'] and not res['error']:
-        deputados = res['data']
-    else:
-        deputados = []
 
-    nome = None
-    estado = None
-    partido = None
+    deputados = res['data'] if res['success'] and res['data'] else []
 
-    if request.method == 'POST':
-        nome = request.form.get('nome') or None
-        estado = request.form.get('siglaUf') or None
-        partido = request.form.get('siglaPartido') or None
+    nome = request.args.get('nome')
+    estado = request.args.get('siglaUf')
+    partido = request.args.get('siglaPartido')
+    page = request.args.get('page', 1, type=int)
 
-        if nome or estado or partido:
-            deputados = [
-                d for d in deputados
-                if (not nome or nome.lower() in d['nome'].lower())
-                and (not estado or d['siglaUf'] == estado)
-                and (not partido or d['siglaPartido'] == partido)
-            ]
+    if nome or estado or partido:
+        deputados = [
+            d for d in deputados
+            if (not nome or nome.lower() in d['nome'].lower())
+            and (not estado or d['siglaUf'] == estado)
+            and (not partido or d['siglaPartido'] == partido)
+        ]
 
-    page = request.form.get('page', 1, type=int)
     per_page = 24
-
-    inicio = (page - 1) * per_page # Calculo do inicio dos deputados que serão exibidos
-    fim = inicio + per_page # Calculo do fim dos deputados que serão exibidos
+    inicio = (page - 1) * per_page
+    fim = inicio + per_page
 
     total = len(deputados)
     total_pages = (total + per_page - 1) // per_page
@@ -47,8 +39,7 @@ def home():
         nome=nome,
         estado=estado,
         partido=partido
-        )
-
+)
 @app.route('/graficos')
 def graficos():
     return render_template('graficos.html')
