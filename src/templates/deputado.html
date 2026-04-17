@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deputado</title>
-    <link rel="stylesheet" href="../Style/style_deputado.css">
+    <title>Deputado - {{ deputado['nome'] }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/deputado.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap"
@@ -19,35 +19,33 @@
         </div>
         <nav></nav>
         <div class="topo-pagina-subtexto">
-            <a href="../index.html">Home</a>
-            <a href="graficos.html">Gráficos</a>
+            <a href="/">Home</a>
+            <a href="/graficos">Gráficos</a>
         </div>
     </header>
     <section>
         <div class="container">
             <div class="container-card">
                 <div class="container-foto">
-                    <img src="../img/deputados/nikolasferreira.jpg" alt="">
+                    <img src="{{ deputado['ultimoStatus']['urlFoto'] }}" alt="Foto de {{ deputado['ultimoStatus']['nome'] }}">
                 </div>
                 <div class="container-title">
-                    <h1>Nikolas Ferreira</h1>
+                    <h1>{{ deputado['ultimoStatus']['nome'] }}</h1>
                 </div>
             </div>
             <div class="container-dados">
                 <div class="container-dados">
                     <h1>Unidade Federativa</h1>
-                    <h2>MG</h2>
+                    <h2>{{ deputado['ultimoStatus']['siglaUf'] }}</h2>
                 </div>
                 <div class="container-dados">
                     <h1>Sigla do partido</h1>
-                    <h2>PL</h2>
+                    <h2>{{ deputado['ultimoStatus']['siglaPartido'] }}</h2>
                 </div>
-                <div class="container"><img src="../img/graficos/nikolas_ferreira_gastos.png" alt=""></div>
+                <div class="container"><img src="../img/graficos/nikolas_ferreira_gastos.png" alt=""></div> <!-- Temos que pegar pra ver melhor como fazer os gráficos individuais depóis -->
                 <div class="container"><img src="../img/graficos/nikolas_ferreira_presenca.png" alt=""></div>
-
             </div>
         </div>
     </section>
 </body>
-
 </html>
