@@ -1,0 +1,138 @@
+{% set ufs = ["AC","AL","AM","AP","BA","CE","DF","ES","GO","MA","MG","MS","MT","PA","PB","PE","PI","PR","RJ","RN","RO","RR","RS","SC","SE","SP","TO"] | sort %}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radar Cidadão</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base/global.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="topo-pagina">
+            <h1>Radar Cidadão</h1>
+        </div>
+        <nav></nav>
+        <div class="topo-pagina-subtexto">
+            <a href="/graficos">Gráficos</a>
+        </div>
+    </header>
+
+    <main>
+        <form method="post" id="filtro">
+            <div class="filtros-area">
+                <div class="entrada-dados">
+                    <label>Nome:</label>
+                    <input type="text" name="nome" placeholder="Nome do Deputado" value="{{ nome or '' }}">
+                </div>
+                <div class="entrada-dados">
+                    <label>Estado:</label>
+                    <select name="siglaUf">
+                        <option selected disabled>--</option>
+                        {% for uf in ufs %}
+                            <option value ="{{ uf }}" {% if estado == uf %}selected{% endif %}>{{ uf }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="entrada-dados">
+                    <label>Partido:</label>
+                    <select name="siglaPartido">
+                        <option selected disabled>--</option>
+                        <option>Partido A</option>
+                        <option>Partido B</option>
+                    </select>
+                </div>
+                <button type="submit">Filtrar</button>
+            </div>
+        </form>
+        <section class="base-dep">
+            <div class="grade-dep">
+                {% for deputado in deputados %}
+                    <div class="cartao-dep">
+                        <a href="/deputado/{{ deputado['id'] }}"> <img src="{{ deputado['urlFoto'] }}" alt="Nikolas Ferreira">
+                            <h3>{{ deputado['nome'] }}</h3>
+                            <p>{{ deputado['siglaPartido'] }} - {{ deputado['siglaUf'] }}</p>
+                        </a>
+                    </div>
+
+                    {% if loop.index % 6 == 0 and not loop.last %} <!-- Abre uma nova grade quando já foram 4 deputados -->
+                        </div>
+                    </section>
+
+                    <section class="base-dep">
+                        <div class="grade-dep">
+                    {% endif %}
+
+                {% endfor %}
+            </div>
+        </section>
+        <div class="paginacao">
+            {% if page > 1 %}
+                <a href="?page={{ page - 1 }}
+                    {% if nome %}&nome={{ nome }}{% endif %}
+                    {% if estado %}&siglaUf={{ estado }}{% endif %}
+                    {% if partido %}&siglaPartido={{ partido }}{% endif %}
+                ">
+            {% endif %}
+
+            {% for p in range(1, total_pages + 1) %}
+                <a href="?page={{ p }}
+                    {% if nome %}&nome={{ nome }}{% endif %}
+                    {% if estado %}&siglaUf={{ estado }}{% endif %}
+                    {% if partido %}&siglaPartido={{ partido }}{% endif %}
+                ">
+            {% endfor %}
+
+            {% if page < total_pages %}
+                <a href="?page={{ page + 1 }}
+                    {% if nome %}&nome={{ nome }}{% endif %}
+                    {% if estado %}&siglaUf={{ estado }}{% endif %}
+                    {% if partido %}&siglaPartido={{ partido }}{% endif %}
+                ">
+            {% endif %}
+        </div>
+    </main>
+
+    <section class="textinho"> <!-- Sinceramente, não coloca nome assim pras classe man 😭 -->
+        <h1>Sobre</h1>
+        <p style="margin-bottom: 80px; font-size: 19px; font-family: Roboto Slab, serif;">
+            O projeto "Radar Cidadão" tem como finalidade disponibilizar e facilitar o acesso à dados públicos de
+            deputados federais, em condição de reecandidatura. Por meio dessa aplicação, buscamos viabilizar para
+            eleitores e diferentes personas a oportunidade de acompanhar a situação e informações públicas
+            importantes de diferentes deputados federais, incentivando o voto consciente. O site oferece os dados de
+            deputados, partidos e seus respectivos estados por meio de ferramentas de pesquisa e gráficos com
+            informações importantes para o conhecimento de cidadãos no ano eleitoral de 2026.
+        </p>
+    </section>
+
+    <footer>
+        <!-- Gente, no footer não coloca os devs, coloca redes, sites uteis, coisas assim guys, a gente pode até colocar o github da nossa api, mas colocar nossos nomes não tem nada a ver -->
+        <div>
+            <h2>DevTeam</h2>
+            <ul>
+                <li>Daniel, Gabriel, Maurício</li>
+                <li>Rafael, Pedro</li>
+                <li>Vinícius, Nikson</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Project Owner</h2>
+            <ul>
+                <li>Vitor Assis</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Scrum Master</h2>
+            <ul>
+                <li>Matheus</li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>

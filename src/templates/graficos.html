@@ -6,10 +6,8 @@
     <title>Análise de Dados Políticos</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="../Style/style_graficos.css">
-
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/graficos.css') }}">
 </head>
 
 <body>
@@ -17,9 +15,11 @@
         <div class="topo-pagina">
             <h1>Radar Cidadão</h1>
         </div>
-        <nav></nav>
+        <nav>
+            <!-- Se tiver nav, deixa. Se não, tira. -->
+        </nav>
         <div class="topo-pagina-subtexto">
-            <a href="../index.html">Home</a>
+            <a href="/">Home</a>
         </div>
     </header>
 
@@ -28,7 +28,7 @@
             <h2>Gastos por deputado</h2>
         </div>
 
-        <img src="../img/graficos/geral_gasto_por_deputado.png"" alt=" Gráfico por candidatos">
+        <img src="{{ url_for('static', filename='images/graficos/geral_gasto_por_deputado.png') }}" alt="Gráfico por candidatos">
 
         <p>
             O gráfico mostra os gastos dos deputados no mandato atual. Quanto maior, mais gastos.
@@ -42,7 +42,7 @@
         </div>
 
 
-        <img src="../img/graficos/geral_deputados_por_estado.png" alt="Gráfico por partido">
+        <img src="{{ url_for('static', filename='images/graficos/geral_deputados_por_estado.png') }}" alt="Gráfico por partido">
 
         <p>
             O gráfico mostra quantos deputados na câmara tem cada estado. Quanto maior, mais deputados.
@@ -56,13 +56,11 @@
         </div>
 
 
-        <img src="../img/graficos/geral_deputados_por_partido.png" alt="Gráfico por estado">
+        <img src="{{ url_for('static', filename='images/graficos/geral_deputados_por_partido.png') }}" alt="Gráfico por estado">
 
         <p>
-            O gráfico mostra quantos deputados na câmara tem cada partido. Quanto maior, mais gastos.
+            O gráfico mostra quantos deputados na câmara tem cada partido. Quanto maior, mais deputados.
         </p>
     </div>
-
 </body>
-
 </html>
