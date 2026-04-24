@@ -66,7 +66,7 @@ header h1 {
 
 nav {
     margin-top: 16px;
-    height: 4px;    
+    height: 4px;
     background: #00d4ff;
     border-radius: 2px;
 }
@@ -88,20 +88,89 @@ nav {
 }
 
 .cartao-dep {
-    background: #288eb6;
+    background: #ffffff;
     flex: 0 1 200px;
     padding: 20px 10px;
     border-radius: 18px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     transition: transform 0.2s;
+    border-color: #0047ab;
+    border: 5%;
+    border-style: solid;    
+    border-width: medium;
+
+
 }
+
+.atual {
+    text-align: center;
+    color: #ffffff;
+    background-color: #0047ab;
+    border-color: #0047ab;
+    border: 5%;
+    border-style: solid;
+    border-width: medium;
+    border-radius: 20%;
+    display: flex;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.lado {
+    text-align: center;
+    color: #ffffff;
+    background-color: #0047ab;
+    border-color: #0047ab;
+    border: 5%;
+    border-style: solid;
+    border-width: medium;
+    border-radius: 5px;
+    display: flex;
+    width: 70px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.paginacao>a:hover {
+    background-color: #0047ab;
+    transform: scale(1.15,1.15);
+    color: white;
+}
+
+.paginacao {
+    gap: 8px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    transition: transform 0.3s ease;
+
+}
+
+.paginacao .atual:active {
+    background-color: #0047ab;
+    ;
+    color: white;
+}
+
+
 
 .cartao-dep:hover {
     transform: translateY(-5px);
 }
 
 .cartao-dep img {
+
     width: 100px;
     height: 135px;
     display: block;
@@ -110,23 +179,41 @@ nav {
     image-rendering: -webkit-optimize-contrast;
     image-rendering: high-quality;
     border-radius: 8px;
-    background-color: #ccc;
+    background-color: #ffffff;
+
+}
+
+.cartao-blur {
+    width: 298px;
+    height: 154px;
+    background: linear-gradient(180deg, rgba(39, 76, 119, 0) 0%,  #0047ab 100%);
+    z-index: 5;
+}
+
+.cartao-base {
+    width: 298px;
+    height: 69px;
+    z-index: 5;
+    background:  #0047ab;
+    border-radius: 0px 0px 18px 18px;
 }
 
 .cartao-dep h3 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 20px;
-    color: #000;
+    color:  #0047ab;
     letter-spacing: 4px;
     margin-bottom: 5px;
     font-weight: bold;
     letter-spacing: 1px;
+    z-index: 10;
 }
 
 .cartao-dep p {
     font-size: 13px;
     color: #000;
     font-weight: 800;
+    z-index: 10;
 }
 
 #Filtro {
@@ -158,8 +245,9 @@ label {
     color: rgb(0, 0, 0);
 }
 
-input, select {
-    border: 2px #000 solid;
+input,
+select {
+    border: 2px  #0047ab solid;
     padding: 12px;
     border-radius: 8px;
     font-size: 16px;
