@@ -1,6 +1,6 @@
 import requests
 
-api_url = "https://dadosabertos.camara.leg.br/api/v2/deputados"
+api_url = "https://dadosabertos.camara.leg.br/api/v2"
 
 def response_success(data):
   return {
