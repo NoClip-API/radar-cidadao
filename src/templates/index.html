@@ -37,7 +37,7 @@
                 <div class="entrada-dados">
                     <label>Estado:</label>
                     <select name="siglaUf">
-                        <option selected disabled>--</option>
+                        <option value="" {% if not estado %}selected{% endif %}>--</option>
                         {% for uf in ufs %}
                         <option value="{{ uf }}" {% if estado==uf %}selected{% endif %}>{{ uf }}</option>
                         {% endfor %}
@@ -46,9 +46,10 @@
                 <div class="entrada-dados">
                     <label>Partido:</label>
                     <select name="siglaPartido">
-                        <option selected disabled>--</option>
-                        <option>Partido A</option>
-                        <option>Partido B</option>
+                        <option value="" {% if not partido %}selected{% endif %}>--</option>
+                        {% for p in partidos %}
+                        <option value="{{ p.sigla }}" {% if partido == p.sigla %}selected{% endif %}>{{ p.sigla }}</option>
+                        {% endfor %}
                     </select>
                 </div>
                 <button type="submit">Filtrar</button>

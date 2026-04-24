@@ -1,13 +1,16 @@
 from flask import Flask, render_template, request, redirect, url_for
 from utils.request_functions import *
+from utils.party_functions import get_partidos
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 
 @app.route('/')
 def home():
-    res = get_deputados()
+    res_deputados = get_deputados()
+    res_partidos = get_partidos()
 
-    deputados = res['data'] if res['success'] and res['data'] else []
+    deputados = res_deputados['data'] if res_deputados['success'] and res_deputados['data'] else []
+    partidos = res_partidos['data'] if res_partidos['success'] and res_partidos['data'] else []
 
     nome = request.args.get('nome')
     estado = request.args.get('siglaUf')
@@ -34,6 +37,7 @@ def home():
     return render_template(
         'index.html',
         deputados=cur_deputados,
+        partidos=partidos,
         page=page,
         total_pages=total_pages,
         nome=nome,
