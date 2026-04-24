@@ -53,7 +53,9 @@ def page_deputado(id_deputado):
     res = get_deputado_by_id(id_deputado)
     deputado = res['data'] if res['success'] else res['error']
 
-    return render_template('deputado.html', deputado=deputado)
+    votos = get_votos_por_deputado(id_deputado)
+
+    return render_template('deputado.html', deputado=deputado, votos=votos)
 
 if __name__ == '__main__':
     app.run(debug=True)
