@@ -103,24 +103,6 @@ nav {
 
 }
 
-.atual {
-    text-align: center;
-    color: #ffffff;
-    background-color: #0047ab;
-    border-color: #0047ab;
-    border: 5%;
-    border-style: solid;
-    border-width: medium;
-    border-radius: 20%;
-    display: flex;
-    width: 30px;
-    height: 30px;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-
-}
-
 .lado {
     text-align: center;
     color: #ffffff;
@@ -139,31 +121,43 @@ nav {
 
 }
 
-.paginacao>a:hover {
-    background-color: #0047ab;
-    transform: scale(1.15,1.15);
-    color: white;
-}
-
 .paginacao {
-    gap: 8px;
-    margin-top: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
-    list-style: none;
-    transition: transform 0.3s ease;
-
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 24px;
+    margin-bottom: 24px;
 }
 
-.paginacao .atual:active {
+.paginacao a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #0047ab;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.paginacao a:hover {
+    background-color: #e8eff9;
+}
+
+.paginacao a.atual {
     background-color: #0047ab;
-    ;
     color: white;
 }
 
-
+.paginacao a.pag-nav {
+    width: auto;
+    padding: 5px 12px;
+    border-radius: 20px;
+    border: 2px solid #ccd9f0;
+}
 
 .cartao-dep:hover {
     transform: translateY(-5px);
