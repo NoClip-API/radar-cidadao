@@ -48,7 +48,8 @@
                     <select name="siglaPartido">
                         <option value="" {% if not partido %}selected{% endif %}>--</option>
                         {% for p in partidos %}
-                        <option value="{{ p.sigla }}" {% if partido == p.sigla %}selected{% endif %}>{{ p.sigla }}</option>
+                        <option value="{{ p.sigla }}" {% if partido==p.sigla %}selected{% endif %}>{{ p.sigla }}
+                        </option>
                         {% endfor %}
                     </select>
                 </div>
@@ -80,18 +81,20 @@
         <div class="paginacao"> <!-- utilizando a função url_for não precisa ficar fazendo if para cada coisa :) -->
 
             {% if page > 1 %}
-            <a href="{{ url_for('home', page=page-1, nome=nome, siglaUf=estado, siglaPartido=partido) }}">
+            <a class="pag-nav"
+                href="{{ url_for('home', page=page-1, nome=nome, siglaUf=estado, siglaPartido=partido) }}">
                 Anterior
             </a>
             {% endif %}
 
             {% for p in range(1, total_pages + 1) %}
-            <a href="{{ url_for('home', page=p, nome=nome, siglaUf=estado, siglaPartido=partido) }}">
+            <a href="{{ url_for('home', page=p, nome=nome, siglaUf=estado, siglaPartido=partido) }}"
+                class="{% if p == page %}atual{% endif %}"> <!-- coloca class="atual" só no número que for igual a pagina que estamos-->
                 {{ p }}
             </a>
             {% endfor %}
 
-            {% if page < total_pages %} <a
+            {% if page < total_pages %} <a class="pag-nav"
                 href="{{ url_for('home', page=page+1, nome=nome, siglaUf=estado, siglaPartido=partido) }}">
                 Próxima
                 </a>
