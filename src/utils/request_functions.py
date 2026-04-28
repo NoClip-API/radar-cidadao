@@ -27,6 +27,11 @@ def get_eventos_by_deputado(deputadoId: int):
 
   return request_api(url, "Deputado inexistente ou sem histórico de eventos")
 
+def get_partidos():
+  url = f"{api_url}/partidos?itens=100&ordem=ASC&ordenarPor=sigla"
+  
+  return request_api(url, "Erro ao carregar os partidos")
+  
 def get_frentes_deputado(deputadoId: int):
   url = f"{api_url}/deputados/{deputadoId}/frentes"
 
