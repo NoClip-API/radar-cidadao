@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
 from utils.request_functions import *
+from utils.get_votos_deputado import get_votos_deputado
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 
@@ -52,7 +53,7 @@ def page_deputado(id_deputado):
     res = get_deputado_by_id(id_deputado)
     deputado = res['data'] if res['success'] else res['error']
 
-    votos = get_votos_por_deputado(id_deputado)
+    votos = get_votos_deputado(id_deputado)
 
     return render_template('deputado.html', deputado=deputado, votos=votos)
 

@@ -1,0 +1,266 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:58:52",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:24:35",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "dataHora": "2026-04-28T21:33:32",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:31:38",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:57:36",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
+            "dataHora": "2026-04-22T21:01:12",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:39:20",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "dataHora": "2026-04-22T20:45:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T17:48:14",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T17:29:29",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 268; Não: 99; Total: 367.",
+            "dataHora": "2026-04-07T17:39:44",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:24:36",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "dataHora": "2026-03-18T19:34:13",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T21:50:47",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
+            "dataHora": "2026-03-17T21:54:32",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:42:52",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "dataHora": "2026-03-17T21:44:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-16T18:35:54",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T17:48:01",
+            "deputado_": {
+                "id": 74079,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74079",
+                "nome": "José Priante",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+                "email": "dep.josepriante@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    }
+]

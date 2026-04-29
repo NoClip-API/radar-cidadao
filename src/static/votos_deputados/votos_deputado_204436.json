@@ -1,0 +1,112 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:56:02",
+            "deputado_": {
+                "id": 204436,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436",
+                "nome": "Isnaldo Bulhões Jr.",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "AL",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+                "email": "dep.isnaldobulhoesjr@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-24T17:56:08",
+            "deputado_": {
+                "id": 204436,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436",
+                "nome": "Isnaldo Bulhões Jr.",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "AL",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+                "email": "dep.isnaldobulhoesjr@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.",
+            "dataHora": "2026-03-24T18:05:22",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T17:36:19",
+            "deputado_": {
+                "id": 204436,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436",
+                "nome": "Isnaldo Bulhões Jr.",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "AL",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+                "email": "dep.isnaldobulhoesjr@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+            "dataHora": "2026-03-18T17:59:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T23:12:29",
+            "deputado_": {
+                "id": 204436,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436",
+                "nome": "Isnaldo Bulhões Jr.",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "AL",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+                "email": "dep.isnaldobulhoesjr@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 97; Não: 258; Abstenção: 3; Total: 358.",
+            "dataHora": "2026-03-17T23:19:44",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-16T18:49:24",
+            "deputado_": {
+                "id": 204436,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436",
+                "nome": "Isnaldo Bulhões Jr.",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "AL",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+                "email": "dep.isnaldobulhoesjr@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    }
+]

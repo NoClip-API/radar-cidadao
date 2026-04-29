@@ -1,0 +1,222 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-24T17:55:06",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.",
+            "dataHora": "2026-03-24T18:05:22",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:24:57",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "dataHora": "2026-03-18T19:34:13",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T17:22:58",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+            "dataHora": "2026-03-18T17:59:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T21:26:10",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "dataHora": "2026-03-18T21:38:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:27:58",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "dataHora": "2026-03-17T21:44:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:32:25",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T19:18:50",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
+            "dataHora": "2026-03-17T19:32:34",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-16T18:39:27",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T21:59:19",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368.",
+            "dataHora": "2026-03-11T22:06:25",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T17:51:23",
+            "deputado_": {
+                "id": 225730,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/225730",
+                "nome": "Enfermeira Ana Paula",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    }
+]

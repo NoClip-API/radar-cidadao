@@ -1,0 +1,46 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T21:37:59",
+            "deputado_": {
+                "id": 204449,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204449",
+                "nome": "Nelson Barbudo",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "MT",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204449.jpg",
+                "email": "dep.nelsonbarbudo@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T20:12:57",
+            "deputado_": {
+                "id": 204449,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204449",
+                "nome": "Nelson Barbudo",
+                "siglaPartido": "PODE",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+                "siglaUf": "MT",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204449.jpg",
+                "email": "dep.nelsonbarbudo@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "dataHora": "2026-04-15T20:19:50",
+            "aprovacao": 1
+        }
+    }
+]

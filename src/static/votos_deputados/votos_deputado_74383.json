@@ -1,0 +1,90 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Obstrução",
+            "dataRegistroVoto": "2026-03-17T23:13:40",
+            "deputado_": {
+                "id": 74383,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74383",
+                "nome": "Giacobo",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PR",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+                "email": "dep.giacobo@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 97; Não: 258; Abstenção: 3; Total: 358.",
+            "dataHora": "2026-03-17T23:19:44",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T21:32:40",
+            "deputado_": {
+                "id": 74383,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74383",
+                "nome": "Giacobo",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PR",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+                "email": "dep.giacobo@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "dataHora": "2026-03-17T21:44:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:37:19",
+            "deputado_": {
+                "id": 74383,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74383",
+                "nome": "Giacobo",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PR",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+                "email": "dep.giacobo@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T18:45:47",
+            "deputado_": {
+                "id": 74383,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74383",
+                "nome": "Giacobo",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PR",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+                "email": "dep.giacobo@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
+            "dataHora": "2026-03-11T18:51:21",
+            "aprovacao": 0
+        }
+    }
+]

@@ -1,0 +1,772 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-28T20:57:22",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:28:28",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "dataHora": "2026-04-28T21:33:32",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:29:42",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T22:14:46",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "dataHora": "2026-04-22T22:17:21",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T22:29:01",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "dataHora": "2026-04-22T22:37:34",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T20:59:03",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
+            "dataHora": "2026-04-22T21:01:12",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T21:23:08",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "dataHora": "2026-04-22T21:24:46",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-15T21:46:08",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-15T20:19:23",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "dataHora": "2026-04-15T20:19:50",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T19:19:34",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T17:53:18",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T15:23:33",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Parecer com o seguinte resultado: 28 votos \"Sim\", 23 votos \"Não\". Quórum de votação: 51 votos.",
+            "dataHora": "2026-04-08T15:23:33",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T15:15:18",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento de Retirada de Pauta. Resultado:  20 votos \"Sim\", 22 votos \"Não\". Quórum de votação: 42 votos.",
+            "dataHora": "2026-04-08T15:15:18",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-07T17:35:13",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 268; Não: 99; Total: 367.",
+            "dataHora": "2026-04-07T17:39:44",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T18:46:51",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366.",
+            "dataHora": "2026-04-07T18:52:43",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T16:40:31",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394.",
+            "dataHora": "2026-03-25T16:50:19",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-24T18:01:42",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.",
+            "dataHora": "2026-03-24T18:05:22",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T19:23:44",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "dataHora": "2026-03-18T19:34:13",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T21:46:21",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 232; Não: 151; Abstenção: 1; Total: 384.",
+            "dataHora": "2026-03-18T21:57:11",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T17:20:38",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+            "dataHora": "2026-03-18T17:59:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T19:53:31",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422.",
+            "dataHora": "2026-03-18T20:00:50",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T22:20:17",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.",
+            "dataHora": "2026-03-18T22:27:51",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T21:26:15",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "dataHora": "2026-03-18T21:38:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T12:34:01",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento de Retirada de Pauta. Resultado:  16 votos \"Sim\", 24 votos \"Não\". Quórum de votação: 40 votos.",
+            "dataHora": "2026-03-18T12:34:01",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T11:56:47",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento de Retirada de Pauta. Resultado:  19 votos \"Sim\", 21 votos \"Não\". Quórum de votação: 40 votos.",
+            "dataHora": "2026-03-18T11:56:47",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T23:16:44",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 97; Não: 258; Abstenção: 3; Total: 358.",
+            "dataHora": "2026-03-17T23:19:44",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:53:54",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
+            "dataHora": "2026-03-17T21:54:32",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T21:36:18",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "dataHora": "2026-03-17T21:44:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T21:18:33",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
+            "dataHora": "2026-03-17T21:26:08",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:35:46",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T19:16:36",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
+            "dataHora": "2026-03-17T19:32:34",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-16T18:37:01",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T21:59:26",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368.",
+            "dataHora": "2026-03-11T22:06:25",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T18:44:28",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
+            "dataHora": "2026-03-11T18:51:21",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T17:51:25",
+            "deputado_": {
+                "id": 220559,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220559",
+                "nome": "Julia Zanatta",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+                "email": "dep.juliazanatta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    }
+]

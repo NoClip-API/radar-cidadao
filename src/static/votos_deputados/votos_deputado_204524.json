@@ -1,0 +1,112 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:19:25",
+            "deputado_": {
+                "id": 204524,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204524",
+                "nome": "Pinheirinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
+                "email": "dep.pinheirinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T17:59:59",
+            "deputado_": {
+                "id": 204524,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204524",
+                "nome": "Pinheirinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
+                "email": "dep.pinheirinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T17:51:54",
+            "deputado_": {
+                "id": 204524,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204524",
+                "nome": "Pinheirinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
+                "email": "dep.pinheirinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+            "dataHora": "2026-03-18T17:59:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T22:20:13",
+            "deputado_": {
+                "id": 204524,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204524",
+                "nome": "Pinheirinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
+                "email": "dep.pinheirinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.",
+            "dataHora": "2026-03-18T22:27:51",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:34:29",
+            "deputado_": {
+                "id": 204524,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204524",
+                "nome": "Pinheirinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
+                "email": "dep.pinheirinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    }
+]
