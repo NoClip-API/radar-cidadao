@@ -1,0 +1,310 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:55:00",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:22:30",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "dataHora": "2026-04-28T21:33:32",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-28T20:31:52",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:12:46",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "dataHora": "2026-04-22T22:17:21",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:58:29",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
+            "dataHora": "2026-04-22T21:01:12",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T21:18:54",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "dataHora": "2026-04-22T21:24:46",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:37:11",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "dataHora": "2026-04-22T20:45:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T19:18:33",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "dataHora": "2026-04-22T19:25:42",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T21:40:09",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T20:25:04",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 22; Total: 327.",
+            "dataHora": "2026-04-15T20:25:29",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:51:03",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T17:49:14",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T17:28:29",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 268; Não: 99; Total: 367.",
+            "dataHora": "2026-04-07T17:39:44",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-07T18:43:46",
+            "deputado_": {
+                "id": 141488,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488",
+                "nome": "Paulo Teixeira",
+                "siglaPartido": "PT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
+                "email": "dep.pauloteixeira@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366.",
+            "dataHora": "2026-04-07T18:52:43",
+            "aprovacao": 0
+        }
+    }
+]

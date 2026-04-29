@@ -1,0 +1,464 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:15:25",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "dataHora": "2026-04-22T22:17:21",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:28:19",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "dataHora": "2026-04-22T22:37:34",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:55:54",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
+            "dataHora": "2026-04-22T21:01:12",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T21:21:19",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "dataHora": "2026-04-22T21:24:46",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:36:56",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "dataHora": "2026-04-22T20:45:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T21:38:49",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:53:59",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T17:50:20",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T17:28:11",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 268; Não: 99; Total: 367.",
+            "dataHora": "2026-04-07T17:39:44",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-07T18:46:41",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366.",
+            "dataHora": "2026-04-07T18:52:43",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T16:51:26",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 272; Não: 18; Total: 290.",
+            "dataHora": "2026-04-07T16:56:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:24:50",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "dataHora": "2026-03-18T19:34:13",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T17:20:47",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+            "dataHora": "2026-03-18T17:59:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:51:38",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422.",
+            "dataHora": "2026-03-18T20:00:50",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T21:33:11",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "dataHora": "2026-03-18T21:38:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T21:49:55",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
+            "dataHora": "2026-03-17T21:54:32",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:31:34",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "dataHora": "2026-03-17T21:44:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:21:47",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
+            "dataHora": "2026-03-17T21:26:08",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:31:46",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T19:15:49",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
+            "dataHora": "2026-03-17T19:32:34",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T17:51:33",
+            "deputado_": {
+                "id": 178964,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178964",
+                "nome": "Heitor Schuch",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "RS",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+                "email": "dep.heitorschuch@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    }
+]

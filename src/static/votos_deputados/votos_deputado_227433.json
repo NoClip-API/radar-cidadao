@@ -1,0 +1,68 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T22:01:27",
+            "deputado_": {
+                "id": 227433,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227433",
+                "nome": "Douglas Viegas",
+                "siglaPartido": "UNIÃO",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227433.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368.",
+            "dataHora": "2026-03-11T22:06:25",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T18:45:05",
+            "deputado_": {
+                "id": 227433,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227433",
+                "nome": "Douglas Viegas",
+                "siglaPartido": "UNIÃO",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227433.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
+            "dataHora": "2026-03-11T18:51:21",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T17:45:53",
+            "deputado_": {
+                "id": 227433,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/227433",
+                "nome": "Douglas Viegas",
+                "siglaPartido": "UNIÃO",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/227433.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:22:34",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T18:04:35",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T19:06:55",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426.",
+            "dataHora": "2026-03-25T19:17:50",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T17:49:05",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399.",
+            "dataHora": "2026-03-25T17:50:55",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T17:11:12",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 126; Não: 262; Total: 388.",
+            "dataHora": "2026-03-25T17:18:05",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T19:19:55",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373.",
+            "dataHora": "2026-03-25T19:25:08",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:26:25",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "dataHora": "2026-03-18T19:34:13",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T17:20:46",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+            "dataHora": "2026-03-18T17:59:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T21:25:50",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "dataHora": "2026-03-18T21:38:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T23:11:32",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 97; Não: 258; Abstenção: 3; Total: 358.",
+            "dataHora": "2026-03-17T23:19:44",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T21:51:21",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
+            "dataHora": "2026-03-17T21:54:32",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:27:48",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "dataHora": "2026-03-17T21:44:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:15:37",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
+            "dataHora": "2026-03-17T21:26:08",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:32:36",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-16T18:35:12",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T21:57:43",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368.",
+            "dataHora": "2026-03-11T22:06:25",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T18:50:40",
+            "deputado_": {
+                "id": 74356,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+                "nome": "Silas Câmara",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "AM",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
+            "dataHora": "2026-03-11T18:51:21",
+            "aprovacao": 0
+        }
+    }
+]

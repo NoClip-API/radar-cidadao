@@ -1,0 +1,266 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:56:31",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:29:58",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:14:10",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T17:47:55",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T19:11:21",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383.",
+            "dataHora": "2026-04-07T19:16:28",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T17:19:11",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+            "dataHora": "2026-03-18T17:59:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T22:22:36",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.",
+            "dataHora": "2026-03-18T22:27:51",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:34:33",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T19:14:21",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
+            "dataHora": "2026-03-17T19:32:34",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T22:03:45",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368.",
+            "dataHora": "2026-03-11T22:06:25",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T18:44:20",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
+            "dataHora": "2026-03-11T18:51:21",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T17:48:05",
+            "deputado_": {
+                "id": 204517,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+                "nome": "Zé Vitor",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+                "email": "dep.zevitor@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    }
+]

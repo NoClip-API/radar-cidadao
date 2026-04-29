@@ -1,0 +1,398 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:58:02",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:12:46",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "dataHora": "2026-04-22T22:17:21",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T21:19:39",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "dataHora": "2026-04-22T21:24:46",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:39:10",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "dataHora": "2026-04-22T20:45:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T19:19:50",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "dataHora": "2026-04-22T19:25:42",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T21:39:30",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T20:16:41",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "dataHora": "2026-04-15T20:19:50",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:14:53",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-07T18:46:02",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366.",
+            "dataHora": "2026-04-07T18:52:43",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T17:30:33",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 124; Não: 257; Abstenção: 1; Total: 382.",
+            "dataHora": "2026-03-25T17:36:05",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T17:13:44",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 126; Não: 262; Total: 388.",
+            "dataHora": "2026-03-25T17:18:05",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T16:42:39",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394.",
+            "dataHora": "2026-03-25T16:50:19",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T17:58:07",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462.",
+            "dataHora": "2026-03-18T17:59:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T21:26:57",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "dataHora": "2026-03-18T21:38:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T23:18:18",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 97; Não: 258; Abstenção: 3; Total: 358.",
+            "dataHora": "2026-03-17T23:19:44",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:13:55",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
+            "dataHora": "2026-03-17T21:26:08",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:36:35",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-16T18:38:40",
+            "deputado_": {
+                "id": 204494,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204494",
+                "nome": "Fred Costa",
+                "siglaPartido": "PRD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010",
+                "siglaUf": "MG",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+                "email": "dep.fredcosta@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    }
+]

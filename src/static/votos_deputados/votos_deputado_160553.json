@@ -1,0 +1,112 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:55:43",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:17:50",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T17:49:05",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-17T21:52:32",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
+            "dataHora": "2026-03-17T21:54:32",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:21:14",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
+            "dataHora": "2026-03-17T21:26:08",
+            "aprovacao": 1
+        }
+    }
+]

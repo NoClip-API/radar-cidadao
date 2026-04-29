@@ -1,0 +1,376 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:00:14",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:22:30",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "dataHora": "2026-04-28T21:33:32",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:31:52",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:37:20",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "dataHora": "2026-04-22T22:37:34",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T19:18:31",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "dataHora": "2026-04-22T19:25:42",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T21:42:14",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T20:13:20",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "dataHora": "2026-04-15T20:19:50",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:13:58",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T19:03:41",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426.",
+            "dataHora": "2026-03-25T19:17:50",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T19:19:44",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373.",
+            "dataHora": "2026-03-25T19:25:08",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T16:49:20",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394.",
+            "dataHora": "2026-03-25T16:50:19",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-24T18:00:35",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.",
+            "dataHora": "2026-03-24T18:05:22",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:26:52",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "dataHora": "2026-03-18T19:34:13",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T21:47:32",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 232; Não: 151; Abstenção: 1; Total: 384.",
+            "dataHora": "2026-03-18T21:57:11",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:52:34",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422.",
+            "dataHora": "2026-03-18T20:00:50",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T21:26:39",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "dataHora": "2026-03-18T21:38:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-16T18:37:21",
+            "deputado_": {
+                "id": 153423,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423",
+                "nome": "Renilce Nicodemos",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+                "email": "dep.renilcenicodemos@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    }
+]

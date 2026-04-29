@@ -1,0 +1,288 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-15T21:41:13",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T20:15:41",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "dataHora": "2026-04-15T20:19:50",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T19:04:37",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426.",
+            "dataHora": "2026-03-25T19:17:50",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T17:31:07",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 124; Não: 257; Abstenção: 1; Total: 382.",
+            "dataHora": "2026-03-25T17:36:05",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T17:44:31",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399.",
+            "dataHora": "2026-03-25T17:50:55",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T17:11:52",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 126; Não: 262; Total: 388.",
+            "dataHora": "2026-03-25T17:18:05",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T19:22:31",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373.",
+            "dataHora": "2026-03-25T19:25:08",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T16:43:00",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394.",
+            "dataHora": "2026-03-25T16:50:19",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-24T18:02:12",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.",
+            "dataHora": "2026-03-24T18:05:22",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-16T18:35:45",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T22:01:47",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368.",
+            "dataHora": "2026-03-11T22:06:25",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T18:43:45",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
+            "dataHora": "2026-03-11T18:51:21",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T17:46:57",
+            "deputado_": {
+                "id": 220526,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+                "nome": "Gilvan da Federal",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "ES",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+                "email": "dep.gilvandafederal@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    }
+]

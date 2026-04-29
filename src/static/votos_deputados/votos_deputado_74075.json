@@ -1,0 +1,90 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:59:28",
+            "deputado_": {
+                "id": 74075,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74075",
+                "nome": "Elcione Barbalho",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
+                "email": "dep.elcionebarbalho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:40:12",
+            "deputado_": {
+                "id": 74075,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74075",
+                "nome": "Elcione Barbalho",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
+                "email": "dep.elcionebarbalho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "dataHora": "2026-04-22T20:45:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T20:17:18",
+            "deputado_": {
+                "id": 74075,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74075",
+                "nome": "Elcione Barbalho",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
+                "email": "dep.elcionebarbalho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "dataHora": "2026-04-15T20:19:50",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-16T18:36:59",
+            "deputado_": {
+                "id": 74075,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74075",
+                "nome": "Elcione Barbalho",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "PA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
+                "email": "dep.elcionebarbalho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:17:50",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:59:36",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
+            "dataHora": "2026-04-22T21:01:12",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:38:17",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "dataHora": "2026-04-22T20:45:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T19:20:11",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "dataHora": "2026-04-22T19:25:42",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T17:40:43",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399.",
+            "dataHora": "2026-03-25T17:50:55",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T17:13:44",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 126; Não: 262; Total: 388.",
+            "dataHora": "2026-03-25T17:18:05",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-25T16:41:02",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394.",
+            "dataHora": "2026-03-25T16:50:19",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-24T18:02:13",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.",
+            "dataHora": "2026-03-24T18:05:22",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T19:33:55",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "dataHora": "2026-03-18T19:34:13",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T19:56:02",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422.",
+            "dataHora": "2026-03-18T20:00:50",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T22:18:05",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.",
+            "dataHora": "2026-03-18T22:27:51",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T21:25:48",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "dataHora": "2026-03-18T21:38:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-16T18:36:04",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).",
+            "dataHora": "2026-03-16T18:49:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-11T18:43:48",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
+            "dataHora": "2026-03-11T18:51:21",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-11T17:49:55",
+            "deputado_": {
+                "id": 74043,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+                "nome": "Wellington Roberto",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "PB",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+                "email": "dep.wellingtonroberto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    }
+]

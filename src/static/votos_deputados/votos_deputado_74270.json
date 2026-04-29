@@ -1,0 +1,90 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:18:54",
+            "deputado_": {
+                "id": 74270,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270",
+                "nome": "Gilberto Nascimento",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+                "email": "dep.gilbertonascimento@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:31:40",
+            "deputado_": {
+                "id": 74270,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270",
+                "nome": "Gilberto Nascimento",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+                "email": "dep.gilbertonascimento@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T19:20:11",
+            "deputado_": {
+                "id": 74270,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270",
+                "nome": "Gilberto Nascimento",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+                "email": "dep.gilbertonascimento@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "dataHora": "2026-04-22T19:25:42",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T21:41:06",
+            "deputado_": {
+                "id": 74270,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270",
+                "nome": "Gilberto Nascimento",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+                "email": "dep.gilbertonascimento@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    }
+]

@@ -1,7 +1,6 @@
 from utils.request_utils import *
-from concurrent.futures import ThreadPoolExecutor, as_completed
-
-cache_votos = {}
+import json
+import os
 
 # Funções dos deputados
 def get_deputados():
@@ -61,42 +60,3 @@ def get_profissoes_deputado(deputadoId: int):
   url = f"{api_url}/deputados/{deputadoId}/profissoes"
 
   return request_api(url, "Deputado inexistente ou sem histórico de profissões")
-
-def get_votos_votacao(v):
-  url = f"{api_url}/votacoes/{v['id']}/votos"
-  votos = request_api(url, "Votação inexistente ou sem histórico de votos")
-
-  return v, votos
-
-def get_votos_por_deputado(deputado_id):
-  deputado_id = int(deputado_id)
-
-  if deputado_id in cache_votos:
-    return cache_votos[deputado_id]
-
-  url = f"{api_url}/votacoes?dataInicio=2024-01-01"
-  votacoes = request_api(url, "Erro")
-  votos_deputado = []
-
-  if votacoes['success']:
-    with ThreadPoolExecutor(max_workers=50) as executor:
-      futures = [
-        executor.submit(get_votos_votacao, v)
-        for v in votacoes['data']
-      ]
-
-      for future in as_completed(futures):
-        v, votos = future.result()
-        if votos['success']:
-          for data_voto in votos['data']:
-            if data_voto['deputado_']['id'] == deputado_id:
-              votos_deputado.append({
-                'dados_voto': data_voto,
-                'informacoes': {
-                  'descricao': v['descricao'],
-                  'dataHora': v['dataHoraRegistro'],
-                  'aprovacao': v['aprovacao']
-                }
-              })
-  cache_votos[deputado_id] = votos_deputado
-  return votos_deputado

@@ -1,0 +1,90 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T21:18:46",
+            "deputado_": {
+                "id": 204450,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+                "nome": "Doutor Luizinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+                "email": "dep.doutorluizinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "dataHora": "2026-04-22T21:24:46",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T21:40:27",
+            "deputado_": {
+                "id": 204450,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+                "nome": "Doutor Luizinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+                "email": "dep.doutorluizinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:25:31",
+            "deputado_": {
+                "id": 204450,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+                "nome": "Doutor Luizinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+                "email": "dep.doutorluizinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T19:14:03",
+            "deputado_": {
+                "id": 204450,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204450",
+                "nome": "Doutor Luizinho",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+                "email": "dep.doutorluizinho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383.",
+            "dataHora": "2026-04-07T19:16:28",
+            "aprovacao": 1
+        }
+    }
+]
