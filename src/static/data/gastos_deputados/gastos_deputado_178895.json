@@ -1,0 +1,17 @@
+{
+    "nome": "Misael Varella",
+    "partido": "PSD",
+    "estado": "MG",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 796162.01,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 539198.4800000002,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 149439.54999999996,
+        "PASSAGEM AÉREA - SIGEPA": 61047.17000000001,
+        "PASSAGEM AÉREA - RPA": 26016.56,
+        "TELEFONIA": 21672.710000000003,
+        "PASSAGEM AÉREA - REEMBOLSO": 2042.19
+    },
+    "gasto_total": 1595578.6700000002,
+    "media_partido": 1430384.1870212767,
+    "media_estado": 1465981.0237735847
+}

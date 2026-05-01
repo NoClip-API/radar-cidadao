@@ -1,0 +1,15 @@
+{
+    "nome": "José Nelto",
+    "partido": "UNIÃO",
+    "estado": "GO",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1237410.8,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 210010.64999999994,
+        "PASSAGEM AÉREA - SIGEPA": 28857.329999999998,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 27518.11,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1716.9
+    },
+    "gasto_total": 1505513.79,
+    "media_partido": 1601611.9957142859,
+    "media_estado": 1385810.9447058823
+}

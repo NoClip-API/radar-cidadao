@@ -1,0 +1,15 @@
+{
+    "nome": "André Fufuca",
+    "partido": "PP",
+    "estado": "MA",
+    "resumo_despesas": {
+        "PASSAGEM AÉREA - SIGEPA": 113058.41999999988,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 40400.0,
+        "TELEFONIA": 6884.179999999999,
+        "PASSAGEM AÉREA - REEMBOLSO": 4103.82,
+        "PASSAGEM AÉREA - RPA": 100.0
+    },
+    "gasto_total": 164546.41999999987,
+    "media_partido": 1403590.7759574468,
+    "media_estado": 1197844.9833333334
+}

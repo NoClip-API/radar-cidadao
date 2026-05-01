@@ -1,0 +1,17 @@
+{
+    "nome": "Capitão Alberto Neto",
+    "partido": "PL",
+    "estado": "AM",
+    "resumo_despesas": {
+        "PASSAGEM AÉREA - SIGEPA": 641958.6100000012,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 377675.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 324375.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 124676.95,
+        "TELEFONIA": 46158.85,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 43057.3,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 7387.84
+    },
+    "gasto_total": 1565289.5500000012,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1236170.91375
+}

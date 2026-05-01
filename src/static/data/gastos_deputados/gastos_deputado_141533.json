@@ -1,0 +1,13 @@
+{
+    "nome": "Rodrigo Rollemberg",
+    "partido": "PSB",
+    "estado": "DF",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 199290.6,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 40168.349999999984,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 2910.9
+    },
+    "gasto_total": 242369.84999999998,
+    "media_partido": 1499953.7518749998,
+    "media_estado": 1162208.87875
+}

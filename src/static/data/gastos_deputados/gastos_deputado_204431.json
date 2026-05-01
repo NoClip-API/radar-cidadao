@@ -1,0 +1,16 @@
+{
+    "nome": "Marcos Aurélio Sampaio",
+    "partido": "MDB",
+    "estado": "PI",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 852000.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 456000.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 280547.70999999996,
+        "PASSAGEM AÉREA - SIGEPA": 164742.46999999997,
+        "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.": 51000.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 2840.7400000000002
+    },
+    "gasto_total": 1807130.92,
+    "media_partido": 1467107.067105263,
+    "media_estado": 1768468.3539999998
+}

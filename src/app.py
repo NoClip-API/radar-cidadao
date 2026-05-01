@@ -1,16 +1,33 @@
 from flask import Flask, render_template, request, redirect, url_for
-from utils.request_functions import *
-from utils.get_votos_deputado import get_votos_deputado
+from utils.functions import *
 
-app = Flask(__name__, template_folder='templates', static_folder='static')
+app = Flask(__name__)
 
 @app.route('/')
 def home():
-    res_deputados = get_deputados()
-    res_partidos = get_partidos()
-
-    deputados = res_deputados['data'] if res_deputados['success'] and res_deputados['data'] else []
-    partidos = res_partidos['data'] if res_partidos['success'] and res_partidos['data'] else []
+    deputados = get_deputados()
+    partidos = [
+        "AVANTE",
+        "CIDADANIA",
+        "MISSÃO",
+        "NOVO",
+        "PCdoB",
+        "PDT",
+        "PL",
+        "PODE",
+        "PP",
+        "PRD",
+        "PSB",
+        "PSD",
+        "PSDB",
+        "PSOL",
+        "PT",
+        "PV",
+        "REDE",
+        "REPUBLICANOS",
+        "SOLIDARIEDADE",
+        "UNIÃO"
+    ]
 
     nome = request.args.get('nome')
     estado = request.args.get('siglaUf')
@@ -20,9 +37,9 @@ def home():
     if nome or estado or partido:
         deputados = [
             d for d in deputados
-            if (not nome or nome.lower() in d['nome'].lower())
-            and (not estado or d['siglaUf'] == estado)
-            and (not partido or d['siglaPartido'] == partido)
+            if (not nome or nome.lower() in d['ultimoStatus']['nome'].lower())
+            and (not estado or d['ultimoStatus']['siglaUf'] == estado)
+            and (not partido or d['ultimoStatus']['siglaPartido'] == partido)
         ]
 
     per_page = 24
@@ -50,9 +67,7 @@ def graficos():
 
 @app.route('/deputado/<id_deputado>')
 def page_deputado(id_deputado):
-    res = get_deputado_by_id(id_deputado)
-    deputado = res['data'] if res['success'] else res['error']
-
+    deputado = get_deputado_by_id(id_deputado)
     votos = get_votos_deputado(id_deputado)
 
     return render_template('deputado.html', deputado=deputado, votos=votos)

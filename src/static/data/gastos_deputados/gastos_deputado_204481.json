@@ -1,0 +1,15 @@
+{
+    "nome": "Dr. Jaziel",
+    "partido": "PL",
+    "estado": "CE",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 922445.1599999999,
+        "PASSAGEM AÉREA - SIGEPA": 423077.6600000004,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 288973.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 79187.8,
+        "PASSAGEM AÉREA - RPA": 40563.31
+    },
+    "gasto_total": 1754246.9300000004,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1414358.1972727273
+}

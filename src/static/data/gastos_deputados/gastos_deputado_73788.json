@@ -1,0 +1,16 @@
+{
+    "nome": "Ricardo Barros",
+    "partido": "PP",
+    "estado": "PR",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 220823.79,
+        "PASSAGEM AÉREA - SIGEPA": 203360.05000000008,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 85430.87000000001,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 19395.17,
+        "PASSAGEM AÉREA - REEMBOLSO": 8187.57,
+        "TELEFONIA": 6821.07
+    },
+    "gasto_total": 544018.5200000001,
+    "media_partido": 1403590.7759574468,
+    "media_estado": 1423141.0463333332
+}

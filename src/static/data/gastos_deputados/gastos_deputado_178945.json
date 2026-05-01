@@ -1,0 +1,16 @@
+{
+    "nome": "Rosangela Gomes",
+    "partido": "REPUBLICANOS",
+    "estado": "RJ",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 15200.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 9500.0,
+        "TELEFONIA": 720.5,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 498.65,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 278.0,
+        "PASSAGEM AÉREA - SIGEPA": 0.0
+    },
+    "gasto_total": 26197.15,
+    "media_partido": 1303866.1360465116,
+    "media_estado": 1312454.644347826
+}

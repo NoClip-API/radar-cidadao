@@ -1,0 +1,16 @@
+{
+    "nome": "Delegado Éder Mauro",
+    "partido": "PL",
+    "estado": "PA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 577500.0,
+        "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES": 564000.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 373527.22,
+        "PASSAGEM AÉREA - SIGEPA": 159536.91,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 138323.24,
+        "PASSAGEM AÉREA - RPA": 47935.43000000001
+    },
+    "gasto_total": 1860822.8,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1489028.165882353
+}

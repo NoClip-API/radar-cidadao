@@ -1,0 +1,18 @@
+{
+    "nome": "Luiz Fernando Faria",
+    "partido": "UNIÃO",
+    "estado": "MG",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 502280.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 459641.18000000017,
+        "PASSAGEM AÉREA - SIGEPA": 312093.3900000001,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 177400.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 49366.13,
+        "PASSAGEM AÉREA - RPA": 9414.52,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 8011.710000000001,
+        "TELEFONIA": 3597.83
+    },
+    "gasto_total": 1521804.7600000002,
+    "media_partido": 1601611.9957142859,
+    "media_estado": 1465981.0237735847
+}

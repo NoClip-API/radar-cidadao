@@ -1,0 +1,19 @@
+{
+    "nome": "Professora Marcivania",
+    "partido": "PCdoB",
+    "estado": "AP",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 253000.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 36000.0,
+        "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES": 20000.0,
+        "PASSAGEM AÉREA - SIGEPA": 13606.349999999999,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 12971.13,
+        "PASSAGEM AÉREA - REEMBOLSO": 2587.42,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 680.0,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 560.0,
+        "TELEFONIA": 117.9
+    },
+    "gasto_total": 339522.8,
+    "media_partido": 1255090.1281818182,
+    "media_estado": 1042256.1912500001
+}

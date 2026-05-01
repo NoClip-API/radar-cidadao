@@ -1,0 +1,15 @@
+{
+    "nome": "Vicentinho Júnior",
+    "partido": "PSDB",
+    "estado": "TO",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 892900.0,
+        "PASSAGEM AÉREA - SIGEPA": 214739.43999999992,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 17954.6,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 5712.2699999999995,
+        "TELEFONIA": 3801.2799999999993
+    },
+    "gasto_total": 1135107.5899999999,
+    "media_partido": 1368902.7247058824,
+    "media_estado": 1394490.7914285713
+}

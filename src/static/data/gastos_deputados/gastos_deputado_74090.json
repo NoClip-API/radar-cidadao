@@ -1,0 +1,17 @@
+{
+    "nome": "Átila Lins",
+    "partido": "PSD",
+    "estado": "AM",
+    "resumo_despesas": {
+        "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 968760.0,
+        "PASSAGEM AÉREA - RPA": 344621.4399999994,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 230000.0,
+        "PASSAGEM AÉREA - REEMBOLSO": 162423.26999999996,
+        "PASSAGEM AÉREA - SIGEPA": 122818.88999999997,
+        "TELEFONIA": 62824.100000000006,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 5350.5
+    },
+    "gasto_total": 1896798.1999999993,
+    "media_partido": 1430384.1870212767,
+    "media_estado": 1236170.91375
+}

@@ -1,0 +1,17 @@
+{
+    "nome": "Robério Monteiro",
+    "partido": "PSB",
+    "estado": "CE",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 550000.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 225200.0,
+        "PASSAGEM AÉREA - SIGEPA": 205032.75,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 23138.109999999997,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1830.4,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 1065.99,
+        "TELEFONIA": 779.34
+    },
+    "gasto_total": 1007046.59,
+    "media_partido": 1499953.7518749998,
+    "media_estado": 1414358.1972727273
+}

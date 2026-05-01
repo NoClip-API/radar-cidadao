@@ -1,0 +1,18 @@
+{
+    "nome": "Alberto Fraga",
+    "partido": "PL",
+    "estado": "DF",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1106200.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 201124.19,
+        "PASSAGEM AÉREA - SIGEPA": 70095.52,
+        "PASSAGEM AÉREA - RPA": 36660.13,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 36360.8,
+        "TELEFONIA": 4076.9799999999996,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 4018.9400000000005,
+        "PASSAGEM AÉREA - REEMBOLSO": 2883.41
+    },
+    "gasto_total": 1461419.97,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1162208.87875
+}

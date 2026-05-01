@@ -1,0 +1,17 @@
+{
+    "nome": "Silvio Costa Filho",
+    "partido": "REPUBLICANOS",
+    "estado": "PE",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 87800.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 71940.0,
+        "PASSAGEM AÉREA - SIGEPA": 51618.80000000002,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 50093.83,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 48592.45,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 9160.5,
+        "PASSAGEM AÉREA - RPA": 2051.42
+    },
+    "gasto_total": 321257.0,
+    "media_partido": 1303866.1360465116,
+    "media_estado": 1647124.0824000002
+}

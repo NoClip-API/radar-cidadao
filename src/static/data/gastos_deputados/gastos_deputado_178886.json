@@ -1,0 +1,17 @@
+{
+    "nome": "Juscelino Filho",
+    "partido": "PSDB",
+    "estado": "MA",
+    "resumo_despesas": {
+        "PASSAGEM AÉREA - SIGEPA": 196873.14999999994,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 174129.34,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 89000.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 21031.99,
+        "TELEFONIA": 6391.199999999999,
+        "PASSAGEM AÉREA - RPA": 3235.26,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 1633.0
+    },
+    "gasto_total": 492293.93999999994,
+    "media_partido": 1368902.7247058824,
+    "media_estado": 1197844.9833333334
+}
