@@ -48,7 +48,7 @@
                     <select name="siglaPartido">
                         <option value="" {% if not partido %}selected{% endif %}>--</option>
                         {% for p in partidos %}
-                        <option value="{{ p.sigla }}" {% if partido==p.sigla %}selected{% endif %}>{{ p.sigla }}
+                        <option value="{{ p }}" {% if partido==p %}selected{% endif %}>{{ p }}
                         </option>
                         {% endfor %}
                     </select>
@@ -60,10 +60,10 @@
             <div class="grade-dep">
                 {% for deputado in deputados %}
                 <div class="cartao-dep">
-                    <a href="/deputado/{{ deputado['id'] }}"> <img src="{{ deputado['urlFoto'] }}"
+                    <a href="/deputado/{{ deputado['id'] }}"> <img src="{{ deputado['ultimoStatus']['urlFoto'] }}"
                             alt="Nikolas Ferreira">
-                        <h3>{{ deputado['nome'] }}</h3>
-                        <p>{{ deputado['siglaPartido'] }} - {{ deputado['siglaUf'] }}</p>
+                        <h3>{{ deputado['ultimoStatus']['nome'] }}</h3>
+                        <p>{{ deputado['ultimoStatus']['siglaPartido'] }} - {{ deputado['ultimoStatus']['siglaUf'] }}</p>
                     </a>
                 </div>
 

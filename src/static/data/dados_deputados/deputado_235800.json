@@ -1,0 +1,38 @@
+{
+  "id": 235800,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/235800",
+  "nomeCivil": "JORGE SILVA DE ARAÚJO",
+  "ultimoStatus": {
+    "id": 235800,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/235800",
+    "nome": "Jorge Araújo",
+    "siglaPartido": "PP",
+    "uriPartido": null,
+    "siglaUf": "BA",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/235800.jpg",
+    "email": null,
+    "data": "2026-04-08",
+    "nomeEleitoral": "Jorge Araújo",
+    "gabinete": {
+      "nome": "320",
+      "predio": "4",
+      "sala": "320",
+      "andar": "3",
+      "telefone": "3215-5320",
+      "email": "dep.jorgearaujo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "27903464884",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-07-25",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": null,
+  "escolaridade": null
+}

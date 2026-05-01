@@ -1,0 +1,17 @@
+{
+    "nome": "Mersinho Lucena",
+    "partido": "PSD",
+    "estado": "PB",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 535001.21,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 427200.0,
+        "PASSAGEM AÉREA - SIGEPA": 334688.45,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 186507.76,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 3819.8,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1168.5,
+        "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS": 140.0
+    },
+    "gasto_total": 1488525.72,
+    "media_partido": 1430384.1870212767,
+    "media_estado": 1717689.3358333334
+}

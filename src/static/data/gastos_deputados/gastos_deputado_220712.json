@@ -1,0 +1,18 @@
+{
+    "nome": "Fausto Jr.",
+    "partido": "UNIÃO",
+    "estado": "AM",
+    "resumo_despesas": {
+        "PASSAGEM AÉREA - SIGEPA": 445515.19000000006,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 331482.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 216660.34999999998,
+        "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 206850.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 94288.59000000004,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 33936.100000000006,
+        "PASSAGEM AÉREA - REEMBOLSO": 15783.72,
+        "TELEFONIA": 13440.02
+    },
+    "gasto_total": 1357955.97,
+    "media_partido": 1601611.9957142859,
+    "media_estado": 1236170.91375
+}

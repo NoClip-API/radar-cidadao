@@ -1,0 +1,15 @@
+{
+    "nome": "Amaro Neto",
+    "partido": "PP",
+    "estado": "ES",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 978997.03,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 309336.42,
+        "PASSAGEM AÉREA - SIGEPA": 170151.82000000004,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 122714.60999999993,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 61349.46999999999
+    },
+    "gasto_total": 1642549.3499999999,
+    "media_partido": 1403590.7759574468,
+    "media_estado": 1580562.651
+}

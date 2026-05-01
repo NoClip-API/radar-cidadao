@@ -1,0 +1,17 @@
+{
+    "nome": "Roberta Roma",
+    "partido": "PL",
+    "estado": "BA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 739810.6699999999,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 437500.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 247115.19999999998,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 143652.76999999996,
+        "PASSAGEM AÉREA - SIGEPA": 92150.91000000002,
+        "PASSAGEM AÉREA - REEMBOLSO": 9348.07,
+        "TELEFONIA": 1428.79
+    },
+    "gasto_total": 1671006.41,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1468149.24
+}

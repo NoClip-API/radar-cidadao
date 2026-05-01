@@ -1,0 +1,17 @@
+{
+    "nome": "Eunício Oliveira",
+    "partido": "MDB",
+    "estado": "CE",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1469173.49,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 204296.34000000003,
+        "TELEFONIA": 22654.370000000006,
+        "PASSAGEM AÉREA - SIGEPA": 12940.880000000001,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 4864.25,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 1613.9400000000003,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 566.7
+    },
+    "gasto_total": 1716109.97,
+    "media_partido": 1467107.067105263,
+    "media_estado": 1414358.1972727273
+}

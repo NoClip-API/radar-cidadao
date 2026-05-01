@@ -1,0 +1,16 @@
+{
+    "nome": "João Maia",
+    "partido": "PP",
+    "estado": "RN",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1024300.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 452766.67,
+        "PASSAGEM AÉREA - SIGEPA": 192863.6500000001,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 147603.3699999998,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 117893.3,
+        "TELEFONIA": 2795.0600000000004
+    },
+    "gasto_total": 1938222.0499999998,
+    "media_partido": 1403590.7759574468,
+    "media_estado": 1622857.2125000001
+}

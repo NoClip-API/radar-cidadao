@@ -1,0 +1,18 @@
+{
+    "nome": "Marcos Tavares",
+    "partido": "PDT",
+    "estado": "RJ",
+    "resumo_despesas": {
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 535375.5800000002,
+        "PASSAGEM AÉREA - SIGEPA": 407305.79,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 213750.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 209980.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 49646.93,
+        "PASSAGEM AÉREA - REEMBOLSO": 5063.18,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 4037.4900000000002,
+        "TELEFONIA": 1177.58
+    },
+    "gasto_total": 1426336.5500000003,
+    "media_partido": 1575387.489,
+    "media_estado": 1312454.644347826
+}

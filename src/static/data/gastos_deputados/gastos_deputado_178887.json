@@ -1,0 +1,15 @@
+{
+    "nome": "Rubens Pereira Júnior",
+    "partido": "PT",
+    "estado": "MA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1421744.42,
+        "PASSAGEM AÉREA - SIGEPA": 305625.77000000014,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 77115.69999999998,
+        "PASSAGEM AÉREA - RPA": 3123.41,
+        "SERVIÇOS POSTAIS": 169.4
+    },
+    "gasto_total": 1807778.7,
+    "media_partido": 1544421.8198484848,
+    "media_estado": 1197844.9833333334
+}

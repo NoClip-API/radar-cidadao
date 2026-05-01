@@ -1,0 +1,16 @@
+{
+    "nome": "Sargento Gonçalves",
+    "partido": "PL",
+    "estado": "RN",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 747600.0,
+        "PASSAGEM AÉREA - SIGEPA": 410392.9000000006,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 156700.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 101992.65000000001,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 56033.15000000003,
+        "PASSAGEM AÉREA - REEMBOLSO": 1957.99
+    },
+    "gasto_total": 1474676.6900000006,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1622857.2125000001
+}

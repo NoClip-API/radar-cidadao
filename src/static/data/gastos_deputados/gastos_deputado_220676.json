@@ -1,0 +1,15 @@
+{
+    "nome": "Andreia Siqueira",
+    "partido": "PSB",
+    "estado": "PA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 984274.49,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 176637.04,
+        "PASSAGEM AÉREA - SIGEPA": 150861.03,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 32490.709999999995,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1450.0
+    },
+    "gasto_total": 1345713.27,
+    "media_partido": 1499953.7518749998,
+    "media_estado": 1489028.165882353
+}

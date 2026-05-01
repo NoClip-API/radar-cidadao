@@ -1,0 +1,18 @@
+{
+    "nome": "Rafael Prudente",
+    "partido": "MDB",
+    "estado": "DF",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 543014.8,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 490717.32999999996,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 203300.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 60291.92999999999,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 11231.2,
+        "PASSAGEM AÉREA - REEMBOLSO": 7538.53,
+        "TELEFONIA": 2863.5799999999995,
+        "PASSAGEM AÉREA - SIGEPA": 2191.77
+    },
+    "gasto_total": 1321149.14,
+    "media_partido": 1467107.067105263,
+    "media_estado": 1162208.87875
+}

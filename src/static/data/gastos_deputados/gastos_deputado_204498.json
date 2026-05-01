@@ -1,0 +1,14 @@
+{
+    "nome": "Olival Marques",
+    "partido": "PODE",
+    "estado": "PA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1313250.0,
+        "PASSAGEM AÉREA - SIGEPA": 512652.40000000014,
+        "PASSAGEM AÉREA - RPA": 26770.08,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 2536.4199999999996
+    },
+    "gasto_total": 1855208.9000000001,
+    "media_partido": 1407014.9785185186,
+    "media_estado": 1489028.165882353
+}

@@ -1,0 +1,18 @@
+{
+    "nome": "Antônio Doido",
+    "partido": "MDB",
+    "estado": "PA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 616077.27,
+        "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 492000.0,
+        "PASSAGEM AÉREA - SIGEPA": 278765.39999999985,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 172076.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 112948.06000000004,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 17425.2,
+        "TELEFONIA": 9673.749999999996,
+        "PASSAGEM AÉREA - REEMBOLSO": 4672.1
+    },
+    "gasto_total": 1703637.7799999998,
+    "media_partido": 1467107.067105263,
+    "media_estado": 1489028.165882353
+}

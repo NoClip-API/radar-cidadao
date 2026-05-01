@@ -1,0 +1,19 @@
+{
+    "nome": "Paulo Pimenta",
+    "partido": "PT",
+    "estado": "RS",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 512600.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 59880.32,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 37534.05,
+        "PASSAGEM AÉREA - SIGEPA": 35804.11,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 16813.2,
+        "TELEFONIA": 7992.990000000001,
+        "PASSAGEM AÉREA - REEMBOLSO": 5834.59,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 2556.0,
+        "PASSAGEM AÉREA - RPA": 1840.69
+    },
+    "gasto_total": 680855.95,
+    "media_partido": 1544421.8198484848,
+    "media_estado": 1490713.8293548387
+}
