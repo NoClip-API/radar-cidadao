@@ -1,4 +1,6 @@
 import json
+import plotly.graph_objects as go
+import plotly.io as pio
 import os
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'static', 'data')
@@ -12,6 +14,8 @@ def get_deputados():
       with open(f'{DATA_PATH}/dados_deputados/{arquivo}', 'r', encoding='utf-8') as f:
         deputado = json.load(f)
         deputados.append(deputado)
+
+  deputados.sort(key=lambda x: x['ultimoStatus']['nome'].lower())
 
   return deputados
 
@@ -32,3 +36,36 @@ def get_votos_deputado(deputado_id):
         votos_deputados = json.load(f)
     
     return votos_deputados
+
+# Funções dos gráficos
+def get_grafico(id_deputado):
+  gastos = get_gastos_deputado(id_deputado)
+  resumo = gastos.get('resumo_despesas', {})
+
+  sorted_resumo = sorted(resumo.items(), key=lambda x: x[1], reverse=False)
+  # print(sorted_resumo)
+  categorias = [x[0] for x in sorted_resumo]
+  valores = [x[1] for x in sorted_resumo]
+
+  fig = go.Figure(data=[
+      go.Bar(
+          y=categorias,
+          x=valores,
+          orientation='h',
+          marker_color='#0047ab'
+      )
+  ])
+
+  fig.update_layout(
+      title=f"Resumo de Despesas - {gastos['nome']}",
+      xaxis=dict(
+          title="Valor (R$)",
+          dtick=100000,
+          tickformat=".2f"
+      ),
+      yaxis_title="Tipo de Despesa",
+      height=500,
+      width=900
+  )
+
+  return pio.to_json(fig)

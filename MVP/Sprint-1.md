@@ -61,4 +61,5 @@ Após a conclusão da Sprint 1, a equipe avançará para a Sprint 2, focando em:
 
 | Descrição | Link / Anexo |
 | --------- | ---------- |
-| Google Colab | https://colab.research.google.com/drive/1cnfTIuEFLwqLYviIGmjA7siY875VRcC8?usp=sharing
+| Repositório GitHub | https://github.com/NoClip-API/radar-cidadao |
+| Google Colab | https://colab.research.google.com/drive/1cnfTIuEFLwqLYviIGmjA7siY875VRcC8?usp=sharing |

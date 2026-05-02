@@ -69,8 +69,9 @@ def graficos():
 def page_deputado(id_deputado):
     deputado = get_deputado_by_id(id_deputado)
     votos = get_votos_deputado(id_deputado)
+    grafico_gastos = get_grafico(id_deputado)
 
-    return render_template('deputado.html', deputado=deputado, votos=votos)
+    return render_template('deputado.html', deputado=deputado, votos=votos, grafico_gastos=grafico_gastos)
 
 if __name__ == '__main__':
     app.run(debug=True)

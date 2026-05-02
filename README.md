@@ -79,9 +79,9 @@ O foco principal é auxiliar eleitores, jornalistas e educadores a avaliar o des
 
 # **Registro das Sprints**
 
-| Sprint            | Previsão   | Status   | Histórico |
-|-------------------|------------|----------|-----------|
-| 01                | 05/04/2026 | a fazer  | [MVP](MVP/Sprint-1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/Sprint-2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/Sprint-3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| Sprint            | Previsão   | Status     | Histórico |
+|-------------------|------------|------------|-----------|
+| 01                | 05/04/2026 | concluída  | [MVP](MVP/Sprint-1.md)  |
+| 02                | 03/05/2026 | a fazer    | [MVP](MVP/Sprint-2.md)  |
+| 03                | 31/05/2026 | a fazer    | [MVP](MVP/Sprint-3.md)  |
+| Feira de Soluções | 18/06/2026 | a fazer    | |
