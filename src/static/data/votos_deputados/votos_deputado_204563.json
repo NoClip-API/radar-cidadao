@@ -1,0 +1,26 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-02T19:10:45",
+            "deputado_": {
+                "id": 204563,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204563",
+                "nome": "Josimar Maranhãozinho",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "MA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204563.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "dataHora": "2026-02-02T19:36:06",
+            "aprovacao": 1
+        }
+    }
+]
