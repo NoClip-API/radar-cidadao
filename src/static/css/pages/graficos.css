@@ -74,7 +74,7 @@ h1, h2 {
     align-content: center;
 }
 
-nav {
+#divisor {
     margin-top: 16px;
     height: 4px;
     background: #00d4ff;
