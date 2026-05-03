@@ -1,0 +1,17 @@
+{
+    "nome": "Renilce Nicodemos",
+    "partido": "MDB",
+    "estado": "PA",
+    "resumo_despesas": {
+        "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 781582.71,
+        "PASSAGEM AÉREA - SIGEPA": 525317.9599999996,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 394000.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 45992.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 33006.17,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 20240.0,
+        "PASSAGEM AÉREA - RPA": 5917.68
+    },
+    "gasto_total": 1806056.5199999996,
+    "media_partido": 1467107.067105263,
+    "media_estado": 1489028.165882353
+}

@@ -1,0 +1,20 @@
+{
+    "nome": "Renildo Calheiros",
+    "partido": "PCdoB",
+    "estado": "PE",
+    "resumo_despesas": {
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 429441.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 370383.61999999994,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 223752.94,
+        "PASSAGEM AÉREA - SIGEPA": 166922.34000000005,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 155392.36999999994,
+        "TELEFONIA": 21891.38,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 13628.15,
+        "PASSAGEM AÉREA - RPA": 10535.51,
+        "SERVIÇOS POSTAIS": 99.1,
+        "PASSAGEM AÉREA - REEMBOLSO": 55.0
+    },
+    "gasto_total": 1392101.41,
+    "media_partido": 1255090.1281818182,
+    "media_estado": 1647124.0824000002
+}

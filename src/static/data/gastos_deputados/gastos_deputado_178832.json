@@ -1,0 +1,16 @@
+{
+    "nome": "Leandre",
+    "partido": "PSD",
+    "estado": "PR",
+    "resumo_despesas": {
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 7473.289999999999,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 3028.59,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 1786.75,
+        "PASSAGEM AÉREA - SIGEPA": 1038.69,
+        "TELEFONIA": 720.5,
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 112.0
+    },
+    "gasto_total": 14159.82,
+    "media_partido": 1430384.1870212767,
+    "media_estado": 1423141.0463333332
+}

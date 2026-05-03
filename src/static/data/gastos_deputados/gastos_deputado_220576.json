@@ -1,0 +1,17 @@
+{
+    "nome": "Alfredo Gaspar",
+    "partido": "PL",
+    "estado": "AL",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 818563.5,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 226610.0,
+        "PASSAGEM AÉREA - SIGEPA": 220297.98999999987,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 90802.07000000002,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 77228.74,
+        "PASSAGEM AÉREA - RPA": 3209.85,
+        "PASSAGEM AÉREA - REEMBOLSO": 2306.85
+    },
+    "gasto_total": 1439019.0,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1495538.308888889
+}

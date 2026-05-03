@@ -1,0 +1,227 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background: linear-gradient(135deg, #0047ab 0%, #002d6b 100%);
+    color: #288eb6;
+    padding: 32px 5%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.topo-pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.topo-pagina-subtexto {
+    margin: 16px;
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 30px;
+    justify-content: center;
+    align-content: center;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 56px;
+    color: cyan;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 5px;
+    white-space: nowrap;
+    text-transform: uppercase;
+}
+
+h1,
+h2 {
+    color: #333;
+}
+
+nav {
+    margin-top: 16px;
+    height: 4px;
+    background: #00d4ff;
+    border-radius: 2px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+}
+
+.container-card {
+    top: 0;
+    position: sticky;
+    background: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    display: grid;
+    grid-template-rows: auto auto;
+    height: fit-content;
+}
+
+.container-dados {
+    background: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    display: grid;
+    grid-template-rows: auto auto;
+}
+
+.container-title {
+    display: flex;
+    justify-content: center;
+}
+
+.votos-wrapper {
+    max-height: 500px; /* controla altura */
+    overflow-y: auto;
+    background: whitesmoke;
+    padding: 20px, 8px, 20px, 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+/* scroll mais bonito (opcional mas fica top) */
+.votos-wrapper::-webkit-scrollbar {
+    width: 6px;
+}
+
+.votos-wrapper::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 10px;
+}
+
+.votos-wrapper::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}
+
+.votos-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 20px;
+}
+
+/* CARD */
+.voto-card {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 16px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: 0.2s;
+    border-left: 5px solid transparent;
+}
+
+.voto-card:hover {
+    transform: translateY(-10px);
+}
+
+/* cores laterais mais suaves */
+.voto-card.sim {
+    border-left: 5px solid #4caf50;
+}
+
+.voto-card.nao {
+    border-left: 5px solid #e53935;
+}
+
+/* HEADER */
+.voto-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+/* BADGE (Sim / Não) */
+.badge {
+    font-weight: bold;
+    font-size: 13px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    background: #e3f2fd;
+    color: #0047ab;
+}
+
+/* DATA */
+.data {
+    font-size: 12px;
+    color: #666;
+}
+
+/* TEXTO */
+.voto-body p {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+}
+
+/* FOOTER */
+.voto-footer {
+    margin-top: 12px;
+}
+
+/* STATUS */
+.status {
+    font-size: 12px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.status.aprovado {
+    background: #e8f5e9;
+    color: #2e7d32;
+}
+
+.status.rejeitado {
+    background: #ffebee;
+    color: #c62828;
+}
+
+.status.neutro {
+    background: #eeeeee;
+    color: #555;
+}
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: auto;
+        grid-template-rows: auto auto;
+    }
+}

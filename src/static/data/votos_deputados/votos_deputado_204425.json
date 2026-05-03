@@ -1,0 +1,242 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:35:50",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "descricao_detalhada": "Altera o artigo 112 da Lei de Execução Penal para repristinar as alterações que lhe haviam sido feitas pela Lei n.º 15.358, de 24 de março de 2026 – Lei Raul Jungmann.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:23:56",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "dataHora": "2026-04-28T21:33:32",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:58:08",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T22:30:54",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "descricao_detalhada": "Institui o Estatuto do Aprendiz e dá outras providências.",
+            "titulo": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "dataHora": "2026-04-22T22:37:34",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:14:58",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "descricao_detalhada": "Veda a disposição em convenção condominial de cláusula que restrinja, de qualquer forma, a locação de imóveis comerciais para agremiações partidárias.",
+            "titulo": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "dataHora": "2026-04-22T22:17:21",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T21:19:34",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "dataHora": "2026-04-22T21:24:46",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T20:41:18",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "dataHora": "2026-04-22T20:45:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T19:21:52",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "descricao_detalhada": "Institui a Política Nacional “Mais Cultura nas Escolas” e dá outras providências.",
+            "titulo": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "dataHora": "2026-04-22T19:25:42",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T21:39:11",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "descricao_detalhada": "Estabelece condições para a concessão de isenção do Imposto sobre Serviços de Qualquer Natureza – ISS para fatos geradores relacionados à organização ou à realização da Copa do Mundo Feminina da FIFA 2027.",
+            "titulo": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-15T20:15:26",
+            "deputado_": {
+                "id": 204425,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204425",
+                "nome": "Silvio Costa Filho",
+                "siglaPartido": "REPUBLICANOS",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+                "siglaUf": "PE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+                "email": "dep.silviocostafilho@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "descricao_detalhada": "Altera a redação do § 4º no art. 5º da Lei nº 11.947, de 16 de junho de 2009, para que seja considerado o custo amazônico em relação às matrículas da região amazônica.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "dataHora": "2026-04-15T20:19:50",
+            "aprovacao": 1
+        }
+    }
+]

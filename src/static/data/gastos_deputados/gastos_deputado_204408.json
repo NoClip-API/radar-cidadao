@@ -1,0 +1,16 @@
+{
+    "nome": "Gustinho Ribeiro",
+    "partido": "PP",
+    "estado": "SE",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 958302.0,
+        "PASSAGEM AÉREA - SIGEPA": 375334.09000000014,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 324600.0,
+        "PASSAGEM AÉREA - RPA": 17818.32,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 14236.340000000002,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 6800.0
+    },
+    "gasto_total": 1697090.7500000002,
+    "media_partido": 1403590.7759574468,
+    "media_estado": 1505790.4525000001
+}

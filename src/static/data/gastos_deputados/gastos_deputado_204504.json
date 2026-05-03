@@ -1,0 +1,19 @@
+{
+    "nome": "Cezinha de Madureira",
+    "partido": "PL",
+    "estado": "SP",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 525637.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 481513.0,
+        "PASSAGEM AÉREA - SIGEPA": 286492.56000000006,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 199390.62,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 120228.3399999999,
+        "TELEFONIA": 85194.96000000002,
+        "PASSAGEM AÉREA - REEMBOLSO": 23603.05,
+        "ASSINATURA DE PUBLICAÇÕES": 3496.0,
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 49.99
+    },
+    "gasto_total": 1725605.52,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1277115.6085714286
+}

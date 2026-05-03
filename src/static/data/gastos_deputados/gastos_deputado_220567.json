@@ -1,0 +1,18 @@
+{
+    "nome": "Jeferson Rodrigues",
+    "partido": "PSDB",
+    "estado": "GO",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 758700.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 238441.6599999999,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 228974.56999999998,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 160623.34,
+        "PASSAGEM AÉREA - SIGEPA": 16908.87,
+        "TELEFONIA": 697.45,
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 460.0,
+        "PASSAGEM AÉREA - RPA": 315.0
+    },
+    "gasto_total": 1405120.89,
+    "media_partido": 1368902.7247058824,
+    "media_estado": 1385810.9447058823
+}

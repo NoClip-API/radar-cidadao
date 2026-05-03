@@ -1,0 +1,18 @@
+{
+    "nome": "Romero Rodrigues",
+    "partido": "PODE",
+    "estado": "PB",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 910299.99,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 260800.0,
+        "PASSAGEM AÉREA - SIGEPA": 153248.16999999995,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 136477.47,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 113039.32000000004,
+        "TELEFONIA": 4600.8,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 3596.04,
+        "PASSAGEM AÉREA - REEMBOLSO": 2415.99
+    },
+    "gasto_total": 1584477.78,
+    "media_partido": 1407014.9785185186,
+    "media_estado": 1717689.3358333334
+}

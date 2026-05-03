@@ -1,0 +1,16 @@
+{
+    "nome": "Dilvanda Faro",
+    "partido": "PT",
+    "estado": "PA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1177038.0,
+        "PASSAGEM AÉREA - SIGEPA": 309512.2500000002,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 306894.11,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 29872.8,
+        "PASSAGEM AÉREA - REEMBOLSO": 11662.25,
+        "TELEFONIA": 820.29
+    },
+    "gasto_total": 1835799.7000000002,
+    "media_partido": 1544421.8198484848,
+    "media_estado": 1489028.165882353
+}

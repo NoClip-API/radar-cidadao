@@ -1,0 +1,17 @@
+{
+    "nome": "Luciano Vieira",
+    "partido": "PSDB",
+    "estado": "RJ",
+    "resumo_despesas": {
+        "PASSAGEM AÉREA - SIGEPA": 511546.71000000014,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 391803.4499999999,
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 390520.29000000004,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 94235.05000000002,
+        "PASSAGEM AÉREA - REEMBOLSO": 29122.86,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 12930.0,
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 401.71
+    },
+    "gasto_total": 1430560.07,
+    "media_partido": 1368902.7247058824,
+    "media_estado": 1312454.644347826
+}

@@ -1,0 +1,17 @@
+{
+    "nome": "Pr. Marco Feliciano",
+    "partido": "PL",
+    "estado": "SP",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 827520.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 384110.0,
+        "PASSAGEM AÉREA - SIGEPA": 323085.20999999996,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 54857.079999999994,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 29085.500000000007,
+        "PASSAGEM AÉREA - RPA": 7907.879999999999,
+        "TELEFONIA": 5183.9299999999985
+    },
+    "gasto_total": 1631749.5999999999,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1277115.6085714286
+}

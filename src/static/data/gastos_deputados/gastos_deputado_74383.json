@@ -1,0 +1,16 @@
+{
+    "nome": "Giacobo",
+    "partido": "PSD",
+    "estado": "PR",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1283472.0999999999,
+        "PASSAGEM AÉREA - SIGEPA": 298580.76000000007,
+        "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 82100.0,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 55723.31,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 15991.599999999999,
+        "PASSAGEM AÉREA - RPA": 609.75
+    },
+    "gasto_total": 1736477.52,
+    "media_partido": 1430384.1870212767,
+    "media_estado": 1423141.0463333332
+}

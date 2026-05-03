@@ -1,0 +1,19 @@
+{
+    "nome": "Paulo Folletto",
+    "partido": "PSB",
+    "estado": "ES",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 707541.9,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 361542.3099999998,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 326465.8,
+        "PASSAGEM AÉREA - SIGEPA": 186271.08,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 116348.38999999998,
+        "TELEFONIA": 19864.83,
+        "PASSAGEM AÉREA - RPA": 10827.83,
+        "ASSINATURA DE PUBLICAÇÕES": 2895.9,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 2800.0
+    },
+    "gasto_total": 1734558.0399999998,
+    "media_partido": 1499953.7518749998,
+    "media_estado": 1580562.651
+}

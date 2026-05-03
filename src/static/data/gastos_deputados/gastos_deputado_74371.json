@@ -1,0 +1,16 @@
+{
+    "nome": "Rubens Otoni",
+    "partido": "PT",
+    "estado": "GO",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 723414.62,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 354289.0400000001,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 239971.87999999998,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 189556.0,
+        "TELEFONIA": 83904.19,
+        "ASSINATURA DE PUBLICAÇÕES": 838.8
+    },
+    "gasto_total": 1591974.53,
+    "media_partido": 1544421.8198484848,
+    "media_estado": 1385810.9447058823
+}

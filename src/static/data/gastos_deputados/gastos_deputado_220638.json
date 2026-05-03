@@ -1,0 +1,19 @@
+{
+    "nome": "Antonio Carlos Rodrigues",
+    "partido": "PL",
+    "estado": "SP",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 650888.1,
+        "PASSAGEM AÉREA - SIGEPA": 257538.1999999999,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 214280.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 150826.63000000006,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 58062.2,
+        "TELEFONIA": 17867.5,
+        "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 12375.5,
+        "SERVIÇOS POSTAIS": 4398.6,
+        "PASSAGEM AÉREA - REEMBOLSO": 3543.7599999999998
+    },
+    "gasto_total": 1369780.49,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1277115.6085714286
+}

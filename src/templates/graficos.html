@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Análise de Dados Políticos</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/graficos.css') }}">
+</head>
+
+<body>
+    <header>
+        <div class="topo-pagina">
+            <h1>Radar Cidadão</h1>
+        </div>
+        <nav>
+            <!-- Se tiver nav, deixa. Se não, tira. -->
+        </nav>
+        <div class="topo-pagina-subtexto">
+            <a href="/">Home</a>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="container-title">
+            <h2>Gastos por deputado</h2>
+        </div>
+
+        <img src="{{ url_for('static', filename='images/graficos/geral_gasto_por_deputado.png') }}" alt="Gráfico por candidatos">
+
+        <p>
+            O gráfico mostra os gastos dos deputados no mandato atual. Quanto maior, mais gastos.
+        </p>
+
+    </div>
+
+    <div class="container">
+        <div class="container-title">
+            <h2>Deputados por estado</h2>
+        </div>
+
+
+        <img src="{{ url_for('static', filename='images/graficos/geral_deputados_por_estado.png') }}" alt="Gráfico por partido">
+
+        <p>
+            O gráfico mostra quantos deputados na câmara tem cada estado. Quanto maior, mais deputados.
+        </p>
+    </div>
+
+
+    <div class="container">
+        <div class="container-title">
+            <h2>Deputados por partido</h2>
+        </div>
+
+
+        <img src="{{ url_for('static', filename='images/graficos/geral_deputados_por_partido.png') }}" alt="Gráfico por estado">
+
+        <p>
+            O gráfico mostra quantos deputados na câmara tem cada partido. Quanto maior, mais deputados.
+        </p>
+    </div>
+</body>
+</html>

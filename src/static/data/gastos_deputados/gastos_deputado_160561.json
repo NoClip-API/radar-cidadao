@@ -1,0 +1,20 @@
+{
+    "nome": "Missionário José Olimpio",
+    "partido": "PL",
+    "estado": "SP",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 225900.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 77866.63,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 26341.959999999995,
+        "PASSAGEM AÉREA - SIGEPA": 16271.99,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 9042.530000000002,
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 3596.5600000000004,
+        "PASSAGEM AÉREA - REEMBOLSO": 1892.78,
+        "TELEFONIA": 1161.15,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 497.3,
+        "SERVIÇOS POSTAIS": 225.6
+    },
+    "gasto_total": 362796.5,
+    "media_partido": 1449279.8810526314,
+    "media_estado": 1277115.6085714286
+}

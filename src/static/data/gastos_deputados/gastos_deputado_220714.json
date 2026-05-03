@@ -1,0 +1,17 @@
+{
+    "nome": "Adail Filho",
+    "partido": "MDB",
+    "estado": "AM",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1125950.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 267000.0,
+        "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 194750.0,
+        "PASSAGEM AÉREA - SIGEPA": 139267.97999999998,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 120557.41000000002,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 945.2,
+        "TELEFONIA": 704.5400000000001
+    },
+    "gasto_total": 1849175.13,
+    "media_partido": 1467107.067105263,
+    "media_estado": 1236170.91375
+}

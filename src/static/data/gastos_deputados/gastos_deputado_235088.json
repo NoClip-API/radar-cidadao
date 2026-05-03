@@ -1,0 +1,15 @@
+{
+    "nome": "Ribeiro Neto",
+    "partido": "SOLIDARIEDADE",
+    "estado": "MA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 85150.0,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 17206.93,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 5595.169999999999,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 2359.9,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 409.42
+    },
+    "gasto_total": 110721.42,
+    "media_partido": 1060154.7542857144,
+    "media_estado": 1197844.9833333334
+}

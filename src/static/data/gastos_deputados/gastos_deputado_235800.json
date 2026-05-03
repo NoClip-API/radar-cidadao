@@ -1,0 +1,13 @@
+{
+    "nome": "Jorge Araújo",
+    "partido": "PP",
+    "estado": "BA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 6000.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 2121.56,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 99.92
+    },
+    "gasto_total": 8221.48,
+    "media_partido": 1403590.7759574468,
+    "media_estado": 1468149.24
+}

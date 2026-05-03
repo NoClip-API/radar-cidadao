@@ -1,0 +1,18 @@
+{
+    "nome": "Júnior Ferrari",
+    "partido": "PSD",
+    "estado": "PA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 738460.19,
+        "PASSAGEM AÉREA - SIGEPA": 238382.57000000012,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 122030.58000000002,
+        "LOCAÇÃO OU FRETAMENTO DE AERONAVES": 45800.0,
+        "PASSAGEM AÉREA - REEMBOLSO": 10633.87,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 3174.86,
+        "PASSAGEM AÉREA - RPA": 1744.3200000000002,
+        "TELEFONIA": 1398.06
+    },
+    "gasto_total": 1161624.4500000002,
+    "media_partido": 1430384.1870212767,
+    "media_estado": 1489028.165882353
+}

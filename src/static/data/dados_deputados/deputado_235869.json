@@ -1,0 +1,38 @@
+{
+  "id": 235869,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/235869",
+  "nomeCivil": "JOÃO CARLOS DOS SANTOS MELLO",
+  "ultimoStatus": {
+    "id": 235869,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/235869",
+    "nome": "João Carlos",
+    "siglaPartido": "REPUBLICANOS",
+    "uriPartido": null,
+    "siglaUf": "AM",
+    "idLegislatura": 57,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/235869.jpg",
+    "email": null,
+    "data": "2026-04-14",
+    "nomeEleitoral": "João Carlos",
+    "gabinete": {
+      "nome": "532",
+      "predio": "4",
+      "sala": "532",
+      "andar": "5",
+      "telefone": "3215-5532",
+      "email": "dep.joaocarlos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "07489098777",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1976-08-06",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": null
+}

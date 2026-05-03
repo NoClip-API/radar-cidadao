@@ -1,0 +1,14 @@
+{
+    "nome": "Paulo Teixeira",
+    "partido": "PT",
+    "estado": "SP",
+    "resumo_despesas": {
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 857.45,
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 805.48,
+        "TELEFONIA": 483.7,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 146.45
+    },
+    "gasto_total": 2293.08,
+    "media_partido": 1544421.8198484848,
+    "media_estado": 1277115.6085714286
+}

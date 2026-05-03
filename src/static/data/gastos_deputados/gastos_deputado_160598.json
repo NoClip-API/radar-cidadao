@@ -1,0 +1,16 @@
+{
+    "nome": "Flávia Morais",
+    "partido": "MDB",
+    "estado": "GO",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 747810.0,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 298876.39000000036,
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 227928.81,
+        "TELEFONIA": 51686.670000000006,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 48598.32000000002,
+        "PASSAGEM AÉREA - SIGEPA": 3079.73
+    },
+    "gasto_total": 1377979.9200000004,
+    "media_partido": 1467107.067105263,
+    "media_estado": 1385810.9447058823
+}

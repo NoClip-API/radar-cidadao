@@ -1,0 +1,16 @@
+{
+    "nome": "Erika Kokay",
+    "partido": "PT",
+    "estado": "DF",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1216846.1,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 84462.66999999995,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 33517.899999999994,
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 27970.62999999993,
+        "TELEFONIA": 4046.9199999999987,
+        "ASSINATURA DE PUBLICAÇÕES": 433.57
+    },
+    "gasto_total": 1367277.79,
+    "media_partido": 1544421.8198484848,
+    "media_estado": 1162208.87875
+}

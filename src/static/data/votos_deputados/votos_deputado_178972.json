@@ -1,0 +1,626 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:33:25",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "descricao_detalhada": "Altera o artigo 112 da Lei de Execução Penal para repristinar as alterações que lhe haviam sido feitas pela Lei n.º 15.358, de 24 de março de 2026 – Lei Raul Jungmann.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:21:49",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "dataHora": "2026-04-28T21:33:32",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T21:09:33",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:27:58",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "descricao_detalhada": "Institui o Estatuto do Aprendiz e dá outras providências.",
+            "titulo": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "dataHora": "2026-04-22T22:37:34",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:12:23",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "descricao_detalhada": "Veda a disposição em convenção condominial de cláusula que restrinja, de qualquer forma, a locação de imóveis comerciais para agremiações partidárias.",
+            "titulo": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "dataHora": "2026-04-22T22:17:21",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T21:18:52",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "dataHora": "2026-04-22T21:24:46",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-22T19:17:28",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "descricao_detalhada": "Institui a Política Nacional “Mais Cultura nas Escolas” e dá outras providências.",
+            "titulo": "Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395.",
+            "dataHora": "2026-04-22T19:25:42",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-15T21:39:02",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "descricao_detalhada": "Estabelece condições para a concessão de isenção do Imposto sobre Serviços de Qualquer Natureza – ISS para fatos geradores relacionados à organização ou à realização da Copa do Mundo Feminina da FIFA 2027.",
+            "titulo": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "dataHora": "2026-04-15T21:50:20",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-04-08T17:47:41",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "dataHora": "2026-04-08T18:06:17",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:12:24",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T19:07:15",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383.",
+            "descricao_detalhada": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do art. 145, § 1º, da Constituição Federal.",
+            "titulo": "Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383.",
+            "dataHora": "2026-04-07T19:16:28",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-18T22:12:39",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.",
+            "descricao_detalhada": "Altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, para aumentar as penas cominadas aos crimes de furto e roubo.\n  NOVA EMENTA: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a fim de majorar as penas previstas para os crimes de furto, roubo, receptação, receptação de animal e interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública, bem como para tipificar os crimes de recepção de animal doméstico e de fraude bancária.",
+            "titulo": "Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.",
+            "dataHora": "2026-03-18T22:27:51",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:27:44",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "descricao_detalhada": "Altera a Lei n.º 11.445, de 5 de janeiro de 2007 (Lei de Saneamento Básico), para garantir o acesso à água potável e ao esgotamento sanitário como direitos humanos, e dá outras providências.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "dataHora": "2026-03-17T21:44:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T20:34:16",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "descricao_detalhada": "Disciplina o processo de desmembramento simplificado de Municípios com o fim exclusivo de solucionar conflitos territoriais.",
+            "titulo": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "dataHora": "2026-03-17T20:41:40",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T19:14:50",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
+            "descricao_detalhada": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a                     R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
+            "dataHora": "2026-03-17T19:32:34",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-04T21:45:18",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475.",
+            "descricao_detalhada": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475.",
+            "dataHora": "2026-03-04T21:47:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-04T20:08:04",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+            "descricao_detalhada": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+            "titulo": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+            "dataHora": "2026-03-04T21:08:56",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-02T19:08:50",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 102; Não: 301; Abstenção: 1; Total: 404.",
+            "descricao_detalhada": "Estabelece o sistema brasileiro de apoio oficial ao crédito à exportação e altera a Lei nº 12.712, de 30 de agosto de 2012, a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 10.184, de 12 de fevereiro de 2001.",
+            "titulo": "Rejeitado o Requerimento. Sim: 102; Não: 301; Abstenção: 1; Total: 404.",
+            "dataHora": "2026-03-02T19:23:12",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-02-10T20:28:54",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 87; Não: 301; Total: 388.",
+            "descricao_detalhada": "Dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica, e altera a Lei nº 11.196, de 21 de novembro de 2005, e a Lei nº 10.865, de 30 de abril de 2004.",
+            "titulo": "Rejeitado o Requerimento. Sim: 87; Não: 301; Total: 388.",
+            "dataHora": "2026-02-10T20:37:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-10T18:34:24",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 103; Abstenção: 1; Total: 377.",
+            "descricao_detalhada": "Cria a Universidade Federal do Esporte.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 103; Abstenção: 1; Total: 377.",
+            "dataHora": "2026-02-10T18:59:54",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-10T21:30:44",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397.",
+            "descricao_detalhada": "Cria a Universidade Federal Indígena.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397.",
+            "dataHora": "2026-02-10T22:15:45",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-09T21:38:26",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398.",
+            "descricao_detalhada": "Altera a Lei nº 13.709, de 14 de agosto de 2018, para tratar da Agência Nacional de Proteção de Dados, a Lei nº 10.871, de 20 de maio de 2004, para criar a Carreira de Regulação e Fiscalização de Proteção de Dados, transforma cargos no âmbito do Poder Executivo federal, e dá outras providências.",
+            "titulo": "Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398.",
+            "dataHora": "2026-02-09T21:44:27",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-09T19:48:04",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; Não: 113; Total: 417.",
+            "descricao_detalhada": "Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; Não: 113; Total: 417.",
+            "dataHora": "2026-02-09T19:57:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-02T20:09:58",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 401; Não: 34; Total: 435.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Mantido o texto. Sim: 401; Não: 34; Total: 435.",
+            "dataHora": "2026-02-02T20:35:58",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-02-02T18:38:48",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384.",
+            "dataHora": "2026-02-02T18:49:33",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-02T19:09:57",
+            "deputado_": {
+                "id": 178972,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972",
+                "nome": "Alex Manente",
+                "siglaPartido": "CIDADANIA",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
+                "email": "dep.alexmanente@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "dataHora": "2026-02-02T19:36:06",
+            "aprovacao": 1
+        }
+    }
+]

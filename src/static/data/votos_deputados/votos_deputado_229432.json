@@ -1,0 +1,74 @@
+[
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-02T20:12:17",
+            "deputado_": {
+                "id": 229432,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229432",
+                "nome": "Luiz Fernando Vampiro",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229432.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 401; Não: 34; Total: 435.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Mantido o texto. Sim: 401; Não: 34; Total: 435.",
+            "dataHora": "2026-02-02T20:35:58",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-02-02T18:39:48",
+            "deputado_": {
+                "id": 229432,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229432",
+                "nome": "Luiz Fernando Vampiro",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229432.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384.",
+            "dataHora": "2026-02-02T18:49:33",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-02T19:12:57",
+            "deputado_": {
+                "id": 229432,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/229432",
+                "nome": "Luiz Fernando Vampiro",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SC",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/229432.jpg",
+                "email": null
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "dataHora": "2026-02-02T19:36:06",
+            "aprovacao": 1
+        }
+    }
+]

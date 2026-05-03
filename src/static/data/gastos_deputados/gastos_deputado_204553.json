@@ -1,0 +1,16 @@
+{
+    "nome": "Pastor Sargento Isidório",
+    "partido": "AVANTE",
+    "estado": "BA",
+    "resumo_despesas": {
+        "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 291760.0,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 156717.61,
+        "PASSAGEM AÉREA - SIGEPA": 132116.73000000013,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 36233.600000000006,
+        "TELEFONIA": 22332.490000000005,
+        "PASSAGEM AÉREA - RPA": 2299.27
+    },
+    "gasto_total": 641459.7000000001,
+    "media_partido": 1210010.2583333333,
+    "media_estado": 1468149.24
+}

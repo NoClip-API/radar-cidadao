@@ -1,0 +1,18 @@
+{
+    "nome": "Alice Portugal",
+    "partido": "PCdoB",
+    "estado": "BA",
+    "resumo_despesas": {
+        "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 1144341.5,
+        "PASSAGEM AÉREA - SIGEPA": 419656.97999999963,
+        "COMBUSTÍVEIS E LUBRIFICANTES.": 93114.78000000004,
+        "TELEFONIA": 24551.08,
+        "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 4929.57,
+        "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR": 174.54,
+        "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO": 163.55,
+        "PASSAGEM AÉREA - RPA": 72.95
+    },
+    "gasto_total": 1687004.9499999997,
+    "media_partido": 1255090.1281818182,
+    "media_estado": 1468149.24
+}
