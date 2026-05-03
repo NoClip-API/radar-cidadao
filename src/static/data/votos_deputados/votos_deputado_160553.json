@@ -17,29 +17,9 @@
         },
         "informacoes": {
             "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
             "dataHora": "2026-04-28T21:20:06",
-            "aprovacao": 1
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-04-08T19:17:50",
-            "deputado_": {
-                "id": 160553,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
-                "nome": "Antonio Brito",
-                "siglaPartido": "PSD",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
-                "siglaUf": "BA",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
-                "email": "dep.antoniobrito@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
-            "dataHora": "2026-04-08T20:27:52",
             "aprovacao": 1
         }
     },
@@ -61,8 +41,34 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
             "dataHora": "2026-04-08T18:06:17",
             "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:17:50",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
         }
     },
     {
@@ -83,6 +89,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
+            "descricao_detalhada": "Dispõe sobre as definições e características dos produtos derivados de cacau, o percentual mínimo de cacau nos chocolates e a informação do percentual total de cacau nos rótulos desses produtos, nacionais e importados, comercializados em todo o território nacional.",
+            "titulo": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
             "dataHora": "2026-03-17T21:54:32",
             "aprovacao": 0
         }
@@ -105,7 +113,225 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
+            "descricao_detalhada": "Susta a Instrução Normativa nº 125, de 23 de março de 2021, da Secretaria de Defesa Agropecuária do Ministério da Agricultura, Pecuária e Abastecimento, que atualiza os requisitos fitossanitários para a importação de amêndoas fermentadas e secas de cacau produzidas na Costa do Marfim.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
             "dataHora": "2026-03-17T21:26:08",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-04T21:25:14",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475.",
+            "descricao_detalhada": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475.",
+            "dataHora": "2026-03-04T21:47:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-04T21:02:47",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+            "descricao_detalhada": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+            "titulo": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+            "dataHora": "2026-03-04T21:08:56",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-03T17:14:57",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 96; Não: 305; Abstenção: 3; Total: 404.",
+            "descricao_detalhada": "Altera a Lei nº 13.316, de 20 de julho de 2016, que dispõe sobre as carreiras dos servidores do Ministério Público da União e as carreiras dos servidores do Conselho Nacional do Ministério Público.",
+            "titulo": "Rejeitado o Requerimento. Sim: 96; Não: 305; Abstenção: 3; Total: 404.",
+            "dataHora": "2026-03-03T17:20:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-03T20:35:07",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414.",
+            "descricao_detalhada": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+            "titulo": "Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414.",
+            "dataHora": "2026-03-03T20:42:09",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-02T20:19:51",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449.",
+            "descricao_detalhada": "Estabelece o sistema brasileiro de apoio oficial ao crédito à exportação e altera a Lei nº 12.712, de 30 de agosto de 2012, a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 10.184, de 12 de fevereiro de 2001.",
+            "titulo": "Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449.",
+            "dataHora": "2026-03-02T20:26:10",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-02-10T19:22:09",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 147; Não: 242; Abstenção: 1; Total: 390.",
+            "descricao_detalhada": "Cria a Universidade Federal do Esporte.",
+            "titulo": "Rejeitado o Requerimento. Sim: 147; Não: 242; Abstenção: 1; Total: 390.",
+            "dataHora": "2026-02-10T19:35:20",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-10T22:10:11",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397.",
+            "descricao_detalhada": "Cria a Universidade Federal Indígena.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397.",
+            "dataHora": "2026-02-10T22:15:45",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-02-02T18:41:18",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384.",
+            "dataHora": "2026-02-02T18:49:33",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-02T19:09:43",
+            "deputado_": {
+                "id": 160553,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160553",
+                "nome": "Antonio Brito",
+                "siglaPartido": "PSD",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+                "siglaUf": "BA",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+                "email": "dep.antoniobrito@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "dataHora": "2026-02-02T19:36:06",
             "aprovacao": 1
         }
     }

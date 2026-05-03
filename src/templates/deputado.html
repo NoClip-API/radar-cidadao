@@ -43,12 +43,43 @@
                     <h2>{{ deputado['ultimoStatus']['siglaPartido'] }}</h2>
                 </div>
                 {% if votos %}
-                {% for voto in votos %}
-                <div class="container-dados">
-                    <p>{{ voto['dados_voto'] }}</p>
-                    <p>{{ voto['informacoes'] }}</p>
+                <div class="votos-wrapper">
+                    <div class="votos-container">
+                        <h1>Votos</h1>
+                    {% for voto in votos %}
+                        <div class="voto-card 
+                            {% if voto['dados_voto']['tipoVoto'] == 'Sim' %}sim
+                            {% elif voto['dados_voto']['tipoVoto'] == 'Não' %}nao
+                            {% endif %}
+                        ">
+
+                            <div class="voto-header">
+                                <span class="badge">
+                                    {{ voto['dados_voto']['tipoVoto'] }}
+                                </span>
+
+                                <span class="data">
+                                    {{ voto['informacoes']['dataHora'][:10] }}
+                                </span>
+                            </div>
+
+                            <div class="voto-body">
+                                <p>{{ voto['informacoes']['descricao_detalhada'] }}</p>
+                            </div>
+
+                            <div class="voto-footer">
+                                {% if voto['informacoes']['aprovacao'] == 1 %}
+                                    <span class="status aprovado">Aprovado</span>
+                                {% elif voto['informacoes']['aprovacao'] == 0 %}
+                                    <span class="status rejeitado">Rejeitado</span>
+                                {% else %}
+                                    <span class="status neutro">Indefinido</span>
+                                {% endif %}
+                            </div>
+                        </div>
+                    {% endfor %}
                 </div>
-                {% endfor %}
+                </div>
                 {% endif %}
                 <div class="container">
                     <img src="../img/graficos/nikolas_ferreira_gastos.png" alt="">

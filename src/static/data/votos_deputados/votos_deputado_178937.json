@@ -17,6 +17,8 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "descricao_detalhada": "Altera o artigo 112 da Lei de Execução Penal para repristinar as alterações que lhe haviam sido feitas pela Lei n.º 15.358, de 24 de março de 2026 – Lei Raul Jungmann.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
             "dataHora": "2026-04-28T20:44:15",
             "aprovacao": 1
         }
@@ -39,6 +41,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
             "dataHora": "2026-04-22T21:24:46",
             "aprovacao": 0
         }
@@ -61,6 +65,8 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 22; Total: 327.",
+            "descricao_detalhada": "Institui exigências de compensação de pegada de carbono para produtos e serviços provenientes da União Europeia, com base na Cédula de Produto Rural Verde (CPR Verde), e dá outras providências.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 22; Total: 327.",
             "dataHora": "2026-04-15T20:25:29",
             "aprovacao": 1
         }
@@ -83,29 +89,9 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "descricao_detalhada": "Altera a redação do § 4º no art. 5º da Lei nº 11.947, de 16 de junho de 2009, para que seja considerado o custo amazônico em relação às matrículas da região amazônica.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
             "dataHora": "2026-04-15T20:19:50",
-            "aprovacao": 1
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-04-08T19:17:39",
-            "deputado_": {
-                "id": 178937,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
-                "nome": "Altineu Côrtes",
-                "siglaPartido": "PL",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
-                "siglaUf": "RJ",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
-                "email": "dep.altineucortes@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
-            "dataHora": "2026-04-08T20:27:52",
             "aprovacao": 1
         }
     },
@@ -127,8 +113,34 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
             "dataHora": "2026-04-08T18:06:17",
             "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:17:39",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
         }
     },
     {
@@ -149,6 +161,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394.",
+            "descricao_detalhada": "Dispõe sobre a criação de duas varas federais no Estado do Amazonas e de seis varas federais no Estado de Mato Grosso do Sul.",
+            "titulo": "Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394.",
             "dataHora": "2026-03-25T16:50:19",
             "aprovacao": 0
         }
@@ -171,6 +185,8 @@
         },
         "informacoes": {
             "descricao": "Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.",
+            "descricao_detalhada": "Cria o Cadastro Nacional de Equipes de Futebol e Entidades de Administração do Esporte que tenham sofrido punições decorrentes da prática de racismo (Lista Suja do Racismo no Futebol) durante a realização de partidas de futebol.",
+            "titulo": "Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416.",
             "dataHora": "2026-03-24T18:05:22",
             "aprovacao": null
         }
@@ -193,6 +209,8 @@
         },
         "informacoes": {
             "descricao": "Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.",
+            "descricao_detalhada": "Altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, para aumentar as penas cominadas aos crimes de furto e roubo.\n  NOVA EMENTA: Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a fim de majorar as penas previstas para os crimes de furto, roubo, receptação, receptação de animal e interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública, bem como para tipificar os crimes de recepção de animal doméstico e de fraude bancária.",
+            "titulo": "Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394.",
             "dataHora": "2026-03-18T22:27:51",
             "aprovacao": null
         }
@@ -215,6 +233,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "descricao_detalhada": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir a violência vicária dentre as definições de violência doméstica e familiar contra a mulher de que trata o respectivo art. 7º.",
+            "titulo": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
             "dataHora": "2026-03-18T21:38:40",
             "aprovacao": 0
         }
@@ -237,6 +257,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
+            "descricao_detalhada": "Dispõe sobre as definições e características dos produtos derivados de cacau, o percentual mínimo de cacau nos chocolates e a informação do percentual total de cacau nos rótulos desses produtos, nacionais e importados, comercializados em todo o território nacional.",
+            "titulo": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
             "dataHora": "2026-03-17T21:54:32",
             "aprovacao": 0
         }
@@ -259,6 +281,8 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "descricao_detalhada": "Altera a Lei n.º 11.445, de 5 de janeiro de 2007 (Lei de Saneamento Básico), para garantir o acesso à água potável e ao esgotamento sanitário como direitos humanos, e dá outras providências.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
             "dataHora": "2026-03-17T21:44:38",
             "aprovacao": 1
         }
@@ -281,6 +305,8 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
+            "descricao_detalhada": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a                     R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
             "dataHora": "2026-03-17T19:32:34",
             "aprovacao": 1
         }
@@ -303,8 +329,226 @@
         },
         "informacoes": {
             "descricao": "Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368.",
+            "descricao_detalhada": "Institui a Política Nacional de Assistência Jurídica Obrigatória às Vítimas em Situação de Vulnerabilidade – PNAJOV, dispõe sobre a prestação de assistência jurídica às vítimas, altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e dá outras providências.",
+            "titulo": "Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368.",
             "dataHora": "2026-03-11T22:06:25",
             "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-10T20:07:31",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 408; Não: 13; Total: 421.",
+            "descricao_detalhada": "Determina a aplicação de monitoramento eletrônico para agressores em casos de violência doméstica , como medida de proteção às vítimas e prevenção de novos episódios de agressão.",
+            "titulo": "Mantido o texto. Sim: 408; Não: 13; Total: 421.",
+            "dataHora": "2026-03-10T20:13:26",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-04T21:19:43",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475.",
+            "descricao_detalhada": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475.",
+            "dataHora": "2026-03-04T21:47:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-04T20:39:11",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+            "descricao_detalhada": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+            "titulo": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+            "dataHora": "2026-03-04T21:08:56",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Artigo 17",
+            "dataRegistroVoto": "2026-03-03T20:03:51",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 148; Não: 237; Abstenção: 1; Total: 386.",
+            "descricao_detalhada": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+            "titulo": "Rejeitado o Requerimento. Sim: 148; Não: 237; Abstenção: 1; Total: 386.",
+            "dataHora": "2026-03-03T20:11:16",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Artigo 17",
+            "dataRegistroVoto": "2026-03-03T19:09:10",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432.",
+            "descricao_detalhada": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+            "titulo": "Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432.",
+            "dataHora": "2026-03-03T19:56:04",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Artigo 17",
+            "dataRegistroVoto": "2026-03-03T17:09:03",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 96; Não: 305; Abstenção: 3; Total: 404.",
+            "descricao_detalhada": "Altera a Lei nº 13.316, de 20 de julho de 2016, que dispõe sobre as carreiras dos servidores do Ministério Público da União e as carreiras dos servidores do Conselho Nacional do Ministério Público.",
+            "titulo": "Rejeitado o Requerimento. Sim: 96; Não: 305; Abstenção: 3; Total: 404.",
+            "dataHora": "2026-03-03T17:20:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Artigo 17",
+            "dataRegistroVoto": "2026-03-03T20:33:08",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414.",
+            "descricao_detalhada": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+            "titulo": "Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414.",
+            "dataHora": "2026-03-03T20:42:09",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Artigo 17",
+            "dataRegistroVoto": "2026-03-03T16:43:31",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434.",
+            "descricao_detalhada": "Garante o internamento voluntário de menores para tratar dependência química, bem como, a permanência, destes quando estejam sob a tutela de pais ou mães dependentes químicos em tratamento voluntário, de forma a garantir a continuidade do vínculo familiar durante o processo de recuperação, em instituições de tratamento credenciadas pelos órgãos públicos, assegurando ambiente apropriado e recursos especializados.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434.",
+            "dataHora": "2026-03-03T17:03:27",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-02-25T19:00:38",
+            "deputado_": {
+                "id": 178937,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178937",
+                "nome": "Altineu Côrtes",
+                "siglaPartido": "PL",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+                "siglaUf": "RJ",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178937.jpg",
+                "email": "dep.altineucortes@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428.",
+            "descricao_detalhada": "Acordo sobre a 15ª Reunião da Conferência das Partes da Convenção sobre a Conservação das Espécies Migratórias de Animais Silvestres, assinado em Nairóbi, Quênia, em 21 de dezembro de 2025",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428.",
+            "dataHora": "2026-02-25T19:04:51",
+            "aprovacao": 1
         }
     }
 ]

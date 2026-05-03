@@ -2,7 +2,7 @@
     {
         "dados_voto": {
             "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-04-28T20:54:10",
+            "dataRegistroVoto": "2026-04-29T18:01:41",
             "deputado_": {
                 "id": 204533,
                 "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
@@ -16,8 +16,34 @@
             }
         },
         "informacoes": {
-            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
-            "dataHora": "2026-04-28T21:20:06",
+            "descricao": "Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 154; Não: 245; Abstenção: 3; Total: 402.",
+            "descricao_detalhada": "Submete a desconstituição da coisa julgada tributária, contrária à decisão proferida em controle concentrado ou em sede de repercussão geral, à ação rescisória.",
+            "titulo": "Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 154; Não: 245; Abstenção: 3; Total: 402.",
+            "dataHora": "2026-04-29T18:23:26",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-28T20:32:29",
+            "deputado_": {
+                "id": 204533,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
+                "nome": "Idilvan Alencar",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
+                "email": "dep.idilvanalencar@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "descricao_detalhada": "Altera o artigo 112 da Lei de Execução Penal para repristinar as alterações que lhe haviam sido feitas pela Lei n.º 15.358, de 24 de março de 2026 – Lei Raul Jungmann.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
+            "dataHora": "2026-04-28T20:44:15",
             "aprovacao": 1
         }
     },
@@ -39,6 +65,8 @@
         },
         "informacoes": {
             "descricao": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387.",
             "dataHora": "2026-04-28T21:33:32",
             "aprovacao": 1
         }
@@ -46,7 +74,7 @@
     {
         "dados_voto": {
             "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-04-28T20:32:29",
+            "dataRegistroVoto": "2026-04-28T20:54:10",
             "deputado_": {
                 "id": 204533,
                 "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
@@ -60,30 +88,10 @@
             }
         },
         "informacoes": {
-            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434.",
-            "dataHora": "2026-04-28T20:44:15",
-            "aprovacao": 1
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-04-22T22:13:11",
-            "deputado_": {
-                "id": 204533,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
-                "nome": "Idilvan Alencar",
-                "siglaPartido": "PSB",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
-                "siglaUf": "CE",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
-                "email": "dep.idilvanalencar@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
-            "dataHora": "2026-04-22T22:17:21",
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "dataHora": "2026-04-28T21:20:06",
             "aprovacao": 1
         }
     },
@@ -105,8 +113,34 @@
         },
         "informacoes": {
             "descricao": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "descricao_detalhada": "Institui o Estatuto do Aprendiz e dá outras providências.",
+            "titulo": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
             "dataHora": "2026-04-22T22:37:34",
             "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:13:11",
+            "deputado_": {
+                "id": 204533,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
+                "nome": "Idilvan Alencar",
+                "siglaPartido": "PSB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
+                "email": "dep.idilvanalencar@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "descricao_detalhada": "Veda a disposição em convenção condominial de cláusula que restrinja, de qualquer forma, a locação de imóveis comerciais para agremiações partidárias.",
+            "titulo": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "dataHora": "2026-04-22T22:17:21",
+            "aprovacao": 1
         }
     },
     {
@@ -127,6 +161,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
             "dataHora": "2026-04-22T21:01:12",
             "aprovacao": 0
         }
@@ -149,6 +185,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360.",
             "dataHora": "2026-04-22T21:24:46",
             "aprovacao": 0
         }
@@ -171,6 +209,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
             "dataHora": "2026-04-22T20:45:54",
             "aprovacao": 0
         }
@@ -193,6 +233,8 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
+            "descricao_detalhada": "Estabelece condições para a concessão de isenção do Imposto sobre Serviços de Qualquer Natureza – ISS para fatos geradores relacionados à organização ou à realização da Copa do Mundo Feminina da FIFA 2027.",
+            "titulo": "Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381.",
             "dataHora": "2026-04-15T21:50:20",
             "aprovacao": 1
         }
@@ -215,6 +257,8 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 22; Total: 327.",
+            "descricao_detalhada": "Institui exigências de compensação de pegada de carbono para produtos e serviços provenientes da União Europeia, com base na Cédula de Produto Rural Verde (CPR Verde), e dá outras providências.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 22; Total: 327.",
             "dataHora": "2026-04-15T20:25:29",
             "aprovacao": 1
         }
@@ -237,29 +281,9 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
+            "descricao_detalhada": "Altera a redação do § 4º no art. 5º da Lei nº 11.947, de 16 de junho de 2009, para que seja considerado o custo amazônico em relação às matrículas da região amazônica.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384.",
             "dataHora": "2026-04-15T20:19:50",
-            "aprovacao": 1
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-04-08T19:16:29",
-            "deputado_": {
-                "id": 204533,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
-                "nome": "Idilvan Alencar",
-                "siglaPartido": "PDT",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
-                "siglaUf": "CE",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
-                "email": "dep.idilvanalencar@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
-            "dataHora": "2026-04-08T20:27:52",
             "aprovacao": 1
         }
     },
@@ -281,8 +305,34 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445.",
             "dataHora": "2026-04-08T18:06:17",
             "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-08T19:16:29",
+            "deputado_": {
+                "id": 204533,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
+                "nome": "Idilvan Alencar",
+                "siglaPartido": "PDT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
+                "email": "dep.idilvanalencar@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
         }
     },
     {
@@ -303,30 +353,10 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383.",
+            "descricao_detalhada": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do art. 145, § 1º, da Constituição Federal.",
+            "titulo": "Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383.",
             "dataHora": "2026-04-07T19:16:28",
             "aprovacao": 1
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-04-07T17:24:37",
-            "deputado_": {
-                "id": 204533,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
-                "nome": "Idilvan Alencar",
-                "siglaPartido": "PDT",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
-                "siglaUf": "CE",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
-                "email": "dep.idilvanalencar@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Mantido o texto. Sim: 268; Não: 99; Total: 367.",
-            "dataHora": "2026-04-07T17:39:44",
-            "aprovacao": null
         }
     },
     {
@@ -347,8 +377,34 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366.",
+            "descricao_detalhada": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do art. 145, § 1º, da Constituição Federal.",
+            "titulo": "Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366.",
             "dataHora": "2026-04-07T18:52:43",
             "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-07T17:24:37",
+            "deputado_": {
+                "id": 204533,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533",
+                "nome": "Idilvan Alencar",
+                "siglaPartido": "PDT",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+                "siglaUf": "CE",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
+                "email": "dep.idilvanalencar@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 268; Não: 99; Total: 367.",
+            "descricao_detalhada": "Altera a Lei nº 10.779, de 25 de novembro de 2003, que dispõe sobre a concessão do benefício de seguro-desemprego, durante o período de defeso, ao pescador profissional que exerce a atividade pesqueira de forma artesanal.",
+            "titulo": "Mantido o texto. Sim: 268; Não: 99; Total: 367.",
+            "dataHora": "2026-04-07T17:39:44",
+            "aprovacao": null
         }
     }
 ]

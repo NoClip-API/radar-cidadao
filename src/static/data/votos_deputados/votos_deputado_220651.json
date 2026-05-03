@@ -17,29 +17,9 @@
         },
         "informacoes": {
             "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456.",
             "dataHora": "2026-04-28T21:20:06",
-            "aprovacao": 1
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-04-22T22:15:51",
-            "deputado_": {
-                "id": 220651,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
-                "nome": "Simone Marquetto",
-                "siglaPartido": "PP",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
-                "siglaUf": "SP",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
-                "email": "dep.simonemarquetto@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
-            "dataHora": "2026-04-22T22:17:21",
             "aprovacao": 1
         }
     },
@@ -61,8 +41,34 @@
         },
         "informacoes": {
             "descricao": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
+            "descricao_detalhada": "Institui o Estatuto do Aprendiz e dá outras providências.",
+            "titulo": "Mantido o texto. Sim: 252; Não: 161; Total: 413.",
             "dataHora": "2026-04-22T22:37:34",
             "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-04-22T22:15:51",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "PP",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "descricao_detalhada": "Veda a disposição em convenção condominial de cláusula que restrinja, de qualquer forma, a locação de imóveis comerciais para agremiações partidárias.",
+            "titulo": "Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 300; Não: 36; Abstenção: 1; Total: 337.",
+            "dataHora": "2026-04-22T22:17:21",
+            "aprovacao": 1
         }
     },
     {
@@ -83,6 +89,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390.",
             "dataHora": "2026-04-22T21:01:12",
             "aprovacao": 0
         }
@@ -105,6 +113,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
+            "descricao_detalhada": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+            "titulo": "Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395.",
             "dataHora": "2026-04-22T20:45:54",
             "aprovacao": 0
         }
@@ -127,7 +137,33 @@
         },
         "informacoes": {
             "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
+            "descricao_detalhada": "Altera a Constituição Federal para garantir recursos mínimos para o financiamento do Sistema Único de Assistência Social (SUAS)",
+            "titulo": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480.",
             "dataHora": "2026-04-08T20:27:52",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-25T17:43:32",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399.",
+            "descricao_detalhada": "Dispõe sobre a criação de duas varas federais no Estado do Amazonas e de seis varas federais no Estado de Mato Grosso do Sul.",
+            "titulo": "Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399.",
+            "dataHora": "2026-03-25T17:50:55",
             "aprovacao": 1
         }
     },
@@ -149,6 +185,8 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426.",
+            "descricao_detalhada": "Dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026.",
+            "titulo": "Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426.",
             "dataHora": "2026-03-25T19:17:50",
             "aprovacao": 1
         }
@@ -171,51 +209,9 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 124; Não: 257; Abstenção: 1; Total: 382.",
+            "descricao_detalhada": "Dispõe sobre a criação de duas varas federais no Estado do Amazonas e de seis varas federais no Estado de Mato Grosso do Sul.",
+            "titulo": "Rejeitado o Requerimento. Sim: 124; Não: 257; Abstenção: 1; Total: 382.",
             "dataHora": "2026-03-25T17:36:05",
-            "aprovacao": 0
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Não",
-            "dataRegistroVoto": "2026-03-25T17:43:32",
-            "deputado_": {
-                "id": 220651,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
-                "nome": "Simone Marquetto",
-                "siglaPartido": "MDB",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
-                "siglaUf": "SP",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
-                "email": "dep.simonemarquetto@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399.",
-            "dataHora": "2026-03-25T17:50:55",
-            "aprovacao": 1
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Não",
-            "dataRegistroVoto": "2026-03-18T19:27:15",
-            "deputado_": {
-                "id": 220651,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
-                "nome": "Simone Marquetto",
-                "siglaPartido": "MDB",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
-                "siglaUf": "SP",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
-                "email": "dep.simonemarquetto@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
-            "dataHora": "2026-03-18T19:34:13",
             "aprovacao": 0
         }
     },
@@ -237,30 +233,10 @@
         },
         "informacoes": {
             "descricao": "Mantido o texto. Sim: 232; Não: 151; Abstenção: 1; Total: 384.",
+            "descricao_detalhada": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir a violência vicária dentre as definições de violência doméstica e familiar contra a mulher de que trata o respectivo art. 7º.",
+            "titulo": "Mantido o texto. Sim: 232; Não: 151; Abstenção: 1; Total: 384.",
             "dataHora": "2026-03-18T21:57:11",
             "aprovacao": null
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Não",
-            "dataRegistroVoto": "2026-03-18T19:53:18",
-            "deputado_": {
-                "id": 220651,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
-                "nome": "Simone Marquetto",
-                "siglaPartido": "MDB",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
-                "siglaUf": "SP",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
-                "email": "dep.simonemarquetto@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422.",
-            "dataHora": "2026-03-18T20:00:50",
-            "aprovacao": 0
         }
     },
     {
@@ -281,7 +257,57 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
+            "descricao_detalhada": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir a violência vicária dentre as definições de violência doméstica e familiar contra a mulher de que trata o respectivo art. 7º.",
+            "titulo": "Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407.",
             "dataHora": "2026-03-18T21:38:40",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:53:18",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422.",
+            "descricao_detalhada": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir a violência vicária dentre as definições de violência doméstica e familiar contra a mulher de que trata o respectivo art. 7º.",
+            "titulo": "Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422.",
+            "dataHora": "2026-03-18T20:00:50",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-18T19:27:15",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "descricao_detalhada": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir a violência vicária dentre as definições de violência doméstica e familiar contra a mulher de que trata o respectivo art. 7º.",
+            "titulo": "Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429.",
+            "dataHora": "2026-03-18T19:34:13",
             "aprovacao": 0
         }
     },
@@ -303,30 +329,10 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
+            "descricao_detalhada": "Dispõe sobre as definições e características dos produtos derivados de cacau, o percentual mínimo de cacau nos chocolates e a informação do percentual total de cacau nos rótulos desses produtos, nacionais e importados, comercializados em todo o território nacional.",
+            "titulo": "Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362.",
             "dataHora": "2026-03-17T21:54:32",
             "aprovacao": 0
-        }
-    },
-    {
-        "dados_voto": {
-            "tipoVoto": "Sim",
-            "dataRegistroVoto": "2026-03-17T21:29:33",
-            "deputado_": {
-                "id": 220651,
-                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
-                "nome": "Simone Marquetto",
-                "siglaPartido": "MDB",
-                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
-                "siglaUf": "SP",
-                "idLegislatura": 57,
-                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
-                "email": "dep.simonemarquetto@camara.leg.br"
-            }
-        },
-        "informacoes": {
-            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
-            "dataHora": "2026-03-17T21:44:38",
-            "aprovacao": 1
         }
     },
     {
@@ -347,7 +353,33 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
+            "descricao_detalhada": "Susta a Instrução Normativa nº 125, de 23 de março de 2021, da Secretaria de Defesa Agropecuária do Ministério da Agricultura, Pecuária e Abastecimento, que atualiza os requisitos fitossanitários para a importação de amêndoas fermentadas e secas de cacau produzidas na Costa do Marfim.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418.",
             "dataHora": "2026-03-17T21:26:08",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-17T21:29:33",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "descricao_detalhada": "Altera a Lei n.º 11.445, de 5 de janeiro de 2007 (Lei de Saneamento Básico), para garantir o acesso à água potável e ao esgotamento sanitário como direitos humanos, e dá outras providências.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421.",
+            "dataHora": "2026-03-17T21:44:38",
             "aprovacao": 1
         }
     },
@@ -369,6 +401,8 @@
         },
         "informacoes": {
             "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
+            "descricao_detalhada": "Disciplina o processo de desmembramento simplificado de Municípios com o fim exclusivo de solucionar conflitos territoriais.",
+            "titulo": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418.",
             "dataHora": "2026-03-17T20:41:40",
             "aprovacao": 1
         }
@@ -391,6 +425,8 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
+            "descricao_detalhada": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a                     R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430.",
             "dataHora": "2026-03-17T19:32:34",
             "aprovacao": 1
         }
@@ -413,6 +449,8 @@
         },
         "informacoes": {
             "descricao": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
+            "descricao_detalhada": "Dispõe sobre a comercialização, a aquisição, a posse e o porte de aerossol de extratos vegetais por mulheres para fins de defesa pessoal, estabelece penalidades pelo uso indevido e altera a Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento).",
+            "titulo": "Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398.",
             "dataHora": "2026-03-11T18:51:21",
             "aprovacao": 0
         }
@@ -435,7 +473,609 @@
         },
         "informacoes": {
             "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
+            "descricao_detalhada": "Dispõe sobre o mapeamento, organização e divulgação dos dados sobre os impactos da crise climática na vida de meninas e mulheres que vivem no Brasil.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403.",
             "dataHora": "2026-03-11T17:52:46",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-10T20:03:56",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 408; Não: 13; Total: 421.",
+            "descricao_detalhada": "Determina a aplicação de monitoramento eletrônico para agressores em casos de violência doméstica , como medida de proteção às vítimas e prevenção de novos episódios de agressão.",
+            "titulo": "Mantido o texto. Sim: 408; Não: 13; Total: 421.",
+            "dataHora": "2026-03-10T20:13:26",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-10T17:56:18",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 380; Não: 57; Abstenção: 1; Total: 438.",
+            "descricao_detalhada": "Dispõe sobre o exercício da profissão de doula.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 380; Não: 57; Abstenção: 1; Total: 438.",
+            "dataHora": "2026-03-10T18:07:12",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-10T17:16:25",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 290; Não: 147; Total: 437.",
+            "descricao_detalhada": "Institui a Política Nacional “Mais Cultura nas Escolas” e dá outras providências.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 290; Não: 147; Total: 437.",
+            "dataHora": "2026-03-10T17:28:45",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-05T13:48:43",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 111; Abstenção: 1; Total: 398.",
+            "descricao_detalhada": "Acrescenta o Inciso XXXII ao art. 24 da Lei nº 8.666, de 21 de junho de 1993, e altera o art. 3º da Lei nº 10.972, de 2 de dezembro de 2004, permitindo a dispensa de licitação para aquisição de hemoderivados pelo Sistema Único de Saúde - SUS.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 111; Abstenção: 1; Total: 398.",
+            "dataHora": "2026-03-05T14:01:02",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-04T21:20:11",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475.",
+            "descricao_detalhada": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+            "titulo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475.",
+            "dataHora": "2026-03-04T21:47:42",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-04T20:05:44",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+            "descricao_detalhada": "Altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública.",
+            "titulo": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+            "dataHora": "2026-03-04T21:08:56",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-03T20:05:31",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 148; Não: 237; Abstenção: 1; Total: 386.",
+            "descricao_detalhada": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+            "titulo": "Rejeitado o Requerimento. Sim: 148; Não: 237; Abstenção: 1; Total: 386.",
+            "dataHora": "2026-03-03T20:11:16",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-03T19:16:29",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432.",
+            "descricao_detalhada": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+            "titulo": "Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432.",
+            "dataHora": "2026-03-03T19:56:04",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-03T17:15:21",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 96; Não: 305; Abstenção: 3; Total: 404.",
+            "descricao_detalhada": "Altera a Lei nº 13.316, de 20 de julho de 2016, que dispõe sobre as carreiras dos servidores do Ministério Público da União e as carreiras dos servidores do Conselho Nacional do Ministério Público.",
+            "titulo": "Rejeitado o Requerimento. Sim: 96; Não: 305; Abstenção: 3; Total: 404.",
+            "dataHora": "2026-03-03T17:20:54",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-03T16:45:56",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434.",
+            "descricao_detalhada": "Garante o internamento voluntário de menores para tratar dependência química, bem como, a permanência, destes quando estejam sob a tutela de pais ou mães dependentes químicos em tratamento voluntário, de forma a garantir a continuidade do vínculo familiar durante o processo de recuperação, em instituições de tratamento credenciadas pelos órgãos públicos, assegurando ambiente apropriado e recursos especializados.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434.",
+            "dataHora": "2026-03-03T17:03:27",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-02T23:02:08",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 258; Não: 119; Abstenção: 1; Total: 378.",
+            "descricao_detalhada": "Acrescenta art. 149-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de desaparecimento forçado de pessoa, e acrescenta inciso VIII ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar esse crime hediondo.",
+            "titulo": "Mantido o texto. Sim: 258; Não: 119; Abstenção: 1; Total: 378.",
+            "dataHora": "2026-03-02T23:07:55",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-02T22:36:25",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 194; Não: 207; Abstenção: 3; Total: 404.",
+            "descricao_detalhada": "Acrescenta art. 149-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de desaparecimento forçado de pessoa, e acrescenta inciso VIII ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar esse crime hediondo.",
+            "titulo": "Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 194; Não: 207; Abstenção: 3; Total: 404.",
+            "dataHora": "2026-03-02T22:52:14",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-02T23:15:11",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 235; Não: 121; Abstenção: 2; Total: 358.",
+            "descricao_detalhada": "Acrescenta art. 149-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de desaparecimento forçado de pessoa, e acrescenta inciso VIII ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar esse crime hediondo.",
+            "titulo": "Mantido o texto. Sim: 235; Não: 121; Abstenção: 2; Total: 358.",
+            "dataHora": "2026-03-02T23:21:48",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Não",
+            "dataRegistroVoto": "2026-03-02T21:35:52",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 100; Não: 295; Total: 395.",
+            "descricao_detalhada": "Acrescenta art. 149-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de desaparecimento forçado de pessoa, e acrescenta inciso VIII ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar esse crime hediondo.",
+            "titulo": "Rejeitado o Requerimento. Sim: 100; Não: 295; Total: 395.",
+            "dataHora": "2026-03-02T21:43:58",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-02T19:18:12",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Requerimento. Sim: 102; Não: 301; Abstenção: 1; Total: 404.",
+            "descricao_detalhada": "Estabelece o sistema brasileiro de apoio oficial ao crédito à exportação e altera a Lei nº 12.712, de 30 de agosto de 2012, a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 10.184, de 12 de fevereiro de 2001.",
+            "titulo": "Rejeitado o Requerimento. Sim: 102; Não: 301; Abstenção: 1; Total: 404.",
+            "dataHora": "2026-03-02T19:23:12",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-02T20:10:38",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449.",
+            "descricao_detalhada": "Estabelece o sistema brasileiro de apoio oficial ao crédito à exportação e altera a Lei nº 12.712, de 30 de agosto de 2012, a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 10.184, de 12 de fevereiro de 2001.",
+            "titulo": "Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449.",
+            "dataHora": "2026-03-02T20:26:10",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-03-02T18:39:23",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 315; Não: 38; Abstenção: 1; Total: 354.",
+            "descricao_detalhada": "Altera a Lei nº 5.991, de 17 de dezembro de 1973, que “dispõe sobre o Controle Sanitário do Comércio de Drogas, Medicamentos, Insumos Farmacêuticos e Correlatos, e dá outras Providências”, para dispor sobre a comercialização de medicamentos em farmácia ou drogaria instalada na área de venda de supermercados.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 315; Não: 38; Abstenção: 1; Total: 354.",
+            "dataHora": "2026-03-02T18:48:58",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-25T19:02:21",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428.",
+            "descricao_detalhada": "Acordo sobre a 15ª Reunião da Conferência das Partes da Convenção sobre a Conservação das Espécies Migratórias de Animais Silvestres, assinado em Nairóbi, Quênia, em 21 de dezembro de 2025",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428.",
+            "dataHora": "2026-02-25T19:04:51",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-10T18:52:26",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 103; Abstenção: 1; Total: 377.",
+            "descricao_detalhada": "Cria a Universidade Federal do Esporte.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 103; Abstenção: 1; Total: 377.",
+            "dataHora": "2026-02-10T18:59:54",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-09T22:07:49",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário nº 3 oferecida ao Projeto de Lei nº 1.743, de 2024. Sim: 151; Não: 244; Abstenção: 3; Total: 398.",
+            "descricao_detalhada": "Altera o artigo 55 da Lei nº 8.906, de 4 de julho de 1994 - que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB, para fins de alterar a nomenclatura da Secretaria-Geral Adjunta, bem como a composição da Diretoria do Conselho Federal da OAB, e acrescenta o parágrafo único ao artigo 57.",
+            "titulo": "Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário nº 3 oferecida ao Projeto de Lei nº 1.743, de 2024. Sim: 151; Não: 244; Abstenção: 3; Total: 398.",
+            "dataHora": "2026-02-09T22:18:02",
+            "aprovacao": 0
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-09T20:27:31",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 307; Não: 113; Abstenção: 3; Total: 423.",
+            "descricao_detalhada": "Dispõe sobre a regulamentação da profissão de Trabalhador em Refeições Coletivas e dá outras providências",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 307; Não: 113; Abstenção: 3; Total: 423.",
+            "dataHora": "2026-02-09T20:42:47",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-09T19:48:39",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; Não: 113; Total: 417.",
+            "descricao_detalhada": "Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; Não: 113; Total: 417.",
+            "dataHora": "2026-02-09T19:57:38",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-09T19:02:13",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 337; Não: 19; Total: 356.",
+            "descricao_detalhada": "Declara de interesse público os medicamentos Mounjaro e Zepbound, para fins do disposto no art. 71 da Lei n° 9.279, de 14 de maio de 1996, alterado pela Lei nº 14.200, de 2 de setembro de 2021.",
+            "titulo": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 337; Não: 19; Total: 356.",
+            "dataHora": "2026-02-09T19:07:37",
+            "aprovacao": 1
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-02T20:17:39",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Mantido o texto. Sim: 401; Não: 34; Total: 435.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Mantido o texto. Sim: 401; Não: 34; Total: 435.",
+            "dataHora": "2026-02-02T20:35:58",
+            "aprovacao": null
+        }
+    },
+    {
+        "dados_voto": {
+            "tipoVoto": "Sim",
+            "dataRegistroVoto": "2026-02-02T19:28:20",
+            "deputado_": {
+                "id": 220651,
+                "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651",
+                "nome": "Simone Marquetto",
+                "siglaPartido": "MDB",
+                "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+                "siglaUf": "SP",
+                "idLegislatura": 57,
+                "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+                "email": "dep.simonemarquetto@camara.leg.br"
+            }
+        },
+        "informacoes": {
+            "descricao": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "descricao_detalhada": "Altera a Lei nº 14.237, de 19 de novembro de 2021, para modificar a denominação do Auxílio Gás dos Brasileiros para Auxílio Gás do Povo e criar nova modalidade de operacionalização do auxílio.",
+            "titulo": "Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446.",
+            "dataHora": "2026-02-02T19:36:06",
             "aprovacao": 1
         }
     }
