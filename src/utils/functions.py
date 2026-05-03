@@ -69,3 +69,15 @@ def get_grafico(id_deputado):
   )
 
   return pio.to_json(fig)
+
+
+def get_deputado_presenca(id_deputado):
+    try:
+        with open(f'{DATA_PATH}/presenca_deputados/deputado_{id_deputado}.json', 'r', encoding='utf-8') as p:
+            presenca = json.load(p)
+
+        presencas, eventos =  presenca.get('total_presencas', 0), presenca.get('total_eventos', 0)
+        return presencas, eventos
+
+    except FileNotFoundError:
+        return 0, 0
