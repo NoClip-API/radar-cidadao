@@ -128,7 +128,6 @@ main {
 .comparar-form button:hover {
     background-color: #002d6b;
 }
-
 .charts-container {
     display: flex;
     justify-content: space-around;
@@ -136,11 +135,43 @@ main {
     gap: 20px;
 }
 
-.chart {
+.chart-wrapper {
     flex: 1;
     min-width: 450px;
     background: white;
     padding: 10px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    overflow-x: auto;
+}
+
+.chart {
+    min-width: 800px;
+}
+
+@media (max-width: 768px) {
+    .comparar-form {
+        flex-direction: column;
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .comparar-form input {
+        width: 100%;
+    }
+
+    .charts-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .chart-wrapper {
+        min-width: 100%;
+        width: 100%;
+    }
+
+    .chart {
+        min-width: 800px;
+    }
 }
