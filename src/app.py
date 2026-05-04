@@ -108,11 +108,9 @@ def page_deputado(id_deputado):
     deputado = get_deputado_by_id(id_deputado)
     votos = get_votos_deputado(id_deputado)
     grafico_gastos = get_grafico_gasto(id_deputado)
+    presenca, eventos = get_deputado_presenca(id_deputado)
 
-    return render_template(
-        "deputado.html", deputado=deputado, votos=votos, grafico_gastos=grafico_gastos
-    )
-
+    return render_template('deputado.html', deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, presenca=presenca, eventos=eventos)
 
 if __name__ == "__main__":
     app.run(debug=True)
