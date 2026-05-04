@@ -23,7 +23,37 @@
     </header>
 
     <main>
-        
+        <div class="container-form">
+            <form method="post" class="comparar-form">
+                <input type="text" name="nome1" placeholder="Nome do primeiro deputado" value="{{ nome1 or '' }}">
+                <input type="text" name="nome2" placeholder="Nome do segundo deputado" value="{{ nome2 or '' }}">
+                <button type="submit">Comparar</button>
+            </form>
+        </div>
+
+        <div class="charts-container">
+            <div id="chart1" class="chart"></div>
+            <div id="chart2" class="chart"></div>
+        </div>
     </main>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script>
+        var grafico1 = {{ grafico_1 | safe if grafico_1 else 'null' }};
+        var grafico2 = {{ grafico_2 | safe if grafico_2 else 'null' }};
+
+        var config = {responsive: true};
+
+        if (grafico1) {
+            grafico1.layout.width = undefined;
+            grafico1.layout.autosize = true;
+            Plotly.newPlot('chart1', grafico1.data, grafico1.layout, config);
+        }
+        if (grafico2) {
+            grafico2.layout.width = undefined;
+            grafico2.layout.autosize = true;
+            Plotly.newPlot('chart2', grafico2.data, grafico2.layout, config);
+        }
+    </script>
 </body>
 </html>

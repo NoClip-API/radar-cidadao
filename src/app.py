@@ -67,10 +67,40 @@ def home():
 
 @app.route("/graficos", methods=["GET", "POST"])
 def graficos():
-    # Work in Progress: Vitor 
     grafico_1 = None
     grafico_2 = None
-    return render_template("graficos.html", grafico_1=grafico_1, grafico_2=grafico_2)
+    nome1 = None
+    nome2 = None
+
+    if request.method == "POST":
+        nome1 = request.form.get("nome1")
+        nome2 = request.form.get("nome2")
+
+        deputados = get_deputados()
+
+        def find_deputado(nome):
+            if not nome:
+                return None
+            for d in deputados:
+                if nome.lower() in d["ultimoStatus"]["nome"].lower():
+                    return d
+            return None
+
+        dep1 = find_deputado(nome1)
+        dep2 = find_deputado(nome2)
+
+        if dep1:
+            grafico_1 = get_grafico_gasto(dep1["id"])
+        if dep2:
+            grafico_2 = get_grafico_gasto(dep2["id"])
+
+    return render_template(
+        "graficos.html",
+        grafico_1=grafico_1,
+        grafico_2=grafico_2,
+        nome1=nome1,
+        nome2=nome2,
+    )
 
 
 @app.route("/deputado/<id_deputado>")
