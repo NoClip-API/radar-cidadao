@@ -15,52 +15,49 @@
         <div class="topo-pagina">
             <h1>Radar Cidadão</h1>
         </div>
-        <nav>
-            <!-- Se tiver nav, deixa. Se não, tira. -->
-        </nav>
-        <div class="topo-pagina-subtexto">
+        <div id="divisor"></div>
+        <!-- Se tiver nav, deixa. Se não, tira. -->
+        <nav class="topo-pagina-subtexto">
             <a href="/">Home</a>
-        </div>
+        </nav>
     </header>
 
-    <div class="container">
-        <div class="container-title">
-            <h2>Gastos por deputado</h2>
+    <main>
+        <div class="container-form">
+            <form method="post" class="comparar-form">
+                <input type="text" name="nome1" placeholder="Nome do primeiro deputado" value="{{ nome1 or '' }}">
+                <input type="text" name="nome2" placeholder="Nome do segundo deputado" value="{{ nome2 or '' }}">
+                <button type="submit">Comparar</button>
+            </form>
         </div>
 
-        <img src="{{ url_for('static', filename='images/graficos/geral_gasto_por_deputado.png') }}" alt="Gráfico por candidatos">
-
-        <p>
-            O gráfico mostra os gastos dos deputados no mandato atual. Quanto maior, mais gastos.
-        </p>
-
-    </div>
-
-    <div class="container">
-        <div class="container-title">
-            <h2>Deputados por estado</h2>
+        <div class="charts-container">
+            <div class="chart-wrapper">
+                <div id="chart1" class="chart"></div>
+            </div>
+            <div class="chart-wrapper">
+                <div id="chart2" class="chart"></div>
+            </div>
         </div>
+    </main>
 
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script>
+        var grafico1 = {{ grafico_1 | safe if grafico_1 else 'null' }};
+        var grafico2 = {{ grafico_2 | safe if grafico_2 else 'null' }};
 
-        <img src="{{ url_for('static', filename='images/graficos/geral_deputados_por_estado.png') }}" alt="Gráfico por partido">
+        var config = {responsive: true};
 
-        <p>
-            O gráfico mostra quantos deputados na câmara tem cada estado. Quanto maior, mais deputados.
-        </p>
-    </div>
-
-
-    <div class="container">
-        <div class="container-title">
-            <h2>Deputados por partido</h2>
-        </div>
-
-
-        <img src="{{ url_for('static', filename='images/graficos/geral_deputados_por_partido.png') }}" alt="Gráfico por estado">
-
-        <p>
-            O gráfico mostra quantos deputados na câmara tem cada partido. Quanto maior, mais deputados.
-        </p>
-    </div>
+        if (grafico1) {
+            grafico1.layout.width = undefined;
+            grafico1.layout.autosize = true;
+            Plotly.newPlot('chart1', grafico1.data, grafico1.layout, config);
+        }
+        if (grafico2) {
+            grafico2.layout.width = undefined;
+            grafico2.layout.autosize = true;
+            Plotly.newPlot('chart2', grafico2.data, grafico2.layout, config);
+        }
+    </script>
 </body>
 </html>

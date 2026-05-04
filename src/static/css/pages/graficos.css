@@ -74,7 +74,7 @@ h1, h2 {
     align-content: center;
 }
 
-nav {
+#divisor {
     margin-top: 16px;
     height: 4px;
     background: #00d4ff;
@@ -90,4 +90,88 @@ img {
 
 main {
     flex: 1;
+    padding: 20px;
+}
+
+.container-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.comparar-form {
+    display: flex;
+    gap: 10px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.comparar-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+}
+
+.comparar-form button {
+    padding: 10px 20px;
+    background-color: #0047ab;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.comparar-form button:hover {
+    background-color: #002d6b;
+}
+.charts-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.chart-wrapper {
+    flex: 1;
+    min-width: 450px;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    overflow-x: auto;
+}
+
+.chart {
+    min-width: 800px;
+}
+
+@media (max-width: 768px) {
+    .comparar-form {
+        flex-direction: column;
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .comparar-form input {
+        width: 100%;
+    }
+
+    .charts-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .chart-wrapper {
+        min-width: 100%;
+        width: 100%;
+    }
+
+    .chart {
+        min-width: 800px;
+    }
 }

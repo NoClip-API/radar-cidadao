@@ -38,7 +38,7 @@ def get_votos_deputado(deputado_id):
     return votos_deputados
 
 # Funções dos gráficos
-def get_grafico(id_deputado):
+def get_grafico_gasto(id_deputado):
   gastos = get_gastos_deputado(id_deputado)
   resumo = gastos.get('resumo_despesas', {})
 
