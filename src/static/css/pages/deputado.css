@@ -106,8 +106,13 @@ nav {
     justify-content: center;
 }
 
+.container-foto img {
+    width: 500px;
+}
+
 .votos-wrapper {
-    max-height: 500px; /* controla altura */
+    max-height: 500px;
+    /* controla altura */
     overflow-y: auto;
     background: whitesmoke;
     padding: 20px, 8px, 20px, 20px;
