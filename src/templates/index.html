@@ -60,10 +60,10 @@
             <div class="grade-dep">
                 {% for deputado in deputados %}
                 <div class="cartao-dep">
-                    <a href="/deputado/{{ deputado['id'] }}"> <img src="{{ deputado['ultimoStatus']['urlFoto'] }}"
+                    <a href="/deputado/{{ deputado['id'] }}"> <img src="{{ deputado['urlFoto'] }}"
                             alt="Nikolas Ferreira">
-                        <h3>{{ deputado['ultimoStatus']['nome'] }}</h3>
-                        <p>{{ deputado['ultimoStatus']['siglaPartido'] }} - {{ deputado['ultimoStatus']['siglaUf'] }}</p>
+                        <h3>{{ deputado['nomeEleitoral'] }}</h3>
+                        <p>{{ deputado['siglaPartido'] }} - {{ deputado['siglaUf'] }}</p>
                     </a>
                 </div>
 
