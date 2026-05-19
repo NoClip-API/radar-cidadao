@@ -39,9 +39,9 @@ def home():
         deputados = [
             d
             for d in deputados
-            if (not nome or nome.lower() in d["ultimoStatus"]["nome"].lower())
-            and (not estado or d["ultimoStatus"]["siglaUf"] == estado)
-            and (not partido or d["ultimoStatus"]["siglaPartido"] == partido)
+            if (not nome or nome.lower() in d["nomeEleitoral"].lower())
+            and (not estado or d["siglaUf"] == estado)
+            and (not partido or d["siglaPartido"] == partido)
         ]
 
     per_page = 24
@@ -82,7 +82,7 @@ def graficos():
             if not nome:
                 return None
             for d in deputados:
-                if nome.lower() in d["ultimoStatus"]["nome"].lower():
+                if nome.lower() in d["nomeEleitoral"].lower():
                     return d
             return None
 
