@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deputado - {{ deputado['ultimoStatus']['nome'].split()[0] }}</title>
+    <title>Deputado - {{ deputado['nomeEleitoral'].split()[0] }}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/deputado.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,26 +27,26 @@
         <div class="container">
             <div class="container-card">
                 <div class="container-foto">
-                    <img src="{{ deputado['ultimoStatus']['urlFoto'] }}"
-                        alt="Foto de {{ deputado['ultimoStatus']['nome'] }}">
+                    <img src="{{ deputado['urlFoto'] }}"
+                        alt="Foto de {{ deputado['nomeEleitoral'] }}">
                 </div>
                 <div class="container-title">
-                    <h1>{{ deputado['ultimoStatus']['nome'] }}</h1>
+                    <h1>{{ deputado['nomeEleitoral'] }}</h1>
                 </div>
             </div>
             <div class="container-dados">
                 <div class="container-dados">
                     <h1>Unidade Federativa</h1>
-                    <h2>{{ deputado['ultimoStatus']['siglaUf'] }}</h2>
+                    <h2>{{ deputado['siglaUf'] }}</h2>
                 </div>
                 <div class="container-dados">
                     <h1>Sigla do partido</h1>
-                    <h2>{{ deputado['ultimoStatus']['siglaPartido'] }}</h2>
+                    <h2>{{ deputado['siglaPartido'] }}</h2>
                 </div>
                 <div class="container-dados">
                     <h1>Presença em eventos</h1>
-                    <h2>{{ presenca }} Presenças</h2>
-                    <h2>{{ eventos }} Total de Eventos</h2>
+                    <h2>{{ presenca['total_presencas'] }} Presenças</h2>
+                    <h2>{{ presenca['total_eventos'] }} Total de Eventos</h2>
                 </div>
                 {% if votos %}
                 <div class="votos-wrapper">
@@ -54,29 +54,29 @@
                         <h1>Votos</h1>
                     {% for voto in votos %}
                         <div class="voto-card 
-                            {% if voto['dados_voto']['tipoVoto'] == 'Sim' %}sim
-                            {% elif voto['dados_voto']['tipoVoto'] == 'Não' %}nao
+                            {% if voto['tipoVoto'] == 'Sim' %}sim
+                            {% elif voto['tipoVoto'] == 'Não' %}nao
                             {% endif %}
                         ">
 
                             <div class="voto-header">
                                 <span class="badge">
-                                    {{ voto['dados_voto']['tipoVoto'] }}
+                                    {{ voto['tipoVoto'] }}
                                 </span>
 
                                 <span class="data">
-                                    {{ voto['informacoes']['dataHora'][:10] }}
+                                    {{ voto['dataHora'] }}
                                 </span>
                             </div>
 
                             <div class="voto-body">
-                                <p>{{ voto['informacoes']['descricao_detalhada'] }}</p>
+                                <p>{{ voto['descricao_detalhada'] }}</p>
                             </div>
 
                             <div class="voto-footer">
-                                {% if voto['informacoes']['aprovacao'] == 1 %}
+                                {% if voto['aprovacao'] == 1 %}
                                     <span class="status aprovado">Aprovado</span>
-                                {% elif voto['informacoes']['aprovacao'] == 0 %}
+                                {% elif voto['aprovacao'] == 0 %}
                                     <span class="status rejeitado">Rejeitado</span>
                                 {% else %}
                                     <span class="status neutro">Indefinido</span>
