@@ -1,83 +1,79 @@
-import json
 import plotly.graph_objects as go
 import plotly.io as pio
-import os
-
-DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'static', 'data')
+from utils.functions_db import *
+import time
 
 # Funções dos deputados
 def get_deputados():
-  deputados = []
-
-  for arquivo in os.listdir(f'{DATA_PATH}/dados_deputados'):
-    if arquivo.startswith('deputado_') and arquivo.endswith('.json'):
-      with open(f'{DATA_PATH}/dados_deputados/{arquivo}', 'r', encoding='utf-8') as f:
-        deputado = json.load(f)
-        deputados.append(deputado)
-
-  deputados.sort(key=lambda x: x['ultimoStatus']['nome'].lower())
-
-  return deputados
+    deputados = fetch_data("SELECT id, nomeEleitoral, urlFoto, siglaPartido, siglaUf FROM deputados")
+    return deputados
 
 def get_deputado_by_id(id: int):
-  with open(f'{DATA_PATH}/dados_deputados/deputado_{id}.json', 'r', encoding='utf-8') as f:
-    deputado = json.load(f)
-    
-    return deputado
+    deputado = fetch_data("SELECT id, nomeEleitoral, urlFoto, siglaPartido, siglaUf FROM deputados WHERE id = %s", (id,))
+    return deputado[0]
 
 def get_gastos_deputado(deputado_id: int):
-  with open(f'{DATA_PATH}/gastos_deputados/gastos_deputado_{deputado_id}.json', 'r', encoding='utf-8') as f:
-    gastos_deputados = json.load(f)
-    
-    return gastos_deputados
+    query = "SELECT tipoDespesa, valorDocumento, dataDocumento FROM gastos WHERE deputado_id = %s"
+
+    gastos = fetch_data(query, (deputado_id,))
+    return gastos
 
 def get_votos_deputado(deputado_id):
-    with open(f'{DATA_PATH}/votos_deputados/votos_deputado_{deputado_id}.json', 'r', encoding='utf-8') as f:
-        votos_deputados = json.load(f)
-    
-    return votos_deputados
+    query = """SELECT tipoVoto, descricao_detalhada, titulo, dataHora, aprovacao FROM votos WHERE deputado_id = %s"""
+
+    votos = fetch_data(query, (deputado_id,))
+    return votos
 
 # Funções dos gráficos
 def get_grafico_gasto(id_deputado):
-  gastos = get_gastos_deputado(id_deputado)
-  resumo = gastos.get('resumo_despesas', {})
+    start = time.time()
 
-  sorted_resumo = sorted(resumo.items(), key=lambda x: x[1], reverse=False)
-  # print(sorted_resumo)
-  categorias = [x[0] for x in sorted_resumo]
-  valores = [x[1] for x in sorted_resumo]
+    query = """SELECT tipoDespesa, SUM(valorDocumento) as total FROM gastos
+    WHERE deputado_id = %s
+    GROUP BY tipoDespesa
+    ORDER BY total ASC"""
 
-  fig = go.Figure(data=[
-      go.Bar(
-          y=categorias,
-          x=valores,
-          orientation='h',
-          marker_color='#0047ab'
-      )
-  ])
+    gastos = fetch_data(query, (id_deputado,))
 
-  fig.update_layout(
-      title=f"Resumo de Despesas - {gastos['nome']}",
-      xaxis=dict(
-          title="Valor (R$)",
-          dtick=100000,
-          tickformat=".2f"
-      ),
-      yaxis_title="Tipo de Despesa",
-      height=500,
-      width=900
-  )
+    print(f"MySQL: {time.time() - start:.2f}s")
 
-  return pio.to_json(fig)
+    start_plot = time.time()
 
+    if not gastos:
+        return None
 
-def get_deputado_presenca(id_deputado):
-    try:
-        with open(f'{DATA_PATH}/presenca_deputados/deputado_{id_deputado}.json', 'r', encoding='utf-8') as p:
-            presenca = json.load(p)
+    categorias = [g['tipoDespesa'] for g in gastos]
+    valores = [float(g['total']) for g in gastos]
 
-        presencas, eventos =  presenca.get('total_presencas', 0), presenca.get('total_eventos', 0)
-        return presencas, eventos
+    deputado = get_deputado_by_id(id_deputado)
 
-    except FileNotFoundError:
-        return 0, 0
+    fig = go.Figure(data=[
+        go.Bar(
+            y=categorias,
+            x=valores,
+            orientation='h',
+            marker_color='#0047ab'
+        )
+    ])
+
+    fig.update_layout(
+        title=f"Resumo de Despesas - {deputado['nomeEleitoral']}",
+        xaxis=dict(
+            title="Valor (R$)",
+            dtick=100000,
+            tickformat=".2f"
+        ),
+        yaxis_title="Tipo de Despesa",
+        height=500,
+        width=900
+    )
+
+    print(f"PlotLy: {time.time() - start_plot:.2f}s")
+
+    return pio.to_json(fig)
+
+def get_deputado_presenca(deputado_id):
+    query = """SELECT total_presencas, total_eventos FROM presencas WHERE deputado_id = %s"""
+
+    presencas = fetch_data(query, (deputado_id,))
+    return presencas
