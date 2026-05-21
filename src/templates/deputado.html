@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Deputado - {{ deputado['nomeEleitoral'].split()[0] }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base/global.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/deputado.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,8 +28,7 @@
         <div class="container">
             <div class="container-card">
                 <div class="container-foto">
-                    <img src="{{ deputado['urlFoto'] }}"
-                        alt="Foto de {{ deputado['nomeEleitoral'] }}">
+                    <img src="{{ deputado['urlFoto'] }}" alt="Foto de {{ deputado['nomeEleitoral'] }}">
                 </div>
                 <div class="container-title">
                     <h1>{{ deputado['nomeEleitoral'] }}</h1>
@@ -52,7 +52,7 @@
                 <div class="votos-wrapper">
                     <div class="votos-container">
                         <h1>Votos</h1>
-                    {% for voto in votos %}
+                        {% for voto in votos %}
                         <div class="voto-card 
                             {% if voto['tipoVoto'] == 'Sim' %}sim
                             {% elif voto['tipoVoto'] == 'Não' %}nao
@@ -75,19 +75,47 @@
 
                             <div class="voto-footer">
                                 {% if voto['aprovacao'] == 1 %}
-                                    <span class="status aprovado">Aprovado</span>
+                                <span class="status aprovado">Aprovado</span>
                                 {% elif voto['aprovacao'] == 0 %}
-                                    <span class="status rejeitado">Rejeitado</span>
+                                <span class="status rejeitado">Rejeitado</span>
                                 {% else %}
-                                    <span class="status neutro">Indefinido</span>
+                                <span class="status neutro">Indefinido</span>
                                 {% endif %}
                             </div>
                         </div>
-                    {% endfor %}
-                </div>
+                        {% endfor %}
+                    </div>
                 </div>
                 {% endif %}
+                <form method="get" id="filtro">
+                    <div class="filtros-area">
+                        <div class="entrada-dados">
+                            <label>Tipo de Despesa: </label>
+                            <input type="text" name="despesa" placeholder="Tipo de Despesa" value="{{ tipo or '' }}">
+                        </div>
+                        <div class="entrada-dados">
+                            <label>Mes: </label>
+                            <select name="mes">
+                                <option value="" {% if not mes %}selected{% endif %}>--</option>
+                                {% for n, mes_nome in [[1, 'Janeiro'], [2, 'Fevereiro'], [3, 'Março'], [4, 'Abril'], [5, 'Maio'], [6, 'Junho'],[7, 'Julho'], [8, 'Agosto'], [9, 'Setembro'], [10, 'Outubro'], [11, 'Novembro'], [12, 'Dezembro']] %}
+                                    <option value="{{ n }}" {% if n == mes %}selected{% endif %}>{{ mes_nome }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="entrada-dados">
+                            <label>Ano: </label>
+                            <select name="ano">
+                                <option value="" {% if not ano %}selected{% endif %}>--</option>
+                                {% for n in range(2023,2027) %}
+                                    <option value="{{ n }}" {% if n == ano %}selected{% endif %}>{{ n }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <button type="submit">Filtrar</button>
+                    </div>
+                </form>
                 <div class="container">
+
                     <div id="grafico-gastos" style="width: 100%; min-width: 600px;"></div>
                 </div>
             </div>
