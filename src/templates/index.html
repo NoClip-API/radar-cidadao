@@ -21,10 +21,10 @@
         <div class="topo-pagina">
             <h1>Radar Cidadão</h1>
         </div>
-        <nav></nav>
-        <div class="topo-pagina-subtexto">
+        <nav class="topo-pagina-subtexto">
             <a href="/graficos">Gráficos</a>
-        </div>
+            <a href="/home">Home</a>
+        </nav>
     </header>
 
     <main>
@@ -89,7 +89,8 @@
 
             {% for p in range(1, total_pages + 1) %}
             <a href="{{ url_for('home', page=p, nome=nome, siglaUf=estado, siglaPartido=partido) }}"
-                class="{% if p == page %}atual{% endif %}"> <!-- coloca class="atual" só no número que for igual a pagina que estamos-->
+                class="{% if p == page %}atual{% endif %}">
+                <!-- coloca class="atual" só no número que for igual a pagina que estamos-->
                 {{ p }}
             </a>
             {% endfor %}
@@ -103,7 +104,7 @@
         </div>
     </main>
 
-    <section class="textinho"> <!-- Sinceramente, não coloca nome assim pras classe man 😭 -->
+    <section class="sobre"> <!-- Sinceramente, não coloca nome assim pras classe man 😭 -->
         <h1>Sobre</h1>
         <p style="margin-bottom: 80px; font-size: 19px; font-family: Roboto Slab, serif;">
             O projeto "Radar Cidadão" tem como finalidade disponibilizar e facilitar o acesso à dados públicos de
