@@ -105,12 +105,17 @@ def graficos():
 
 @app.route("/deputado/<id_deputado>")
 def page_deputado(id_deputado):
+    tipo = request.args.get("despesa", default= '').upper()
+    mes = request.args.get("mes", type= int)
+    ano = request.args.get("ano", type= int)
+    
     deputado = get_deputado_by_id(id_deputado)
     votos = get_votos_deputado(id_deputado)
-    grafico_gastos = get_grafico_gasto(id_deputado)
+    grafico_gastos = get_grafico_gasto(id_deputado, tipo, mes, ano)
+    print(tipo, mes, ano)
     presenca = get_deputado_presenca(id_deputado)
 
-    return render_template('deputado.html', deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, presenca=presenca)
+    return render_template('deputado.html', deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, presenca=presenca, tipo = tipo, mes = mes, ano = ano)
 
 if __name__ == "__main__":
     app.run(debug=True)

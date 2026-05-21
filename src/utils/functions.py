@@ -25,15 +25,28 @@ def get_votos_deputado(deputado_id):
     return votos
 
 # Funções dos gráficos
-def get_grafico_gasto(id_deputado):
+def get_grafico_gasto(id_deputado, tipo = None, mes = None, ano = None):
     start = time.time()
 
     query = """SELECT tipoDespesa, SUM(valorDocumento) as total FROM gastos
-    WHERE deputado_id = %s
-    GROUP BY tipoDespesa
-    ORDER BY total ASC"""
+    WHERE deputado_id = %s"""
+    
+    parametros = [id_deputado]
+    
+    if tipo:
+        query += " and tipoDespesa like %s"
+        parametros.append(f"%{tipo}%")
+    if mes:
+        query += " and mes = %s"
+        parametros.append(mes)
+    if ano:
+        query += " and ano = %s"
+        parametros.append(ano)
+    
+    query += """ GROUP BY tipoDespesa 
+    ORDER BY total ASC""" 
 
-    gastos = fetch_data(query, (id_deputado,))
+    gastos = fetch_data(query, parametros)
 
     print(f"MySQL: {time.time() - start:.2f}s")
 

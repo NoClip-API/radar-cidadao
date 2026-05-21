@@ -224,6 +224,10 @@ nav {
     color: #555;
 }
 
+#Filtro {
+    margin-top: 50px;
+}
+
 @media (max-width: 768px) {
     .container {
         grid-template-columns: auto;
