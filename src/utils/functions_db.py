@@ -10,14 +10,14 @@ db_password = os.getenv('MYSQL_PASSWORD', '')
 db_name = os.getenv('MYSQL_DATABASE', 'deputados_db')
 db_port = int(os.getenv('MYSQL_PORT', 3306))
 
-def connect_db():
+def connect_db(cursor=pymysql.cursors.DictCursor):
     connection = pymysql.connect(
         host=db_host,
         user=db_user,
         password=db_password,
         database=db_name,
         port=db_port,
-        cursorclass=pymysql.cursors.DictCursor
+        cursorclass=cursor
         )
     return connection
 

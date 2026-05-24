@@ -115,7 +115,7 @@ def page_deputado(id_deputado):
     print(tipo, mes, ano)
     presenca = get_deputado_presenca(id_deputado)
 
-    return render_template('deputado.html', deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, presenca=presenca, tipo = tipo, mes = mes, ano = ano)
+    return render_template("deputado.html", deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, presenca=presenca, tipo = tipo, mes = mes, ano = ano)
 
 if __name__ == "__main__":
     app.run(debug=True)
