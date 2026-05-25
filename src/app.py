@@ -107,15 +107,16 @@ def graficos():
 def page_deputado(id_deputado):
     tipo = request.args.get("despesa", default= '').upper()
     mes = request.args.get("mes", type= int)
-    ano = request.args.get("ano", type= int)
+    ano_gasto = request.args.get("ano_gasto", type= int)
+    ano_evento = request.args.get("ano_evento", type=int)
     
     deputado = get_deputado_by_id(id_deputado)
     votos = get_votos_deputado(id_deputado)
-    grafico_gastos = get_grafico_gasto(id_deputado, tipo, mes, ano)
-    print(tipo, mes, ano)
-    presenca = get_deputado_presenca(id_deputado)
+    grafico_gastos = get_grafico_gasto(id_deputado, tipo, mes, ano_gasto)
+    # print(tipo, mes, ano_gasto)
+    grafico_presencas = get_grafico_presenca(id_deputado, ano_evento)
 
-    return render_template("deputado.html", deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, presenca=presenca, tipo = tipo, mes = mes, ano = ano)
+    return render_template("deputado.html", deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, grafico_presencas=grafico_presencas, tipo=tipo, mes=mes, ano_gasto=ano_gasto, ano_evento=ano_evento)
 
 if __name__ == "__main__":
     app.run(debug=True)
