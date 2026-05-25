@@ -9,8 +9,10 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/deputado.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -43,11 +45,6 @@
                     <h1>Sigla do partido</h1>
                     <h2>{{ deputado['siglaPartido'] }}</h2>
                 </div>
-                <div class="container-dados">
-                    <h1>Presença em eventos</h1>
-                    <h2>{{ presenca['total_presencas'] }} Presenças</h2>
-                    <h2>{{ presenca['total_eventos'] }} Total de Eventos</h2>
-                </div>
                 {% if votos %}
                 <div class="votos-wrapper">
                     <h1>Votos</h1>
@@ -58,7 +55,6 @@
                             {% elif voto['tipoVoto'] == 'Não' %}nao
                             {% endif %}
                         ">
-
                             <div class="voto-header">
                                 <span class="badge">
                                     {{ voto['tipoVoto'] }}
@@ -105,23 +101,49 @@
                             </div>
                             <div class="entrada-dados">
                                 <label>Ano: </label>
-                                <select name="ano">
-                                    <option value="" {% if not ano %}selected{% endif %}>--</option>
+                                <select name="ano_gasto">
+                                    <option value="" {% if not ano_gasto %}selected{% endif %}>--</option>
                                     {% for n in range(2023,2027) %}
-                                        <option value="{{ n }}" {% if n == ano %}selected{% endif %}>{{ n }}</option>
+                                        <option value="{{ n }}" {% if n == ano_gasto %}selected{% endif %}>{{ n }}</option>
                                     {% endfor %}
                                 </select>
                             </div>
                             <button type="submit">Filtrar</button>
                         </div>
                     </form>
-                    <div id="grafico-gastos" style="width: 100%; min-width: 600px;"></div>
+                    <div id="grafico-gastos" style="width: 100%; min-width: 10vw;"></div>
+                </div>
+                <div class="container-presencas">
+                    <form method="get" id="filtro">
+                        <div class="filtros-area">
+                            <div class="entrada-dados">
+                                <label>Ano: </label>
+                                <select name="ano_evento">
+                                    <option value="" {% if not ano_evento %}selected{% endif %}>--</option>
+                                    {% for n in range(2023,2027) %}
+                                        <option value="{{ n }}" {% if n == ano_evento %}selected{% endif %}>{{ n }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <button type="submit">Filtrar</button>
+                        </div>
+                    </form>
+                    <div id="grafico-presencas" style="width: 100%; min-width: 10vw;"></div>
+                    <span class="d-inline-block text-center" tabindex="0" data-bs-toggle="tooltip" data-bs-title="O indice de presença é calculado multiplicando a presença em eventos por um peso designado de acordo com a importância do evento.">
+                        <i class="bi bi-info-circle"></i>
+                    </span>
                 </div>
             </div>
             <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
             <script>
                 var graficoGastos = {{ grafico_gastos | safe }};
                 Plotly.newPlot('grafico-gastos', graficoGastos.data, graficoGastos.layout);
+
+                var graficoPresencas = {{ grafico_presencas | safe}};
+                Plotly.newPlot('grafico-presencas', graficoPresencas.data, graficoPresencas.layout)
+
+                const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+                const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
             </script>
         </div>
     </section>

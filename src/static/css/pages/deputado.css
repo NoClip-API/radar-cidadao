@@ -101,7 +101,7 @@ nav {
     grid-template-rows: auto auto;
 }
 
-.container-gastos{
+.container-gastos, .container-presencas{
     background: white;
     padding: 2%;
     border-radius: 10px;
