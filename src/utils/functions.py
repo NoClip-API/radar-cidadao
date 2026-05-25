@@ -191,6 +191,7 @@ def get_grafico_presenca(deputado_id, ano_evento=None):
         go.Bar(
             y=[indice_deputado, indice_partido], # Valor do Índice
             x=[deputado["nomeEleitoral"], deputado["siglaPartido"]], # Entidade
+            width=0.4,
             orientation="v",
             marker_color="#0047ab"
         )
@@ -201,10 +202,10 @@ def get_grafico_presenca(deputado_id, ano_evento=None):
         yaxis=dict(
             title="Índice",
             dtick=10 if ano_evento else 100,
-            tickformat=".2f"
+            tickformat=".1f"
         ),
-        height=500,
-        width=900
+        height=600,
+        width=800
     )
 
     return pio.to_json(fig)
