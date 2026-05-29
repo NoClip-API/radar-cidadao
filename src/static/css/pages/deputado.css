@@ -239,6 +239,27 @@ nav {
     margin-top: 50px;
 }
 
+.btn-baixar-csv {
+    background-color: #6c757d;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    height: 48px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.btn-baixar-csv:hover {
+    background-color: #5a6268;
+    color: white;
+}
+
 @media (max-width: 768px) {
     .container {
         grid-template-columns: auto;

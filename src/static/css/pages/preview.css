@@ -1,0 +1,70 @@
+.preview-container {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.preview-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #0047ab;
+    padding-bottom: 10px;
+}
+
+.preview-table-wrapper {
+    overflow-x: auto;
+    margin-bottom: 20px;
+}
+
+.preview-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.preview-table th, .preview-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+.preview-table th {
+    background-color: #f4f4f4;
+    color: #333;
+    white-space: nowrap;
+}
+
+.preview-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.btn-download {
+    background-color: #0047ab;
+    color: white !important;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    display: inline-block;
+}
+
+.btn-download:hover {
+    background-color: #003380;
+}
+
+.btn-back {
+    color: #0047ab;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.info-text {
+    margin-bottom: 15px;
+    color: #666;
+    font-style: italic;
+}

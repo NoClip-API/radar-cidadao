@@ -57,12 +57,23 @@ def get_deputados():
 
 def get_deputado_by_id(id: int):
     deputado = fetch_data("SELECT id, nomeEleitoral, urlFoto, siglaPartido, siglaUf FROM deputados WHERE id = %s", (id,))
-    return deputado[0]
+    return deputado[0] if deputado else None
 
-def get_gastos_deputado(deputado_id: int):
-    query = "SELECT tipoDespesa, valorDocumento, dataDocumento FROM gastos WHERE deputado_id = %s"
+def get_gastos_deputado(deputado_id: int, tipo=None, mes=None, ano_gasto=None):
+    query = "SELECT ano, mes, tipoDespesa, valorDocumento, nomeFornecedor, urlDocumento FROM gastos WHERE deputado_id = %s"
+    parametros = [deputado_id]
 
-    gastos = fetch_data(query, (deputado_id,))
+    if tipo:
+        query += " and tipoDespesa like %s"
+        parametros.append(f"%{tipo}%")
+    if mes:
+        query += " and mes = %s"
+        parametros.append(mes)
+    if ano_gasto:
+        query += " and ano = %s"
+        parametros.append(ano_gasto)
+
+    gastos = fetch_data(query, parametros)
     return gastos
 
 def get_votos_deputado(deputado_id):

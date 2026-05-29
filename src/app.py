@@ -1,5 +1,7 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for, Response
 from utils.functions import *
+import csv
+import io
 
 app = Flask(__name__)
 
@@ -111,12 +113,63 @@ def page_deputado(id_deputado):
     ano_evento = request.args.get("ano_evento", type=int)
     
     deputado = get_deputado_by_id(id_deputado)
+    if not deputado:
+        return redirect(url_for('home'))
+
     votos = get_votos_deputado(id_deputado)
     grafico_gastos = get_grafico_gasto(id_deputado, tipo, mes, ano_gasto)
-    # print(tipo, mes, ano_gasto)
+
     grafico_presencas = get_grafico_presenca(id_deputado, ano_evento)
 
     return render_template("deputado.html", deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, grafico_presencas=grafico_presencas, tipo=tipo, mes=mes, ano_gasto=ano_gasto, ano_evento=ano_evento)
+
+@app.route("/deputado/<id_deputado>/csv")
+def download_csv(id_deputado):
+    tipo = request.args.get("despesa", default= '').upper()
+    mes = request.args.get("mes", type= int)
+    ano_gasto = request.args.get("ano_gasto", type= int)
+
+    deputado = get_deputado_by_id(id_deputado)
+    if not deputado:
+        return "Deputado não encontrado", 404
+
+    gastos = get_gastos_deputado(id_deputado, tipo, mes, ano_gasto)
+    
+    if not gastos:
+        return "Nenhum gasto encontrado", 404
+        
+    preview_gastos = gastos[:15]
+    
+    return render_template("csv_preview.html", deputado=deputado, gastos=preview_gastos, total_gastos=len(gastos), tipo=tipo, mes=mes, ano_gasto=ano_gasto)
+
+@app.route("/deputado/<id_deputado>/download_csv")
+def download_csv_file(id_deputado):
+    tipo = request.args.get("despesa", default= '').upper()
+    mes = request.args.get("mes", type= int)
+    ano_gasto = request.args.get("ano_gasto", type= int)
+
+    deputado = get_deputado_by_id(id_deputado)
+    if not deputado:
+        return "Deputado não encontrado", 404
+
+    gastos = get_gastos_deputado(id_deputado, tipo, mes, ano_gasto)
+    
+    if not gastos:
+        return "Nenhum gasto encontrado", 404
+        
+    output = io.StringIO()
+    writer = csv.DictWriter(output, fieldnames=gastos[0].keys())
+    writer.writeheader()
+    writer.writerows(gastos)
+    
+    nome_limpo = deputado['nomeEleitoral'].replace(' ', '_').lower()
+    nome_arquivo = f"gastos_{nome_limpo}.csv"
+    
+    return Response(
+        output.getvalue(),
+        mimetype="text/csv",
+        headers={"Content-disposition": f"attachment; filename={nome_arquivo}"}
+    )
 
 if __name__ == "__main__":
     app.run(debug=True)

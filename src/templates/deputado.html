@@ -107,11 +107,13 @@
                                         <option value="{{ n }}" {% if n == ano_gasto %}selected{% endif %}>{{ n }}</option>
                                     {% endfor %}
                                 </select>
-                            </div>
-                            <button type="submit">Filtrar</button>
-                        </div>
-                    </form>
-                    <div id="grafico-gastos" style="width: 100%; min-width: 10vw;"></div>
+                                </div>
+                                <button type="submit">Filtrar</button>
+                                <a href="{{ url_for('download_csv', id_deputado=deputado['id'], despesa=tipo, mes=mes, ano_gasto=ano_gasto) }}" class="btn-baixar-csv">Baixar CSV</a>
+                                </div>
+                                </form>
+                                <div id="grafico-gastos"
+ style="width: 100%; min-width: 10vw;"></div>
                 </div>
                 <div class="container-presencas">
                     <form method="get" id="filtro">
