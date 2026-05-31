@@ -127,6 +127,7 @@ def get_grafico_gasto(deputado_id, tipo=None, mes=None, ano_gasto=None):
             dtick=100000,
             tickformat=".2f"
         ),
+
         yaxis=dict(
             title="Tipo de Despesa",
             tickfont=dict(size=10)  # diminui a fonte
@@ -218,6 +219,7 @@ def get_grafico_presenca(deputado_id, ano_evento=None):
             dtick=10 if ano_evento else 100,
             tickformat=".1f"
         ),
+
         height=500,
         width=500
     )
