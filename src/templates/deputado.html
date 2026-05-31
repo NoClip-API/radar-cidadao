@@ -9,10 +9,14 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/deputado.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@100..900&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -20,11 +24,10 @@
         <div class="topo-pagina">
             <h1>Radar Cidadão</h1>
         </div>
-        <nav></nav>
-        <div class="topo-pagina-subtexto">
-            <a href="/">Home</a>
+        <nav>
             <a href="/graficos">Gráficos</a>
-        </div>
+            <a href="/">Home</a>
+        </nav>
     </header>
     <section>
         <div class="container">
@@ -36,7 +39,7 @@
                     <h1>{{ deputado['nomeEleitoral'] }}</h1>
                 </div>
             </div>
-            <div class="container-dados">
+            <div class="container-geral">
                 <div class="container-dados">
                     <h1>Unidade Federativa</h1>
                     <h2>{{ deputado['siglaUf'] }}</h2>
@@ -83,70 +86,118 @@
                     </div>
                 </div>
                 {% endif %}
-                <div class="container-gastos">
-                    <form method="get" id="filtro">
-                        <div class="filtros-area">
-                            <div class="entrada-dados">
-                                <label>Tipo de Despesa: </label>
-                                <input type="text" name="despesa" placeholder="Tipo de Despesa" value="{{ tipo or '' }}">
-                            </div>
-                            <div class="entrada-dados">
-                                <label>Mes: </label>
-                                <select name="mes">
-                                    <option value="" {% if not mes %}selected{% endif %}>--</option>
-                                    {% for n, mes_nome in [[1, 'Janeiro'], [2, 'Fevereiro'], [3, 'Março'], [4, 'Abril'], [5, 'Maio'], [6, 'Junho'],[7, 'Julho'], [8, 'Agosto'], [9, 'Setembro'], [10, 'Outubro'], [11, 'Novembro'], [12, 'Dezembro']] %}
-                                        <option value="{{ n }}" {% if n == mes %}selected{% endif %}>{{ mes_nome }}</option>
-                                    {% endfor %}
-                                </select>
-                            </div>
-                            <div class="entrada-dados">
-                                <label>Ano: </label>
-                                <select name="ano_gasto">
-                                    <option value="" {% if not ano_gasto %}selected{% endif %}>--</option>
-                                    {% for n in range(2023,2027) %}
-                                        <option value="{{ n }}" {% if n == ano_gasto %}selected{% endif %}>{{ n }}</option>
-                                    {% endfor %}
-                                </select>
+                <div class="text">
+                    <div class="container-gastos">
+                        <form method="get" id="filtro">
+                            <div class="filtros-area">
+                                <div class="entrada-dados">
+                                    <label>Tipo de Despesa: </label>
+                                    <input type="text" name="despesa" placeholder="Tipo de Despesa"
+                                        value="{{ tipo or '' }}">
+                                </div>
+                                <div class="entrada-dados">
+                                    <label>Mes: </label>
+                                    <select name="mes">
+                                        <option value="" {% if not mes %}selected{% endif %}>--</option>
+                                        {% for n, mes_nome in [[1, 'Janeiro'], [2, 'Fevereiro'], [3, 'Março'], [4,
+                                        'Abril'], [5, 'Maio'], [6, 'Junho'],[7, 'Julho'], [8, 'Agosto'], [9,
+                                        'Setembro'], [10, 'Outubro'], [11, 'Novembro'], [12, 'Dezembro']] %}
+                                        <option value="{{ n }}" {% if n==mes %}selected{% endif %}>{{ mes_nome }}
+                                        </option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                                <div class="entrada-dados">
+                                    <label>Ano: </label>
+                                    <select name="ano_gasto">
+                                        <option value="" {% if not ano_gasto %}selected{% endif %}>--</option>
+                                        {% for n in range(2023,2027) %}
+                                        <option value="{{ n }}" {% if n==ano_gasto %}selected{% endif %}>{{ n }}
+                                        </option>
+                                        {% endfor %}
+                                    </select>
                                 </div>
                                 <button type="submit">Filtrar</button>
-                                <a href="{{ url_for('download_csv', id_deputado=deputado['id'], despesa=tipo, mes=mes, ano_gasto=ano_gasto) }}" class="btn-baixar-csv">Baixar CSV</a>
-                                </div>
-                                </form>
-                                <div id="grafico-gastos"
- style="width: 100%; min-width: 10vw;"></div>
-                </div>
-                <div class="container-presencas">
-                    <form method="get" id="filtro">
-                        <div class="filtros-area">
-                            <div class="entrada-dados">
-                                <label>Ano: </label>
-                                <select name="ano_evento">
-                                    <option value="" {% if not ano_evento %}selected{% endif %}>--</option>
-                                    {% for n in range(2023,2027) %}
-                                        <option value="{{ n }}" {% if n == ano_evento %}selected{% endif %}>{{ n }}</option>
-                                    {% endfor %}
-                                </select>
                             </div>
-                            <button type="submit">Filtrar</button>
-                        </div>
-                    </form>
-                    <div id="grafico-presencas" style="width: 100%; min-width: 10vw;"></div>
-                    <span class="d-inline-block text-center" tabindex="0" data-bs-toggle="tooltip" data-bs-title="O indice de presença é calculado multiplicando a presença em eventos por um peso designado de acordo com a importância do evento.">
-                        <i class="bi bi-info-circle"></i>
-                    </span>
+                        </form>
+                        <div id="grafico-gastos" style="width: 50%; left: 10px;"></div>
+                    </div>
+                    <button type="submit">Filtrar</button>
+                    <a href="{{ url_for('download_csv', id_deputado=deputado['id'], despesa=tipo, mes=mes, ano_gasto=ano_gasto) }}"
+                        class="btn-baixar-csv">Baixar CSV</a>
+                </div>
+                </form>
+                <div id="grafico-gastos">
+                    <div class="container-presencas" style="margin-top: 10%;">
+                        <form method="get" id="filtro">
+                            <div class="filtros-area">
+                                <div class="entrada-dados">
+                                    <label>Ano: </label>
+                                    <select name="ano_evento">
+                                        <option value="" {% if not ano_evento %}selected{% endif %}>--</option>
+                                        {% for n in range(2023,2027) %}
+                                        <option value="{{ n }}" {% if n==ano_evento %}selected{% endif %}>{{ n }}
+                                        </option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                                <button type="submit">Filtrar</button>
+                            </div>
+                        </form>
+                        <div id="grafico-presencas" style="width: 100%"></div>
+                        <span class="d-inline-block text-center" tabindex="0" data-bs-toggle="tooltip"
+                            data-bs-title="O indice de presença é calculado multiplicando a presença em eventos por um peso designado de acordo com a importância do evento.">
+                            <i class="bi bi-info-circle"></i>
+                        </span>
+                    </div>
                 </div>
             </div>
-            <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-            <script>
-                var graficoGastos = {{ grafico_gastos | safe }};
-                Plotly.newPlot('grafico-gastos', graficoGastos.data, graficoGastos.layout);
+        </div>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script>
+            var graficoGastos = {{ grafico_gastos | safe }};
 
-                var graficoPresencas = {{ grafico_presencas | safe}};
-                Plotly.newPlot('grafico-presencas', graficoPresencas.data, graficoPresencas.layout)
+            graficoGastos.layout = {
+                ...graficoGastos.layout,
+                autosize: true,
+                margin: { l: 40, r: 20, t: 40, b: 40 }
+            };
 
-                const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-                const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-            </script>
+            Plotly.newPlot(
+                'grafico-gastos',
+                graficoGastos.data,
+                graficoGastos.layout,
+                {
+                    responsive: true,
+                    useResizeHandler: true
+                }
+            );
+
+
+            var graficoPresencas = {{ grafico_presencas | safe }};
+
+            graficoPresencas.layout = {
+                ...graficoPresencas.layout,
+                autosize: true,
+                margin: { l: 40, r: 20, t: 40, b: 40 }
+            };
+
+            Plotly.newPlot(
+                'grafico-presencas',
+                graficoPresencas.data,
+                graficoPresencas.layout,
+                {
+                    responsive: true,
+                    useResizeHandler: true
+                }
+            );
+
+
+            const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+            const tooltipList = [...tooltipTriggerList].map(
+                tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl)
+            );
+        </script>
         </div>
     </section>
 
