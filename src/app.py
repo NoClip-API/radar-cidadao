@@ -118,7 +118,7 @@ def page_deputado(id_deputado):
 
     votos = get_votos_deputado(id_deputado)
     grafico_gastos = get_grafico_gasto(id_deputado, tipo, mes, ano_gasto)
-
+    # print(tipo, mes, ano_gasto)
     grafico_presencas = get_grafico_presenca(id_deputado, ano_evento)
 
     return render_template("deputado.html", deputado=deputado, votos=votos, grafico_gastos=grafico_gastos, grafico_presencas=grafico_presencas, tipo=tipo, mes=mes, ano_gasto=ano_gasto, ano_evento=ano_evento)

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preview CSV - {{ deputado['nomeEleitoral'] }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base/global.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/deputado.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/preview.css')}}">
+</head>
+
+<body>
+    <div class="preview-container">
+        <div class="preview-header">
+            <h1>Preview de Gastos: {{ deputado['nomeEleitoral'] }}</h1>
+            <a href="{{ url_for('page_deputado', id_deputado=deputado['id']) }}" class="btn-back">← Voltar para Perfil</a>
+        </div>
+
+        <p class="info-text">Exibindo as primeiras 15 de {{ total_gastos }} linhas do arquivo CSV.</p>
+
+        <div class="preview-table-wrapper">
+            <table class="preview-table">
+                <thead>
+                    <tr>
+                        {% if gastos %}
+                            {% for key in gastos[0].keys() %}
+                                <th>{{ key }}</th>
+                            {% endfor %}
+                        {% endif %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for gasto in gastos %}
+                    <tr>
+                        {% for value in gasto.values() %}
+                            <td>{{ value }}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div style="text-align: right;">
+            <a href="{{ url_for('download_csv_file', id_deputado=deputado['id'], despesa=tipo, mes=mes, ano_gasto=ano_gasto) }}" class="btn-download">Baixar CSV Completo</a>
+        </div>
+    </div>
+</body>
+
+</html>
+

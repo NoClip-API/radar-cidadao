@@ -15,10 +15,7 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #0047ab 0%, #002d6b 100%);
-    color: #288eb6;
-    padding: 32px 5%;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 1%;
 }
 
 .topo-pagina {
@@ -35,6 +32,8 @@ header {
     justify-content: center;
     align-content: center;
     color: white;
+    background: #513dff;
+    background: linear-gradient(79deg, rgba(81, 61, 255, 0.3) 0%, rgba(242, 242, 242, 0.25) 100%);
 }
 
 a {
@@ -53,7 +52,8 @@ header h1 {
     text-transform: uppercase;
 }
 
-h1, h2 {
+h1,
+h2 {
     color: #333;
 }
 
@@ -105,7 +105,7 @@ main {
     background: white;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .comparar-form input {
@@ -128,11 +128,14 @@ main {
 .comparar-form button:hover {
     background-color: #002d6b;
 }
+
 .charts-container {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     gap: 20px;
+    padding: 1%;
+    border-radius: 10px;
 }
 
 .chart-wrapper {
@@ -141,12 +144,16 @@ main {
     background: white;
     padding: 10px;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     overflow-x: auto;
 }
 
 .chart {
     min-width: 800px;
+}
+
+footer {
+    margin-top: 20%;
 }
 
 @media (max-width: 768px) {

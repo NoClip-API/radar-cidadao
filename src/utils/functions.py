@@ -127,9 +127,13 @@ def get_grafico_gasto(deputado_id, tipo=None, mes=None, ano_gasto=None):
             dtick=100000,
             tickformat=".2f"
         ),
-        yaxis_title="Tipo de Despesa",
-        height=500,
-        width=900
+
+        yaxis=dict(
+            title="Tipo de Despesa",
+            tickfont=dict(size=10)  # diminui a fonte
+        ),
+        height=400,
+        width=700
     )
 
     return pio.to_json(fig)
@@ -215,8 +219,9 @@ def get_grafico_presenca(deputado_id, ano_evento=None):
             dtick=10 if ano_evento else 100,
             tickformat=".1f"
         ),
-        height=600,
-        width=800
+
+        height=500,
+        width=500
     )
 
     return pio.to_json(fig)
