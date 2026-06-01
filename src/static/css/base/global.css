@@ -58,6 +58,7 @@ header {
     align-items: center;
     align-self: center;
     color: white;
+    background: linear-gradient(79deg, rgba(81, 61, 255, 0.3) 0%, rgba(242, 242, 242, 0.25) 100%);
 }
 
 header a {

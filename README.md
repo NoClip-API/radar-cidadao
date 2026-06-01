@@ -38,7 +38,6 @@ O foco principal é auxiliar eleitores, jornalistas e educadores a avaliar o des
 ---
 
 # **Equipe**
-
 |    Função         | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :---------------: | :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   Product Owner   |   Vitor Assis    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorAssisHasmanDiniz)|
@@ -47,7 +46,7 @@ O foco principal é auxiliar eleitores, jornalistas e educadores a avaliar o des
 |   Dev             |   Gabriel        |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
 |   Dev             |   Maurício       |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
 |   Dev             |   Nikson         |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
-|   Dev             |   Pedro Rodrigues          |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rodrigues-aa7001274) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroprdgs)|
+|   Dev             |   Pedro Rodrigues          |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/pedro-rodrigues-aa7001274) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroprdgs)|
 |   Dev             |   Rafael         |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
 |   Dev             |   Vinícius           |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
 
@@ -56,25 +55,27 @@ O foco principal é auxiliar eleitores, jornalistas e educadores a avaliar o des
 
 # **Product Backlog**
 
-| Rank | Prioridade       | User Story                                                                                                                        | Estimativa | Sprint |
-|------|------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta (Meta)      | Como eleitor, quero ver os dados dos deputados a partir dos dados da Câmara para saber como o deputado está.                      | 5          | 1      |
-| 2    | Alta (Meta)      | Como jornalista, quero visualizar gráficos exploratórios iniciais para identificar tendências de desempenho.                      | 3          | 1      |
-| 3    | Alta (Meta)      | Como eleitor, quero uma lista com as fotos dos deputados como principal meio de busca para facilitar a minha vida.                | 8          | 2      |
-| 4    | Alta (Meta)      | Como eleitor, quero uma síntese objetiva da participação em votações para decidir sobre a reeleição de um deputado.               | 5          | 2      |
-| 5    | Alta             | Como eleitor, quero filtrar deputados por estado ou partido para localizar candidatos da minha região.                            | 3          | 2      |
-| 6    | Média            | Como jornalista, quero comparar a média de gastos de um deputado com a média estadual para contextualizar as despesas.            | 8          | 2      |
-| 7    | Alta (Meta)      | Como professora, quero acessar dados neutros e organizados para ensinar cidadania baseada em fatos.                               | 2          | 3      |
+| Rank  | Prioridade       | User Story                                                                                                                                  | Estimativa | Sprint |
+|-------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 01    | Alta (Meta)      | Como eleitor, quero ver os dados dos deputados a partir dos dados da Câmara para saber como o deputado está.                                | 5          | 1      |
+| 02    | Alta (Meta)      | Como jornalista, quero visualizar gráficos exploratórios iniciais para identificar tendências de desempenho.                                | 3          | 1      |
+| 03    | Alta (Meta)      | Como eleitor, quero uma lista com as fotos dos deputados como principal meio de busca para facilitar a minha vida.                          | 8          | 2      |
+| 04    | Alta (Meta)      | Como eleitor, quero uma síntese objetiva da participação em votações para decidir sobre a reeleição de um deputado.                         | 5          | 2      |
+| 05    | Alta             | Como eleitor, quero filtrar deputados por estado ou partido para localizar candidatos da minha região.                                      | 3          | 2      |
+| 06    | Média            | Como jornalista, quero comparar a média de gastos de um deputado com a média estadual para contextualizar as despesas.                      | 8          | 2      |
+| 07    | Média            | Como professora, quero acessar os dados em meu computador para usar nas minhas aulas                                                        | 8          | 3      |
+| 08    | Alta (Meta)      | Como eleitor, quero filtrar as despesas, votos e presença do deputado em seu perfil para analisar sua performance de forma mais específica. | 5          | 3      |
+| 09    | Baixa            | Como jornalista, quero acesso ao comprovante do gasto do deputado para verificar a legitimidade do gasto                                    | 5          | 3      |
 
-| Rank | Prioridade       | Tarefa                                                                                                                            | Estimativa | Sprint |
-|------|------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta (Meta)      | Como analista, quero realizar a limpeza e tratamento dos dados no Google Colab para assegurar a neutralidade da análise.          | 8          | 1      |
-| 2    | Alta (Meta)      | Design: Criar o esboço inicial (wireframe) do site em Flask, mesmo que sem dados dinâmicos ainda.                                 | 3          | 1      |
-| 3    | Alta (Meta)      | Arquitetura: Configurar as rotas do Flask para realizar requisições diretas à API sem persistência em banco local.                | 8          | 2      |
-| 4    | Alta (Meta)      | Redigir a explicação metodológica detalhando como os indicadores foram calculados.                                                | 3          | 3      |
-| 5    | Alta             | Organizar o repositório no GitHub com README, scripts de análise e instruções de execução.                                        | 3          | 3      |
-| 6    | Baixa            | Design: Refinar a tipografia e iconografia para tornar a leitura técnica mais acessível ao público leigo.                         | 3          | 3      |
-| 7    | Média            | Preparar a apresentação final respondendo aos aprendizados e limitações do projeto.                                               | 5          | 3      |
+
+| Rank  | Prioridade       | Tarefa                                                                                                                            | Estimativa | Sprint |
+|-------|------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 01    | Alta (Meta)      | Como analista, quero realizar a limpeza e tratamento dos dados no Google Colab para assegurar a neutralidade da análise.          | 8          | 1      |
+| 02    | Alta (Meta)      | Design: Criar o esboço inicial (wireframe) do site em Flask, mesmo que sem dados dinâmicos ainda.                                 | 3          | 1      |
+| 03    | Alta (Meta)      | Arquitetura: Configurar as rotas do Flask para realizar requisições diretas à API.                                                | 8          | 2      |
+| 04    | Alta (Meta)      | Arquitetura: Implementar banco de dados para os gastos, presença, ementas e votações                                              | 13         | 3      |
+| 05    | Média             | Função: Implementar comparação do deputado com a média de seu ou outro partido e estado.                                         | 8          | 3      |
+
 
 ---
 
@@ -83,6 +84,6 @@ O foco principal é auxiliar eleitores, jornalistas e educadores a avaliar o des
 | Sprint            | Previsão   | Status     | Histórico |
 |-------------------|------------|------------|-----------|
 | 01                | 05/04/2026 | concluída  | [MVP](MVP/Sprint-1.md)  |
-| 02                | 03/05/2026 | a fazer    | [MVP](MVP/Sprint-2.md)  |
-| 03                | 31/05/2026 | a fazer    | [MVP](MVP/Sprint-3.md)  |
-| Feira de Soluções | 18/06/2026 | a fazer    | |
+| 02                | 03/05/2026 | concluída  | [MVP](MVP/Sprint-2.md)  |
+| 03                | 31/05/2026 | concluída  | [MVP](MVP/Sprint-3.md)  |
+| Feira de Soluções | 25/06/2026 | a fazer    | |

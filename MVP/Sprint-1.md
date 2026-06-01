@@ -25,12 +25,32 @@ Persona 2: Carlos Menezes (Jornalista Local)
 - Descrição: Precisa avaliar rapidamente o desempenho de políticos de sua região.
 - Necessidades/Dores: Enfrenta dados complexos e espalhados; o MVP resolve isso ao centralizar a coleta via API e permitir a visualização de tendências através de gráficos comparativos iniciais.
 
+## Definition of Ready (DoR)
+
+Para que uma User Story seja considerada pronta para a Sprint, ela deve:
+- **Formato Padrão:** Seguir a estrutura "Como [persona], eu quero [funcionalidade], para que [valor de negócio]".
+- **Critérios de Aceitação:** Possuir no mínimo 3 critérios de aceitação claros e testáveis.
+- **Mapeamento de Dados:** Identificar os endpoints específicos da API da Câmara (JSON) que serão consumidos.
+- **Rigor Metodológico:** Definir a fórmula matemática ou lógica de tratamento para evitar viés político.
+- **Esforço Estimado:** Ter sido pontuada pela equipe utilizando Planning Poker.
+- **Dependências:** Estar com o ambiente de desenvolvimento (Google Colab/Python) configurado.
+
+## Definition of Done (DoD)
+
+Para que uma entrega seja considerada finalizada, ela deve:
+- **Funcionalidade:** Atender integralmente a todos os critérios de aceitação.
+- **Qualidade de Código:** Passar por revisão de pares (Code Review) focada em legibilidade e eficiência.
+- **Neutralidade Técnica:** Não conter adjetivos ou opiniões pessoais nos logs, comentários ou saída de dados.
+- **Documentação:** Possuir docstrings em todas as funções de tratamento de dados.
+- **Controle de Versão:** Código commitado, com mensagem clara, e aprovado em Pull Request no GitHub.
+- **Validação do PO:** Ser apresentada e validada pelo Product Owner quanto ao valor entregue.
+
 ## User Stories (Backlog do MVP)
 
-| ID | User Story                                                                                                                            | Prioridade  | Estimativa |
-| -- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
-|US1 | Como eleitor, quero ver os dados dos deputados a partir dos dados da Câmara para saber como o deputado está.                          | Alta (meta) | 5          |
-|US2 |  Como jornalista, quero visualizar gráficos de número de deputados por partido e de gastos para identificar tendências de desempenho. | Alta (meta) | 5          |
+| ID | User Story | Prioridade | Est. | Definition of Ready (DoR) | Definition of Done (DoD) |
+|---|---|---|---|---|---|
+| US1 | Como eleitor, quero ver os dados dos deputados para saber como o deputado está. | Alta | 5 | Endpoint `/deputados` validado; Mockup da home definido. | Lista renderizada via Flask; Dados de nome/partido extraídos do JSON. |
+| US2 | Como jornalista, quero visualizar gráficos de deputados e gastos para identificar tendências. | Alta | 5 | Biblioteca Plotly/Matplotlib configurada; Script de limpeza pronto. | Gráficos gerados no Colab respondendo à pergunta investigativa. |
 
 ## Critérios de Aceitação
 

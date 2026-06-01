@@ -32,6 +32,7 @@ nav{
     padding: 1rem 2rem;
     gap: 20%;
     border-radius: 15px;
+    background: linear-gradient(79deg, rgba(81, 61, 255, 0.3) 0%, rgba(242, 242, 242, 0.25) 100%);
 }
 
 

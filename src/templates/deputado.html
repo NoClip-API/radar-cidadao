@@ -24,9 +24,9 @@
         <div class="topo-pagina">
             <h1>Radar Cidadão</h1>
         </div>
-        <nav>
-            <a href="/graficos">Gráficos</a>
+        <nav class="topo-pagina-subtexto">
             <a href="/">Home</a>
+            <a href="/graficos">Gráficos</a>
         </nav>
     </header>
     <section>
@@ -118,87 +118,72 @@
                                     </select>
                                 </div>
                                 <button type="submit">Filtrar</button>
+                                <a href="{{ url_for('download_csv', id_deputado=deputado['id'], despesa=tipo, mes=mes, ano_gasto=ano_gasto) }}"
+                                    class="btn-baixar-csv">Baixar CSV</a>
                             </div>
                         </form>
-                        <div id="grafico-gastos" style="width: 50%; left: 10px;"></div>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div id="grafico-gastos"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <div id="grafico-comp-gastos"></div>
+                            </div>
+                        </div>
                     </div>
-                    <button type="submit">Filtrar</button>
-                    <a href="{{ url_for('download_csv', id_deputado=deputado['id'], despesa=tipo, mes=mes, ano_gasto=ano_gasto) }}"
-                        class="btn-baixar-csv">Baixar CSV</a>
                 </div>
-                </form>
-                <div id="grafico-gastos">
-                    <div class="container-presencas" style="margin-top: 10%;">
-                        <form method="get" id="filtro">
-                            <div class="filtros-area">
-                                <div class="entrada-dados">
-                                    <label>Ano: </label>
-                                    <select name="ano_evento">
-                                        <option value="" {% if not ano_evento %}selected{% endif %}>--</option>
-                                        {% for n in range(2023,2027) %}
-                                        <option value="{{ n }}" {% if n==ano_evento %}selected{% endif %}>{{ n }}
-                                        </option>
-                                        {% endfor %}
-                                    </select>
-                                </div>
-                                <button type="submit">Filtrar</button>
+
+                <div class="container-presencas" style="margin-top: 5%;">
+                    <form method="get" id="filtro-presenca">
+                        <div class="filtros-area">
+                            <div class="entrada-dados">
+                                <label>Ano: </label>
+                                <select name="ano_evento">
+                                    <option value="" {% if not ano_evento %}selected{% endif %}>--</option>
+                                    {% for n in range(2023,2027) %}
+                                    <option value="{{ n }}" {% if n==ano_evento %}selected{% endif %}>{{ n }}
+                                    </option>
+                                    {% endfor %}
+                                </select>
                             </div>
-                        </form>
-                        <div id="grafico-presencas" style="width: 100%"></div>
-                        <span class="d-inline-block text-center" tabindex="0" data-bs-toggle="tooltip"
-                            data-bs-title="O indice de presença é calculado multiplicando a presença em eventos por um peso designado de acordo com a importância do evento.">
-                            <i class="bi bi-info-circle"></i>
-                        </span>
-                    </div>
+                            <button type="submit">Filtrar</button>
+                        </div>
+                    </form>
+                    <div id="grafico-presencas" style="width: 100%"></div>
+                    <span class="d-inline-block text-center" tabindex="0" data-bs-toggle="tooltip"
+                        data-bs-title="O indice de presença é calculado multiplicando a presença em eventos por um peso designado de acordo com a importância do evento.">
+                        <i class="bi bi-info-circle"></i>
+                    </span>
                 </div>
             </div>
         </div>
         <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
         <script>
-            var graficoGastos = {{ grafico_gastos | safe }};
+            var config = { responsive: true, useResizeHandler: true };
 
-            graficoGastos.layout = {
-                ...graficoGastos.layout,
-                autosize: true,
-                margin: { l: 40, r: 20, t: 40, b: 40 }
-            };
+            var graficoGastos = {{ grafico_gastos | safe if grafico_gastos else 'null' }};
+            if (graficoGastos) {
+                graficoGastos.layout.autosize = true;
+                Plotly.newPlot('grafico-gastos', graficoGastos.data, graficoGastos.layout, config);
+            }
 
-            Plotly.newPlot(
-                'grafico-gastos',
-                graficoGastos.data,
-                graficoGastos.layout,
-                {
-                    responsive: true,
-                    useResizeHandler: true
-                }
-            );
+            var graficoCompGastos = {{ grafico_comp_gastos | safe if grafico_comp_gastos else 'null' }};
+            if (graficoCompGastos) {
+                graficoCompGastos.layout.autosize = true;
+                Plotly.newPlot('grafico-comp-gastos', graficoCompGastos.data, graficoCompGastos.layout, config);
+            }
 
-
-            var graficoPresencas = {{ grafico_presencas | safe }};
-
-            graficoPresencas.layout = {
-                ...graficoPresencas.layout,
-                autosize: true,
-                margin: { l: 40, r: 20, t: 40, b: 40 }
-            };
-
-            Plotly.newPlot(
-                'grafico-presencas',
-                graficoPresencas.data,
-                graficoPresencas.layout,
-                {
-                    responsive: true,
-                    useResizeHandler: true
-                }
-            );
-
+            var graficoPresencas = {{ grafico_presencas | safe if grafico_presencas else 'null' }};
+            if (graficoPresencas) {
+                graficoPresencas.layout.autosize = true;
+                Plotly.newPlot('grafico-presencas', graficoPresencas.data, graficoPresencas.layout, config);
+            }
 
             const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
             const tooltipList = [...tooltipTriggerList].map(
                 tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl)
             );
         </script>
-        </div>
     </section>
 
 </body>

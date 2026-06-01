@@ -26,14 +26,34 @@ Persona 2: Carlos Menezes (Jornalista Local)
 - Descrição: Precisa avaliar rapidamente o desempenho de políticos de sua região.
 - Necessidades/Dores: Precisa comparar o custo de um deputado com a média regional. A Sprint 2 resolve isso com os cálculos comparativos e filtros por estado.
 
+## Definition of Ready (DoR)
+
+Para que uma User Story seja considerada pronta para a Sprint, ela deve:
+- **Formato Padrão:** Seguir a estrutura "Como [persona], eu quero [funcionalidade], para que [valor de negócio]".
+- **Critérios de Aceitação:** Possuir no mínimo 3 critérios de aceitação claros e testáveis.
+- **Mapeamento de Dados:** Identificar os endpoints específicos da API da Câmara (JSON) que serão consumidos.
+- **Rigor Metodológico:** Definir a fórmula matemática ou lógica de tratamento para evitar viés político.
+- **Esforço Estimado:** Ter sido pontuada pela equipe utilizando Planning Poker.
+- **Dependências:** Estar com o ambiente de desenvolvimento (Google Colab/Python) configurado.
+
+## Definition of Done (DoD)
+
+Para que uma entrega seja considerada finalizada, ela deve:
+- **Funcionalidade:** Atender integralmente a todos os critérios de aceitação.
+- **Qualidade de Código:** Passar por revisão de pares (Code Review) focada em legibilidade e eficiência.
+- **Neutralidade Técnica:** Não conter adjetivos ou opiniões pessoais nos logs, comentários ou saída de dados.
+- **Documentação:** Possuir docstrings em todas as funções de tratamento de dados.
+- **Controle de Versão:** Código commitado, com mensagem clara, e aprovado em Pull Request no GitHub.
+- **Validação do PO:** Ser apresentada e validada pelo Product Owner quanto ao valor entregue.
+
 ## User Stories (Backlog do MVP - Sprint 2)
 
-| ID | User Story                                                                                                                            | Prioridade  | Estimativa |
-| -- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
-| US3 | Como eleitor, quero uma lista com as fotos dos deputados como principal meio de busca para facilitar a minha vida.                     | Alta (meta) | 8          |
-| US4 | Como eleitor, quero uma síntese objetiva da participação em votações para decidir sobre a reeleição de um deputado.                    | Alta (meta) | 5          |
-| US5 | Como eleitor, quero filtrar deputados por estado ou partido para localizar candidatos da minha região.                                 | Alta        | 3          |
-| US6 | Como jornalista, quero comparar a média de gastos de um deputado com a média estadual para contextualizar as despesas.                 | Média       | 8          |
+| ID | User Story | Prioridade | Est. | Definition of Ready (DoR) | Definition of Done (DoD) |
+|---|---|---|---|---|---|
+| US3 | Como eleitor, quero uma lista com as fotos dos deputados para facilitar a busca visual. | Alta | 8 | URL das imagens mapeada no JSON; Template HTML da galeria pronto. | Fotos exibidas corretamente na galeria com fallback para imagens ausentes. |
+| US4 | Como eleitor, quero uma síntese objetiva da participação em votações. | Alta | 5 | Acesso ao endpoint `/votacoes`; Lógica de contagem de presença definida. | Resumo visual de presença e votos exibido na página do deputado. |
+| US5 | Como eleitor, quero filtrar deputados por estado ou partido. | Alta | 3 | Lógica de filtragem em Python/Flask testada; Inputs do formulário definidos. | Filtros dinâmicos funcionando e atualizando a galeria em tempo real. |
+| US6 | Como jornalista, quero comparar a média de gastos do deputado com a média estadual. | Média | 8 | Base de dados de gastos de todos os deputados processada; Fórmula de média pronta. | Gráfico comparativo exibindo gasto individual vs média do estado. |
 
 ## Critérios de Aceitação
 

@@ -82,6 +82,31 @@ def get_votos_deputado(deputado_id):
     votos = fetch_data(query, (deputado_id,))
     return votos
 
+def get_media_gastos_estado(sigla_uf, tipo=None, mes=None, ano_gasto=None):
+    query = """
+        SELECT AVG(total_deputado) as media FROM (
+            SELECT SUM(valorDocumento) as total_deputado 
+            FROM gastos g
+            JOIN deputados d ON g.deputado_id = d.id
+            WHERE d.siglaUf = %s
+    """
+    parametros = [sigla_uf]
+    
+    if tipo:
+        query += " AND g.tipoDespesa LIKE %s"
+        parametros.append(f"%{tipo}%")
+    if mes:
+        query += " AND g.mes = %s"
+        parametros.append(mes)
+    if ano_gasto:
+        query += " AND g.ano = %s"
+        parametros.append(ano_gasto)
+        
+    query += " GROUP BY d.id) as subquery"
+    
+    result = fetch_data(query, parametros)
+    return float(result[0]['media']) if result and result[0]['media'] else 0
+
 # Funções dos gráficos
 def get_grafico_gasto(deputado_id, tipo=None, mes=None, ano_gasto=None):
     query = """SELECT tipoDespesa, SUM(valorDocumento) as total FROM gastos
@@ -136,6 +161,54 @@ def get_grafico_gasto(deputado_id, tipo=None, mes=None, ano_gasto=None):
         width=700
     )
 
+    return pio.to_json(fig)
+
+def get_grafico_comparativo_gastos(deputado_id, tipo=None, mes=None, ano_gasto=None):
+    deputado = get_deputado_by_id(deputado_id)
+    if not deputado:
+        return None
+        
+    query = "SELECT SUM(valorDocumento) as total FROM gastos WHERE deputado_id = %s"
+    parametros = [deputado_id]
+    
+    if tipo:
+        query += " AND tipoDespesa LIKE %s"
+        parametros.append(f"%{tipo}%")
+    if mes:
+        query += " AND mes = %s"
+        parametros.append(mes)
+    if ano_gasto:
+        query += " AND ano = %s"
+        parametros.append(ano_gasto)
+        
+    gasto_deputado_res = fetch_data(query, parametros)
+    gasto_deputado = float(gasto_deputado_res[0]['total']) if gasto_deputado_res and gasto_deputado_res[0]['total'] else 0
+    
+    gasto_medio_estado = get_media_gastos_estado(deputado['siglaUf'], tipo, mes, ano_gasto)
+    
+    fig = go.Figure(data=[
+        go.Bar(
+            name=deputado['nomeEleitoral'],
+            x=['Comparativo Total'],
+            y=[gasto_deputado],
+            marker_color='#0047ab'
+        ),
+        go.Bar(
+            name=f'Média {deputado["siglaUf"]}',
+            x=['Comparativo Total'],
+            y=[gasto_medio_estado],
+            marker_color='#cccccc'
+        )
+    ])
+    
+    fig.update_layout(
+        title=f"Gastos: {deputado['nomeEleitoral']} vs Média {deputado['siglaUf']}",
+        yaxis=dict(title="Valor (R$)", tickformat=".2f"),
+        barmode='group',
+        height=400,
+        width=400
+    )
+    
     return pio.to_json(fig)
 
 def get_grafico_presenca(deputado_id, ano_evento=None):
