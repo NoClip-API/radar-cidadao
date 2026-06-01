@@ -56,3 +56,10 @@ Para que uma entrega seja considerada finalizada, ela deve:
 ## Métricas de Validação
 
 - Consistência Visual: 100% das páginas devem seguir o mesmo padrão de design e navegação.
+
+## Anexos / Evidências
+
+| Descrição | Link / Anexo |
+| --------- | ---------- |
+| Repositório GitHub | https://github.com/NoClip-API/radar-cidadao |
+| Google Colab | https://colab.research.google.com/drive/1cnfTIuEFLwqLYviIGmjA7siY875VRcC8?usp=sharing |
